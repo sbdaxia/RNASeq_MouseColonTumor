@@ -1,0 +1,19 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CX3CL1	C-X3-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:10647]	null	null	174	0.7140886783599854	0.07594946	No	
+row_1	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	null	null	262	0.6327979564666748	0.1496687	No	
+row_2	MMP2	matrix metallopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:7166]	null	null	3087	0.14643868803977966	-0.10099497	No	
+row_3	VCAM1	vascular cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:12663]	null	null	4563	0.03894997760653496	-0.23678443	No	
+row_4	NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	null	null	8003	-0.1959882378578186	-0.53974766	No	
+row_5	BCL2L11	BCL2 like 11 [Source:HGNC Symbol;Acc:HGNC:994]	null	null	8498	-0.23739604651927948	-0.5561442	No	
+row_6	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	null	null	9311	-0.33559533953666687	-0.5901754	Yes	
+row_7	EIF2AK2	eukaryotic translation initiation factor 2 alpha kinase 2 [Source:HGNC Symbol;Acc:HGNC:9437]	null	null	9440	-0.3592117428779602	-0.55583453	Yes	
+row_8	IRF7	interferon regulatory factor 7 [Source:HGNC Symbol;Acc:HGNC:6122]	null	null	9688	-0.4068663716316223	-0.52667904	Yes	
+row_9	DDIT3	DNA damage inducible transcript 3 [Source:HGNC Symbol;Acc:HGNC:2726]	null	null	9908	-0.4580710232257843	-0.48821256	Yes	
+row_10	STAT2	signal transducer and activator of transcription 2 [Source:HGNC Symbol;Acc:HGNC:11363]	null	null	9932	-0.4625176787376404	-0.4304549	Yes	
+row_11	IRF1	interferon regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:6116]	null	null	10052	-0.49332940578460693	-0.37786973	Yes	
+row_12	NOS2	nitric oxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:7873]	null	null	10062	-0.4964844584465027	-0.3143724	Yes	
+row_13	CXCL10	C-X-C motif chemokine ligand 10 [Source:HGNC Symbol;Acc:HGNC:10637]	null	null	10122	-0.5212452411651611	-0.25243962	Yes	
+row_14	MX1	MX dynamin like GTPase 1 [Source:HGNC Symbol;Acc:HGNC:7532]	null	null	10154	-0.5333743691444397	-0.18626106	Yes	
+row_15	RSAD2	radical S-adenosyl methionine domain containing 2 [Source:HGNC Symbol;Acc:HGNC:30908]	null	null	10212	-0.5555347204208374	-0.11969255	Yes	
+row_16	CFB	complement factor B [Source:HGNC Symbol;Acc:HGNC:1037]	null	null	10217	-0.5576397776603699	-0.047790535	Yes	
+row_17	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	null	null	10237	-0.5690438151359558	0.02415747	Yes	

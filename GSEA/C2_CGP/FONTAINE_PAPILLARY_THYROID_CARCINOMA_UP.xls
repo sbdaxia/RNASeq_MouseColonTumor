@@ -1,0 +1,48 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ETV4	ETS variant transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:3493]	null	null	45	0.9802276492118835	0.06385806	Yes	
+row_1	SCEL	sciellin [Source:HGNC Symbol;Acc:HGNC:10573]	null	null	60	0.9215428829193115	0.12660329	Yes	
+row_2	KRT18	keratin 18 [Source:HGNC Symbol;Acc:HGNC:6430]	null	null	280	0.6201552152633667	0.148761	Yes	
+row_3	S100A10	S100 calcium binding protein A10 [Source:HGNC Symbol;Acc:HGNC:10487]	null	null	321	0.5963250398635864	0.18640055	Yes	
+row_4	NIPAL3	NIPA like domain containing 3 [Source:HGNC Symbol;Acc:HGNC:25233]	null	null	346	0.5751957297325134	0.2241027	Yes	
+row_5	SPP1	secreted phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11255]	null	null	360	0.5691260099411011	0.262436	Yes	
+row_6	ABCC3	ATP binding cassette subfamily C member 3 [Source:HGNC Symbol;Acc:HGNC:54]	null	null	443	0.5324574708938599	0.29161263	Yes	
+row_7	CTTN	cortactin [Source:HGNC Symbol;Acc:HGNC:3338]	null	null	524	0.503619909286499	0.31897533	Yes	
+row_8	PDLIM1	PDZ and LIM domain 1 [Source:HGNC Symbol;Acc:HGNC:2067]	null	null	578	0.4840499460697174	0.34756234	Yes	
+row_9	KLF4	Kruppel like factor 4 [Source:HGNC Symbol;Acc:HGNC:6348]	null	null	694	0.4480924904346466	0.36771238	Yes	
+row_10	SLPI	secretory leukocyte peptidase inhibitor [Source:HGNC Symbol;Acc:HGNC:11092]	null	null	696	0.44778871536254883	0.39875665	Yes	
+row_11	TMEM45B	transmembrane protein 45B [Source:HGNC Symbol;Acc:HGNC:25194]	null	null	862	0.41050204634666443	0.41150513	Yes	
+row_12	VTI1A	vesicle transport through interaction with t-SNAREs 1A [Source:HGNC Symbol;Acc:HGNC:17792]	null	null	886	0.40511974692344666	0.43747565	Yes	
+row_13	PITPNA	phosphatidylinositol transfer protein alpha [Source:HGNC Symbol;Acc:HGNC:9001]	null	null	900	0.4020438492298126	0.46418977	Yes	
+row_14	ECM1	extracellular matrix protein 1 [Source:HGNC Symbol;Acc:HGNC:3153]	null	null	961	0.39107546210289	0.4856409	Yes	
+row_15	CTNNA1	catenin alpha 1 [Source:HGNC Symbol;Acc:HGNC:2509]	null	null	1223	0.3479597568511963	0.48484823	Yes	
+row_16	HSPB7	heat shock protein family B (small) member 7 [Source:HGNC Symbol;Acc:HGNC:5249]	null	null	1392	0.32229626178741455	0.49117547	Yes	
+row_17	SLC22A18	solute carrier family 22 member 18 [Source:HGNC Symbol;Acc:HGNC:10964]	null	null	2357	0.20817497372627258	0.41335052	No	
+row_18	PLXNB2	plexin B2 [Source:HGNC Symbol;Acc:HGNC:9104]	null	null	3159	0.14098897576332092	0.3464604	No	
+row_19	VCL	vinculin [Source:HGNC Symbol;Acc:HGNC:12665]	null	null	3529	0.11347626894712448	0.31902045	No	
+row_20	CD47	CD47 molecule [Source:HGNC Symbol;Acc:HGNC:1682]	null	null	3559	0.11161401867866516	0.32400557	No	
+row_21	KCNK5	potassium two pore domain channel subfamily K member 5 [Source:HGNC Symbol;Acc:HGNC:6280]	null	null	4156	0.06767412275075912	0.2716455	No	
+row_22	NOTCH1	notch receptor 1 [Source:HGNC Symbol;Acc:HGNC:7881]	null	null	4280	0.05901917815208435	0.2639727	No	
+row_23	SENP6	SUMO specific peptidase 6 [Source:HGNC Symbol;Acc:HGNC:20944]	null	null	4413	0.04912228137254715	0.2547499	No	
+row_24	HCLS1	hematopoietic cell-specific Lyn substrate 1 [Source:HGNC Symbol;Acc:HGNC:4844]	null	null	4726	0.03083202615380287	0.2270204	No	
+row_25	CCND3	cyclin D3 [Source:HGNC Symbol;Acc:HGNC:1585]	null	null	4837	0.023096373304724693	0.2180942	No	
+row_26	MLLT1	MLLT1 super elongation complex subunit [Source:HGNC Symbol;Acc:HGNC:7134]	null	null	5062	0.00817789975553751	0.19721518	No	
+row_27	CD63	CD63 molecule [Source:HGNC Symbol;Acc:HGNC:1692]	null	null	5334	-0.01001519151031971	0.17196375	No	
+row_28	PDCD4	programmed cell death 4 [Source:HGNC Symbol;Acc:HGNC:8763]	null	null	6806	-0.10609351843595505	0.038495254	No	
+row_29	LGALS3BP	galectin 3 binding protein [Source:HGNC Symbol;Acc:HGNC:6564]	null	null	7170	-0.1332923322916031	0.013007837	No	
+row_30	SNRPG	small nuclear ribonucleoprotein polypeptide G [Source:HGNC Symbol;Acc:HGNC:11163]	null	null	7195	-0.13443800806999207	0.020058922	No	
+row_31	ZNF217	zinc finger protein 217 [Source:HGNC Symbol;Acc:HGNC:13009]	null	null	7393	-0.15001168847084045	0.011628495	No	
+row_32	IGF2BP2	insulin like growth factor 2 mRNA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:28867]	null	null	7420	-0.15165238082408905	0.019685201	No	
+row_33	NACC1	nucleus accumbens associated 1 [Source:HGNC Symbol;Acc:HGNC:20967]	null	null	7461	-0.15565703809261322	0.026679914	No	
+row_34	KPNA2	karyopherin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6395]	null	null	7688	-0.1718764305114746	0.016993286	No	
+row_35	CITED1	Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 1 [Source:HGNC Symbol;Acc:HGNC:1986]	null	null	7689	-0.17189010977745056	0.028946828	No	
+row_36	RPS6KA2	ribosomal protein S6 kinase A2 [Source:HGNC Symbol;Acc:HGNC:10431]	null	null	8487	-0.2362065315246582	-0.030938713	No	
+row_37	ILF2	interleukin enhancer binding factor 2 [Source:HGNC Symbol;Acc:HGNC:6037]	null	null	8491	-0.23647794127464294	-0.014780867	No	
+row_38	FUS	FUS RNA binding protein [Source:HGNC Symbol;Acc:HGNC:4010]	null	null	8596	-0.24845054745674133	-0.007461048	No	
+row_39	DPP4	dipeptidyl peptidase 4 [Source:HGNC Symbol;Acc:HGNC:3009]	null	null	8787	-0.2695419192314148	-0.0069088917	No	
+row_40	CCNE1	cyclin E1 [Source:HGNC Symbol;Acc:HGNC:1589]	null	null	8870	-0.2803361117839813	0.0047347764	No	
+row_41	NELFA	negative elongation factor complex member A [Source:HGNC Symbol;Acc:HGNC:12768]	null	null	8936	-0.2870815694332123	0.018475266	No	
+row_42	GATB	glutamyl-tRNA amidotransferase subunit B [Source:HGNC Symbol;Acc:HGNC:8849]	null	null	9186	-0.3180118203163147	0.016748928	No	
+row_43	RBBP4	RB binding protein 4, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:9887]	null	null	9199	-0.31896889209747314	0.0377816	No	
+row_44	ARMCX3	armadillo repeat containing X-linked 3 [Source:HGNC Symbol;Acc:HGNC:24065]	null	null	9517	-0.3715006411075592	0.033264056	No	
+row_45	COX15	cytochrome c oxidase assembly homolog COX15 [Source:HGNC Symbol;Acc:HGNC:2263]	null	null	9639	-0.395050048828125	0.04915093	No	
+row_46	PSAT1	phosphoserine aminotransferase 1 [Source:HGNC Symbol;Acc:HGNC:19129]	null	null	9937	-0.4635433554649353	0.05294917	No	

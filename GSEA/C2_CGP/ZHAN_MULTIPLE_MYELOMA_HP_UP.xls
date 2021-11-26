@@ -1,0 +1,30 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CSNK1G3	casein kinase 1 gamma 3 [Source:HGNC Symbol;Acc:HGNC:2456]	null	null	1348	0.32892826199531555	-0.08797614	No	
+row_1	POLR1D	RNA polymerase I and III subunit D [Source:HGNC Symbol;Acc:HGNC:20422]	null	null	1739	0.2748044729232788	-0.09110798	No	
+row_2	RPL37	ribosomal protein L37 [Source:HGNC Symbol;Acc:HGNC:10347]	null	null	1821	0.26485633850097656	-0.06594046	No	
+row_3	FCHSD2	FCH and double SH3 domains 2 [Source:HGNC Symbol;Acc:HGNC:29114]	null	null	1927	0.2508450746536255	-0.04480793	No	
+row_4	CDV3	CDV3 homolog [Source:HGNC Symbol;Acc:HGNC:26928]	null	null	2033	0.2408016175031662	-0.024923356	No	
+row_5	VPS51	VPS51 subunit of GARP complex [Source:HGNC Symbol;Acc:HGNC:1172]	null	null	2127	0.23159459233283997	-0.0050357943	No	
+row_6	SEMA4D	semaphorin 4D [Source:HGNC Symbol;Acc:HGNC:10732]	null	null	2569	0.18967634439468384	-0.02362004	No	
+row_7	F2R	coagulation factor II thrombin receptor [Source:HGNC Symbol;Acc:HGNC:3537]	null	null	3161	0.14089149236679077	-0.06260367	No	
+row_8	GTF2F2	general transcription factor IIF subunit 2 [Source:HGNC Symbol;Acc:HGNC:4653]	null	null	3432	0.1206991896033287	-0.07341383	No	
+row_9	EIF3F	eukaryotic translation initiation factor 3 subunit F [Source:HGNC Symbol;Acc:HGNC:3275]	null	null	3512	0.11449147015810013	-0.066738784	No	
+row_10	ELOVL7	ELOVL fatty acid elongase 7 [Source:HGNC Symbol;Acc:HGNC:26292]	null	null	3928	0.08505305647850037	-0.09583785	No	
+row_11	PAK1	p21 (RAC1) activated kinase 1 [Source:HGNC Symbol;Acc:HGNC:8590]	null	null	4790	0.02676095999777317	-0.17481048	No	
+row_12	PIP5K1B	phosphatidylinositol-4-phosphate 5-kinase type 1 beta [Source:HGNC Symbol;Acc:HGNC:8995]	null	null	5070	0.007085317280143499	-0.20059805	No	
+row_13	SCYL2	SCY1 like pseudokinase 2 [Source:HGNC Symbol;Acc:HGNC:19286]	null	null	5852	-0.042392417788505554	-0.26998168	No	
+row_14	IPO7	importin 7 [Source:HGNC Symbol;Acc:HGNC:9852]	null	null	6161	-0.06290975213050842	-0.29160467	No	
+row_15	THG1L	tRNA-histidine guanylyltransferase 1 like [Source:HGNC Symbol;Acc:HGNC:26053]	null	null	6581	-0.09053746610879898	-0.32040462	No	
+row_16	CCR5	C-C motif chemokine receptor 5 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:1606]	null	null	6753	-0.10246757417917252	-0.32401732	No	
+row_17	RPL13A	ribosomal protein L13a [Source:HGNC Symbol;Acc:HGNC:10304]	null	null	6814	-0.10675813257694244	-0.3164871	No	
+row_18	RBM4	RNA binding motif protein 4 [Source:HGNC Symbol;Acc:HGNC:9901]	null	null	7121	-0.12922516465187073	-0.3296789	No	
+row_19	ATP5MG	ATP synthase membrane subunit g [Source:HGNC Symbol;Acc:HGNC:14247]	null	null	7167	-0.13301418721675873	-0.31745243	No	
+row_20	DELE1	DAP3 binding cell death enhancer 1 [Source:HGNC Symbol;Acc:HGNC:28969]	null	null	7692	-0.17205864191055298	-0.34615925	No	
+row_21	GNG11	G protein subunit gamma 11 [Source:HGNC Symbol;Acc:HGNC:4403]	null	null	9903	-0.4573014974594116	-0.50057775	Yes	
+row_22	XRCC4	X-ray repair cross complementing 4 [Source:HGNC Symbol;Acc:HGNC:12831]	null	null	9990	-0.4754381477832794	-0.44972223	Yes	
+row_23	RC3H2	ring finger and CCCH-type domains 2 [Source:HGNC Symbol;Acc:HGNC:21461]	null	null	10082	-0.5037983655929565	-0.3958207	Yes	
+row_24	RSAD2	radical S-adenosyl methionine domain containing 2 [Source:HGNC Symbol;Acc:HGNC:30908]	null	null	10212	-0.5555347204208374	-0.33912286	Yes	
+row_25	DDX58	DExD/H-box helicase 58 [Source:HGNC Symbol;Acc:HGNC:19102]	null	null	10282	-0.5992600321769714	-0.2712569	Yes	
+row_26	OAS2	2'-5'-oligoadenylate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:8087]	null	null	10368	-0.6617479920387268	-0.19715579	Yes	
+row_27	TNFSF10	TNF superfamily member 10 [Source:HGNC Symbol;Acc:HGNC:11925]	null	null	10450	-0.7992329001426697	-0.1055891	Yes	
+row_28	SIDT1	SID1 transmembrane family member 1 [Source:HGNC Symbol;Acc:HGNC:25967]	null	null	10469	-0.8797757625579834	0.0020072607	Yes	

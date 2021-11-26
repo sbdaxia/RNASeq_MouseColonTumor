@@ -1,0 +1,22 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CEBPA	CCAAT enhancer binding protein alpha [Source:HGNC Symbol;Acc:HGNC:1833]	null	null	385	0.5564447641372681	0.09188062	Yes	
+row_1	COL6A1	collagen type VI alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2211]	null	null	723	0.44195497035980225	0.16187525	Yes	
+row_2	LRP5	LDL receptor related protein 5 [Source:HGNC Symbol;Acc:HGNC:6697]	null	null	955	0.39232951402664185	0.23052043	Yes	
+row_3	COL4A2	collagen type IV alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2203]	null	null	1128	0.36225777864456177	0.29784805	Yes	
+row_4	LOXL1	lysyl oxidase like 1 [Source:HGNC Symbol;Acc:HGNC:6665]	null	null	1728	0.27661243081092834	0.3045909	Yes	
+row_5	LUM	lumican [Source:HGNC Symbol;Acc:HGNC:6724]	null	null	2051	0.23842753469944	0.32896182	Yes	
+row_6	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	null	null	2116	0.23215152323246002	0.37652352	Yes	
+row_7	THBS2	thrombospondin 2 [Source:HGNC Symbol;Acc:HGNC:11786]	null	null	2227	0.22253255546092987	0.41746777	Yes	
+row_8	LOX	lysyl oxidase [Source:HGNC Symbol;Acc:HGNC:6664]	null	null	2272	0.21689032018184662	0.4634112	Yes	
+row_9	COL6A3	collagen type VI alpha 3 chain [Source:HGNC Symbol;Acc:HGNC:2213]	null	null	2377	0.20679758489131927	0.50129056	Yes	
+row_10	PPP2R1A	protein phosphatase 2 scaffold subunit Aalpha [Source:HGNC Symbol;Acc:HGNC:9302]	null	null	2405	0.20372755825519562	0.5458144	Yes	
+row_11	DCN	decorin [Source:HGNC Symbol;Acc:HGNC:2705]	null	null	2588	0.18839320540428162	0.5719887	Yes	
+row_12	COL3A1	collagen type III alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2201]	null	null	2808	0.1709718108177185	0.5906012	Yes	
+row_13	OSGIN1	oxidative stress induced growth inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:30093]	null	null	2912	0.16199025511741638	0.6182164	Yes	
+row_14	NUMA1	nuclear mitotic apparatus protein 1 [Source:HGNC Symbol;Acc:HGNC:8059]	null	null	3198	0.13779394328594208	0.6228543	Yes	
+row_15	PPARD	peroxisome proliferator activated receptor delta [Source:HGNC Symbol;Acc:HGNC:9235]	null	null	3589	0.10955672711133957	0.610935	No	
+row_16	SPARC	secreted protein acidic and cysteine rich [Source:HGNC Symbol;Acc:HGNC:11219]	null	null	4412	0.049295324832201004	0.5438222	No	
+row_17	MED1	mediator complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:9234]	null	null	4777	0.0276346318423748	0.5154455	No	
+row_18	MMP9	matrix metallopeptidase 9 [Source:HGNC Symbol;Acc:HGNC:7176]	null	null	5105	0.005128064658492804	0.485399	No	
+row_19	E2F4	E2F transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:3118]	null	null	5522	-0.022619731724262238	0.4508962	No	
+row_20	AGTRAP	angiotensin II receptor associated protein [Source:HGNC Symbol;Acc:HGNC:13539]	null	null	6739	-0.10167156159877777	0.35826173	No	

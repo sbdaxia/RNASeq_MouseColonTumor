@@ -1,0 +1,20 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALDH1A3	aldehyde dehydrogenase 1 family member A3 [Source:HGNC Symbol;Acc:HGNC:409]	null	null	13	1.1841182708740234	0.18261096	Yes	
+row_1	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	null	null	228	0.6550020575523376	0.26387453	Yes	
+row_2	CCND2	cyclin D2 [Source:HGNC Symbol;Acc:HGNC:1583]	null	null	291	0.6158801317214966	0.35357875	Yes	
+row_3	LAMC2	laminin subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:6493]	null	null	328	0.5899582505226135	0.441741	Yes	
+row_4	KRT8	keratin 8 [Source:HGNC Symbol;Acc:HGNC:6446]	null	null	337	0.5837623476982117	0.531615	Yes	
+row_5	ASAH1	N-acylsphingosine amidohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:735]	null	null	646	0.4639497995376587	0.5742385	Yes	
+row_6	ANXA3	annexin A3 [Source:HGNC Symbol;Acc:HGNC:541]	null	null	814	0.42129552364349365	0.6237038	Yes	
+row_7	TIMP3	TIMP metallopeptidase inhibitor 3 [Source:HGNC Symbol;Acc:HGNC:11822]	null	null	967	0.390253484249115	0.6697816	Yes	
+row_8	KRT7	keratin 7 [Source:HGNC Symbol;Acc:HGNC:6445]	null	null	1415	0.3177436292171478	0.67643094	Yes	
+row_9	PAPPA	pappalysin 1 [Source:HGNC Symbol;Acc:HGNC:8602]	null	null	2000	0.24375687539577484	0.6585101	No	
+row_10	MMP3	matrix metallopeptidase 3 [Source:HGNC Symbol;Acc:HGNC:7173]	null	null	4083	0.07333872467279434	0.47108117	No	
+row_11	KRT17	keratin 17 [Source:HGNC Symbol;Acc:HGNC:6427]	null	null	4182	0.06586536020040512	0.4719495	No	
+row_12	LGMN	legumain [Source:HGNC Symbol;Acc:HGNC:9472]	null	null	4293	0.058129582554101944	0.4704708	No	
+row_13	COX7A1	cytochrome c oxidase subunit 7A1 [Source:HGNC Symbol;Acc:HGNC:2287]	null	null	5358	-0.011697249487042427	0.37068266	No	
+row_14	SRGN	serglycin [Source:HGNC Symbol;Acc:HGNC:9361]	null	null	5635	-0.02858162485063076	0.3487644	No	
+row_15	AQP1	aquaporin 1 (Colton blood group) [Source:HGNC Symbol;Acc:HGNC:633]	null	null	6595	-0.09148478507995605	0.27139127	No	
+row_16	IFI27	interferon alpha inducible protein 27 [Source:HGNC Symbol;Acc:HGNC:5397]	null	null	6717	-0.10019905120134354	0.27539408	No	
+row_17	C3	complement C3 [Source:HGNC Symbol;Acc:HGNC:1318]	null	null	8201	-0.20998138189315796	0.16638114	No	
+row_18	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	null	null	9311	-0.33559533953666687	0.112585954	No	

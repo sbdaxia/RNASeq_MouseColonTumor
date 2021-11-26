@@ -1,0 +1,48 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NGLY1	N-glycanase 1 [Source:HGNC Symbol;Acc:HGNC:17646]	null	null	515	0.5074790120124817	-0.016575113	No	
+row_1	HMGCS1	3-hydroxy-3-methylglutaryl-CoA synthase 1 [Source:HGNC Symbol;Acc:HGNC:5007]	null	null	1829	0.2631360590457916	-0.12531935	No	
+row_2	KDELR1	KDEL endoplasmic reticulum protein retention receptor 1 [Source:HGNC Symbol;Acc:HGNC:6304]	null	null	1853	0.26046091318130493	-0.11072025	No	
+row_3	PSMD8	proteasome 26S subunit, non-ATPase 8 [Source:HGNC Symbol;Acc:HGNC:9566]	null	null	3863	0.08934401720762253	-0.29731628	No	
+row_4	PSME3	proteasome activator subunit 3 [Source:HGNC Symbol;Acc:HGNC:9570]	null	null	5350	-0.011122114025056362	-0.4388815	No	
+row_5	PSMD14	proteasome 26S subunit, non-ATPase 14 [Source:HGNC Symbol;Acc:HGNC:16889]	null	null	5586	-0.025930002331733704	-0.4597098	No	
+row_6	PSMC1	proteasome 26S subunit, ATPase 1 [Source:HGNC Symbol;Acc:HGNC:9547]	null	null	5911	-0.045873209834098816	-0.4877733	No	
+row_7	SEC22C	SEC22 homolog C, vesicle trafficking protein [Source:HGNC Symbol;Acc:HGNC:16828]	null	null	5947	-0.04833768680691719	-0.4880064	No	
+row_8	PSMA6	proteasome 20S subunit alpha 6 [Source:HGNC Symbol;Acc:HGNC:9535]	null	null	6334	-0.07386123389005661	-0.5202009	No	
+row_9	PSMD5	proteasome 26S subunit, non-ATPase 5 [Source:HGNC Symbol;Acc:HGNC:9563]	null	null	6337	-0.07401619106531143	-0.51561797	No	
+row_10	PSMA2	proteasome 20S subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:9531]	null	null	6597	-0.09168282151222229	-0.53450274	No	
+row_11	GGA3	golgi associated, gamma adaptin ear containing, ARF binding protein 3 [Source:HGNC Symbol;Acc:HGNC:17079]	null	null	7159	-0.13207851350307465	-0.57969797	No	
+row_12	PSMC6	proteasome 26S subunit, ATPase 6 [Source:HGNC Symbol;Acc:HGNC:9553]	null	null	7512	-0.15983946621418	-0.6030909	No	
+row_13	PSMD7	proteasome 26S subunit, non-ATPase 7 [Source:HGNC Symbol;Acc:HGNC:9565]	null	null	7540	-0.16122053563594818	-0.5952764	No	
+row_14	PSMF1	proteasome inhibitor subunit 1 [Source:HGNC Symbol;Acc:HGNC:9571]	null	null	7683	-0.17169655859470367	-0.5977972	No	
+row_15	PSMB6	proteasome 20S subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:9543]	null	null	8091	-0.20225279033184052	-0.62372047	Yes	
+row_16	PSMB2	proteasome 20S subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:9539]	null	null	8130	-0.20521998405456543	-0.61412096	Yes	
+row_17	TMED4	transmembrane p24 trafficking protein 4 [Source:HGNC Symbol;Acc:HGNC:22301]	null	null	8139	-0.2062211036682129	-0.60158443	Yes	
+row_18	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	null	null	8192	-0.20918092131614685	-0.5930699	Yes	
+row_19	PSMD11	proteasome 26S subunit, non-ATPase 11 [Source:HGNC Symbol;Acc:HGNC:9556]	null	null	8233	-0.21251320838928223	-0.58319145	Yes	
+row_20	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	null	null	8462	-0.23296450078487396	-0.58999455	Yes	
+row_21	ATF4	activating transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:786]	null	null	8568	-0.2443830370903015	-0.58428395	Yes	
+row_22	PSMC5	proteasome 26S subunit, ATPase 5 [Source:HGNC Symbol;Acc:HGNC:9552]	null	null	8569	-0.24469561874866486	-0.5684996	Yes	
+row_23	PSMC2	proteasome 26S subunit, ATPase 2 [Source:HGNC Symbol;Acc:HGNC:9548]	null	null	8574	-0.24618090689182281	-0.5530024	Yes	
+row_24	PSMA3	proteasome 20S subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:9532]	null	null	9054	-0.3005087971687317	-0.5794814	Yes	
+row_25	PSMB5	proteasome 20S subunit beta 5 [Source:HGNC Symbol;Acc:HGNC:9542]	null	null	9055	-0.3006258010864258	-0.56008923	Yes	
+row_26	PDIA3	protein disulfide isomerase family A member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	null	null	9070	-0.302412748336792	-0.5419223	Yes	
+row_27	PSMC3	proteasome 26S subunit, ATPase 3 [Source:HGNC Symbol;Acc:HGNC:9549]	null	null	9120	-0.30913877487182617	-0.5266726	Yes	
+row_28	PSME4	proteasome activator subunit 4 [Source:HGNC Symbol;Acc:HGNC:20635]	null	null	9369	-0.34695175290107727	-0.5280378	Yes	
+row_29	DERL1	derlin 1 [Source:HGNC Symbol;Acc:HGNC:28454]	null	null	9496	-0.3688627779483795	-0.51630825	Yes	
+row_30	SERP1	stress associated endoplasmic reticulum protein 1 [Source:HGNC Symbol;Acc:HGNC:10759]	null	null	9546	-0.3768773674964905	-0.49668902	Yes	
+row_31	PSMA4	proteasome 20S subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:9533]	null	null	9577	-0.38190460205078125	-0.4749263	Yes	
+row_32	PSMA7	proteasome 20S subunit alpha 7 [Source:HGNC Symbol;Acc:HGNC:9536]	null	null	9687	-0.40634843707084656	-0.45915097	Yes	
+row_33	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	null	null	10001	-0.47795671224594116	-0.4582892	Yes	
+row_34	TAP2	transporter 2, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:44]	null	null	10063	-0.4968959391117096	-0.43207705	Yes	
+row_35	TAPBP	TAP binding protein [Source:HGNC Symbol;Acc:HGNC:11566]	null	null	10161	-0.5348544716835022	-0.4068633	Yes	
+row_36	PSME1	proteasome activator subunit 1 [Source:HGNC Symbol;Acc:HGNC:9568]	null	null	10175	-0.538401186466217	-0.37337786	Yes	
+row_37	PSMA1	proteasome 20S subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:9530]	null	null	10189	-0.5455425381660461	-0.33943176	Yes	
+row_38	PDIA6	protein disulfide isomerase family A member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	null	null	10204	-0.552055835723877	-0.30516127	Yes	
+row_39	ERAP1	endoplasmic reticulum aminopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:18173]	null	null	10214	-0.5563802123069763	-0.2701331	Yes	
+row_40	TAP1	transporter 1, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:43]	null	null	10221	-0.5608476996421814	-0.23452948	Yes	
+row_41	PSME2	proteasome activator subunit 2 [Source:HGNC Symbol;Acc:HGNC:9569]	null	null	10312	-0.6226290464401245	-0.2029835	Yes	
+row_42	PSMB9	proteasome 20S subunit beta 9 [Source:HGNC Symbol;Acc:HGNC:9546]	null	null	10332	-0.6352822780609131	-0.16382314	Yes	
+row_43	TAPBPL	TAP binding protein like [Source:HGNC Symbol;Acc:HGNC:30683]	null	null	10360	-0.6566336750984192	-0.124051474	Yes	
+row_44	PSMB8	proteasome 20S subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:9545]	null	null	10370	-0.6648027896881104	-0.08202937	Yes	
+row_45	PSMB10	proteasome 20S subunit beta 10 [Source:HGNC Symbol;Acc:HGNC:9538]	null	null	10395	-0.6933684349060059	-0.039600845	Yes	
+row_46	PDIA5	protein disulfide isomerase family A member 5 [Source:HGNC Symbol;Acc:HGNC:24811]	null	null	10437	-0.753435492515564	0.0050746473	Yes	

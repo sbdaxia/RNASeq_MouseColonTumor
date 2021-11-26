@@ -1,0 +1,30 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CRIM1	cysteine rich transmembrane BMP regulator 1 [Source:HGNC Symbol;Acc:HGNC:2359]	null	null	50	0.9583380818367004	0.09401198	Yes	
+row_1	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	null	null	157	0.7393895387649536	0.16010073	Yes	
+row_2	SNAP23	synaptosome associated protein 23 [Source:HGNC Symbol;Acc:HGNC:11131]	null	null	259	0.6334394812583923	0.21574545	Yes	
+row_3	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	null	null	262	0.6327979564666748	0.28078684	Yes	
+row_4	RTN4	reticulon 4 [Source:HGNC Symbol;Acc:HGNC:14085]	null	null	310	0.6022703647613525	0.33838	Yes	
+row_5	CPNE3	copine 3 [Source:HGNC Symbol;Acc:HGNC:2316]	null	null	649	0.46247541904449463	0.3537473	Yes	
+row_6	IGFBP3	insulin like growth factor binding protein 3 [Source:HGNC Symbol;Acc:HGNC:5472]	null	null	1081	0.37031814455986023	0.3507252	Yes	
+row_7	PDLIM3	PDZ and LIM domain 3 [Source:HGNC Symbol;Acc:HGNC:20767]	null	null	1225	0.3476618528366089	0.37289572	Yes	
+row_8	ASPN	asporin [Source:HGNC Symbol;Acc:HGNC:14872]	null	null	1291	0.3377865254878998	0.4015038	Yes	
+row_9	ANXA4	annexin A4 [Source:HGNC Symbol;Acc:HGNC:542]	null	null	1300	0.33648043870925903	0.43542552	Yes	
+row_10	TAGLN	transgelin [Source:HGNC Symbol;Acc:HGNC:11553]	null	null	1303	0.3360881209373474	0.4698803	Yes	
+row_11	NID1	nidogen 1 [Source:HGNC Symbol;Acc:HGNC:7821]	null	null	1352	0.32772472500801086	0.4990761	Yes	
+row_12	OGN	osteoglycin [Source:HGNC Symbol;Acc:HGNC:8126]	null	null	1387	0.3231998383998871	0.52914363	Yes	
+row_13	ACTA2	actin alpha 2, smooth muscle [Source:HGNC Symbol;Acc:HGNC:130]	null	null	1456	0.31276383996009827	0.55488545	Yes	
+row_14	FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	null	null	1492	0.30826082825660706	0.58331734	Yes	
+row_15	LOXL1	lysyl oxidase like 1 [Source:HGNC Symbol;Acc:HGNC:6665]	null	null	1728	0.27661243081092834	0.58936995	Yes	
+row_16	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	null	null	2116	0.23215152323246002	0.5763105	Yes	
+row_17	TUBA1C	tubulin alpha 1c [Source:HGNC Symbol;Acc:HGNC:20768]	null	null	2396	0.20487795770168304	0.57076263	Yes	
+row_18	LTBP3	latent transforming growth factor beta binding protein 3 [Source:HGNC Symbol;Acc:HGNC:6716]	null	null	2517	0.1936926394701004	0.5792595	Yes	
+row_19	COL5A2	collagen type V alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2210]	null	null	2653	0.1840790957212448	0.5853316	Yes	
+row_20	ABAT	4-aminobutyrate aminotransferase [Source:HGNC Symbol;Acc:HGNC:23]	null	null	2712	0.17952626943588257	0.5982944	Yes	
+row_21	ST3GAL6	ST3 beta-galactoside alpha-2,3-sialyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:18080]	null	null	2737	0.17717809975147247	0.61426497	Yes	
+row_22	FSTL1	follistatin like 1 [Source:HGNC Symbol;Acc:HGNC:3972]	null	null	2806	0.1712084263563156	0.62541443	Yes	
+row_23	DDX3X	DEAD-box helicase 3 X-linked [Source:HGNC Symbol;Acc:HGNC:2745]	null	null	2981	0.1558687537908554	0.6248507	Yes	
+row_24	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	null	null	3068	0.14839617908000946	0.631928	Yes	
+row_25	OSBPL8	oxysterol binding protein like 8 [Source:HGNC Symbol;Acc:HGNC:16396]	null	null	4442	0.046964772045612335	0.50553256	No	
+row_26	LPL	lipoprotein lipase [Source:HGNC Symbol;Acc:HGNC:6677]	null	null	7305	-0.14284475147724152	0.2466964	No	
+row_27	TUBA1A	tubulin alpha 1a [Source:HGNC Symbol;Acc:HGNC:20766]	null	null	8351	-0.2219487577676773	0.16969089	No	
+row_28	ELP5	elongator acetyltransferase complex subunit 5 [Source:HGNC Symbol;Acc:HGNC:30617]	null	null	9314	-0.33629903197288513	0.11240677	No	

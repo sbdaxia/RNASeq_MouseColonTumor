@@ -1,0 +1,33 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CD55	CD55 molecule (Cromer blood group) [Source:HGNC Symbol;Acc:HGNC:2665]	null	null	531	0.501130223274231	-0.005284274	No	
+row_1	NR4A1	nuclear receptor subfamily 4 group A member 1 [Source:HGNC Symbol;Acc:HGNC:7980]	null	null	682	0.4515124559402466	0.02135582	No	
+row_2	PLA2G4A	phospholipase A2 group IVA [Source:HGNC Symbol;Acc:HGNC:9035]	null	null	1360	0.32687389850616455	-0.013704209	No	
+row_3	GCH1	GTP cyclohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:4193]	null	null	1741	0.2746841609477997	-0.025104675	No	
+row_4	BCL7B	BAF chromatin remodeling complex subunit BCL7B [Source:HGNC Symbol;Acc:HGNC:1005]	null	null	2170	0.2277899533510208	-0.045350872	No	
+row_5	IRF2	interferon regulatory factor 2 [Source:HGNC Symbol;Acc:HGNC:6117]	null	null	2253	0.218511700630188	-0.033357657	No	
+row_6	IL11	interleukin 11 [Source:HGNC Symbol;Acc:HGNC:5966]	null	null	3162	0.14089006185531616	-0.10738487	No	
+row_7	PTGS2	prostaglandin-endoperoxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:9605]	null	null	3489	0.1162724420428276	-0.12800066	No	
+row_8	RIPK1	receptor interacting serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:10019]	null	null	3671	0.10416750609874725	-0.1358515	No	
+row_9	LGMN	legumain [Source:HGNC Symbol;Acc:HGNC:9472]	null	null	4293	0.058129582554101944	-0.18995003	No	
+row_10	DNAJA1	DnaJ heat shock protein family (Hsp40) member A1 [Source:HGNC Symbol;Acc:HGNC:5229]	null	null	5476	-0.01939885877072811	-0.301202	No	
+row_11	ALAS1	5'-aminolevulinate synthase 1 [Source:HGNC Symbol;Acc:HGNC:396]	null	null	7166	-0.1329350471496582	-0.45062378	No	
+row_12	GTF2B	general transcription factor IIB [Source:HGNC Symbol;Acc:HGNC:4648]	null	null	7359	-0.1479652374982834	-0.45555103	No	
+row_13	EGR1	early growth response 1 [Source:HGNC Symbol;Acc:HGNC:3238]	null	null	7636	-0.16850003600120544	-0.46664578	No	
+row_14	TNFAIP3	TNF alpha induced protein 3 [Source:HGNC Symbol;Acc:HGNC:11896]	null	null	8102	-0.20329886674880981	-0.49265254	No	
+row_15	SLC39A14	solute carrier family 39 member 14 [Source:HGNC Symbol;Acc:HGNC:20858]	null	null	8341	-0.22119931876659393	-0.49533078	No	
+row_16	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	null	null	8654	-0.2542555332183838	-0.5020839	No	
+row_17	IFITM1	interferon induced transmembrane protein 1 [Source:HGNC Symbol;Acc:HGNC:5412]	null	null	9013	-0.2955970764160156	-0.50948274	Yes	
+row_18	ATF5	activating transcription factor 5 [Source:HGNC Symbol;Acc:HGNC:790]	null	null	9052	-0.3004111647605896	-0.48584893	Yes	
+row_19	TRIM21	tripartite motif containing 21 [Source:HGNC Symbol;Acc:HGNC:11312]	null	null	9654	-0.3979540765285492	-0.5071909	Yes	
+row_20	NAMPT	nicotinamide phosphoribosyltransferase [Source:HGNC Symbol;Acc:HGNC:30092]	null	null	9864	-0.4452398121356964	-0.48676118	Yes	
+row_21	PML	promyelocytic leukemia [Source:HGNC Symbol;Acc:HGNC:9113]	null	null	9988	-0.4753936529159546	-0.45537198	Yes	
+row_22	OAS1	2'-5'-oligoadenylate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:8086]	null	null	10068	-0.4982646107673645	-0.4177	Yes	
+row_23	SP100	SP100 nuclear antigen [Source:HGNC Symbol;Acc:HGNC:11206]	null	null	10097	-0.5091091990470886	-0.3741675	Yes	
+row_24	WARS1	tryptophanyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:12729]	null	null	10118	-0.5191131234169006	-0.3289621	Yes	
+row_25	CXCL10	C-X-C motif chemokine ligand 10 [Source:HGNC Symbol;Acc:HGNC:10637]	null	null	10122	-0.5212452411651611	-0.28193778	Yes	
+row_26	MSX1	msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391]	null	null	10135	-0.5278241038322449	-0.23517683	Yes	
+row_27	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	null	null	10147	-0.5311388969421387	-0.1880194	Yes	
+row_28	MX1	MX dynamin like GTPase 1 [Source:HGNC Symbol;Acc:HGNC:7532]	null	null	10154	-0.5333743691444397	-0.140181	Yes	
+row_29	IDO1	indoleamine 2,3-dioxygenase 1 [Source:HGNC Symbol;Acc:HGNC:6059]	null	null	10236	-0.5686560869216919	-0.09631111	Yes	
+row_30	OAS2	2'-5'-oligoadenylate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:8087]	null	null	10368	-0.6617479920387268	-0.04877223	Yes	
+row_31	PSMB8	proteasome 20S subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:9545]	null	null	10370	-0.6648027896881104	0.0114734005	Yes	

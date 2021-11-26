@@ -1,0 +1,22 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SERPINB6	serpin family B member 6 [Source:HGNC Symbol;Acc:HGNC:8950]	null	null	96	0.8446100950241089	0.11235435	Yes	
+row_1	MERTK	MER proto-oncogene, tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:7027]	null	null	285	0.6182778477668762	0.18335678	Yes	
+row_2	LRRFIP1	LRR binding FLII interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:6702]	null	null	358	0.5699647665023804	0.25848714	Yes	
+row_3	SH3BGRL2	SH3 domain binding glutamate rich protein like 2 [Source:HGNC Symbol;Acc:HGNC:15567]	null	null	449	0.529507040977478	0.3260772	Yes	
+row_4	IQGAP2	IQ motif containing GTPase activating protein 2 [Source:HGNC Symbol;Acc:HGNC:6111]	null	null	518	0.5059783458709717	0.39238316	Yes	
+row_5	CD55	CD55 molecule (Cromer blood group) [Source:HGNC Symbol;Acc:HGNC:2665]	null	null	531	0.501130223274231	0.46334016	Yes	
+row_6	HSPA1B	heat shock protein family A (Hsp70) member 1B [Source:HGNC Symbol;Acc:HGNC:5233]	null	null	976	0.38962697982788086	0.47699323	Yes	
+row_7	ART3	ADP-ribosyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:725]	null	null	1177	0.35379528999328613	0.5087955	Yes	
+row_8	FAM241A	family with sequence similarity 241 member A [Source:HGNC Symbol;Acc:HGNC:26813]	null	null	1273	0.34093165397644043	0.54877555	Yes	
+row_9	PTGER4	prostaglandin E receptor 4 [Source:HGNC Symbol;Acc:HGNC:9596]	null	null	1431	0.3156757056713104	0.5792001	Yes	
+row_10	TLR4	toll like receptor 4 [Source:HGNC Symbol;Acc:HGNC:11850]	null	null	1531	0.30157485604286194	0.6131354	Yes	
+row_11	RASSF10	Ras association domain family member 10 [Source:HGNC Symbol;Acc:HGNC:33984]	null	null	1988	0.24456669390201569	0.60477096	Yes	
+row_12	SLC12A2	solute carrier family 12 member 2 [Source:HGNC Symbol;Acc:HGNC:10911]	null	null	2151	0.22905166447162628	0.6222544	Yes	
+row_13	SCD	stearoyl-CoA desaturase [Source:HGNC Symbol;Acc:HGNC:10571]	null	null	2507	0.1943444162607193	0.6163104	No	
+row_14	CLIC5	chloride intracellular channel 5 [Source:HGNC Symbol;Acc:HGNC:13517]	null	null	2830	0.1691165417432785	0.60988855	No	
+row_15	TOP1MT	DNA topoisomerase I mitochondrial [Source:HGNC Symbol;Acc:HGNC:29787]	null	null	3636	0.10609760880470276	0.54826766	No	
+row_16	ADM	adrenomedullin [Source:HGNC Symbol;Acc:HGNC:259]	null	null	4310	0.05664413422346115	0.4921388	No	
+row_17	MAPT	microtubule associated protein tau [Source:HGNC Symbol;Acc:HGNC:6893]	null	null	6248	-0.06825355440378189	0.3169544	No	
+row_18	PARP4	poly(ADP-ribose) polymerase family member 4 [Source:HGNC Symbol;Acc:HGNC:271]	null	null	6723	-0.10060542821884155	0.2861574	No	
+row_19	SEMA3E	semaphorin 3E [Source:HGNC Symbol;Acc:HGNC:10727]	null	null	6915	-0.11402039974927902	0.2843202	No	
+row_20	GALC	galactosylceramidase [Source:HGNC Symbol;Acc:HGNC:4115]	null	null	9649	-0.3964110314846039	0.08032471	No	

@@ -1,0 +1,24 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TDRD7	tudor domain containing 7 [Source:HGNC Symbol;Acc:HGNC:30831]	null	null	3405	0.12283749878406525	-0.31135115	No	
+row_1	PLSCR1	phospholipid scramblase 1 [Source:HGNC Symbol;Acc:HGNC:9092]	null	null	4120	0.0698055699467659	-0.37164524	No	
+row_2	S100A8	S100 calcium binding protein A8 [Source:HGNC Symbol;Acc:HGNC:10498]	null	null	4753	0.029082464054226875	-0.4287227	No	
+row_3	SERPING1	serpin family G member 1 [Source:HGNC Symbol;Acc:HGNC:1228]	null	null	6901	-0.11308017373085022	-0.6210042	No	
+row_4	LGALS3BP	galectin 3 binding protein [Source:HGNC Symbol;Acc:HGNC:6564]	null	null	7170	-0.1332923322916031	-0.63149494	No	
+row_5	DEFA1	defensin alpha 1 [Source:HGNC Symbol;Acc:HGNC:2761]	null	null	8306	-0.21777388453483582	-0.7152319	Yes	
+row_6	CKAP4	cytoskeleton associated protein 4 [Source:HGNC Symbol;Acc:HGNC:16991]	null	null	8503	-0.2377476692199707	-0.7070025	Yes	
+row_7	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	null	null	8856	-0.2783355116844177	-0.7090743	Yes	
+row_8	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	null	null	9311	-0.33559533953666687	-0.7143986	Yes	
+row_9	DEFA3	defensin alpha 3 [Source:HGNC Symbol;Acc:HGNC:2762]	null	null	9572	-0.38126662373542786	-0.6960126	Yes	
+row_10	OASL	2'-5'-oligoadenylate synthetase like [Source:HGNC Symbol;Acc:HGNC:8090]	null	null	9602	-0.3883412182331085	-0.65475726	Yes	
+row_11	IRF7	interferon regulatory factor 7 [Source:HGNC Symbol;Acc:HGNC:6122]	null	null	9688	-0.4068663716316223	-0.61675143	Yes	
+row_12	LY6E	lymphocyte antigen 6 family member E [Source:HGNC Symbol;Acc:HGNC:6727]	null	null	9762	-0.4201923608779907	-0.5760885	Yes	
+row_13	IFIT3	interferon induced protein with tetratricopeptide repeats 3 [Source:HGNC Symbol;Acc:HGNC:5411]	null	null	9914	-0.4592747092247009	-0.53844607	Yes	
+row_14	IFI35	interferon induced protein 35 [Source:HGNC Symbol;Acc:HGNC:5399]	null	null	9985	-0.4745757579803467	-0.4913312	Yes	
+row_15	OAS1	2'-5'-oligoadenylate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:8086]	null	null	10068	-0.4982646107673645	-0.44267705	Yes	
+row_16	XAF1	XIAP associated factor 1 [Source:HGNC Symbol;Acc:HGNC:30932]	null	null	10098	-0.50916987657547	-0.38772357	Yes	
+row_17	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	null	null	10147	-0.5311388969421387	-0.33209455	Yes	
+row_18	MX1	MX dynamin like GTPase 1 [Source:HGNC Symbol;Acc:HGNC:7532]	null	null	10154	-0.5333743691444397	-0.27219984	Yes	
+row_19	TAP1	transporter 1, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:43]	null	null	10221	-0.5608476996421814	-0.2149223	Yes	
+row_20	IFITM3	interferon induced transmembrane protein 3 [Source:HGNC Symbol;Acc:HGNC:5414]	null	null	10365	-0.65894615650177	-0.15387923	Yes	
+row_21	OAS2	2'-5'-oligoadenylate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:8087]	null	null	10368	-0.6617479920387268	-0.07904889	Yes	
+row_22	TNFSF10	TNF superfamily member 10 [Source:HGNC Symbol;Acc:HGNC:11925]	null	null	10450	-0.7992329001426697	0.0038211034	Yes	

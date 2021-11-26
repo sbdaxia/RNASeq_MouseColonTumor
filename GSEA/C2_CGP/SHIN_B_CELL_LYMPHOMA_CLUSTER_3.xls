@@ -1,0 +1,23 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FZD1	frizzled class receptor 1 [Source:HGNC Symbol;Acc:HGNC:4038]	null	null	31	1.0307199954986572	0.15759388	Yes	
+row_1	IL18	interleukin 18 [Source:HGNC Symbol;Acc:HGNC:5986]	null	null	87	0.8576562404632568	0.2859372	Yes	
+row_2	TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	null	null	257	0.635176420211792	0.36873558	Yes	
+row_3	IRAG2	inositol 1,4,5-triphosphate receptor associated 2 [Source:HGNC Symbol;Acc:HGNC:6690]	null	null	391	0.5514735579490662	0.44193432	Yes	
+row_4	MAF	MAF bZIP transcription factor [Source:HGNC Symbol;Acc:HGNC:6776]	null	null	554	0.4934309720993042	0.50332165	Yes	
+row_5	CADM1	cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5951]	null	null	735	0.43883517384529114	0.5544853	Yes	
+row_6	ZEB2	zinc finger E-box binding homeobox 2 [Source:HGNC Symbol;Acc:HGNC:14881]	null	null	1491	0.3082636594772339	0.5303858	No	
+row_7	NFATC1	nuclear factor of activated T cells 1 [Source:HGNC Symbol;Acc:HGNC:7775]	null	null	2920	0.16087305545806885	0.41904223	No	
+row_8	WNT5A	Wnt family member 5A [Source:HGNC Symbol;Acc:HGNC:12784]	null	null	3213	0.13667644560337067	0.41244042	No	
+row_9	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	null	null	3365	0.12558582425117493	0.41757935	No	
+row_10	TNFRSF1A	TNF receptor superfamily member 1A [Source:HGNC Symbol;Acc:HGNC:11916]	null	null	3801	0.09443731606006622	0.39073858	No	
+row_11	ID2	inhibitor of DNA binding 2 [Source:HGNC Symbol;Acc:HGNC:5361]	null	null	4130	0.06953399628400803	0.37023926	No	
+row_12	CCND3	cyclin D3 [Source:HGNC Symbol;Acc:HGNC:1585]	null	null	4837	0.023096373304724693	0.3063998	No	
+row_13	NFKB2	nuclear factor kappa B subunit 2 [Source:HGNC Symbol;Acc:HGNC:7795]	null	null	5573	-0.025152364745736122	0.24011049	No	
+row_14	JAK2	Janus kinase 2 [Source:HGNC Symbol;Acc:HGNC:6192]	null	null	5959	-0.05017327517271042	0.21115072	No	
+row_15	CBX5	chromobox 5 [Source:HGNC Symbol;Acc:HGNC:1555]	null	null	6306	-0.07197489589452744	0.18931228	No	
+row_16	BCL2	BCL2 apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:990]	null	null	7118	-0.12899605929851532	0.13193916	No	
+row_17	NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	null	null	8003	-0.1959882378578186	0.07802842	No	
+row_18	LFNG	LFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase [Source:HGNC Symbol;Acc:HGNC:6560]	null	null	8096	-0.20249097049236298	0.100782536	No	
+row_19	LCK	LCK proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6524]	null	null	8300	-0.2176586389541626	0.11529659	No	
+row_20	CXCL13	C-X-C motif chemokine ligand 13 [Source:HGNC Symbol;Acc:HGNC:10639]	null	null	8845	-0.27678215503692627	0.106447935	No	
+row_21	TNFSF13	TNF superfamily member 13 [Source:HGNC Symbol;Acc:HGNC:11928]	null	null	9232	-0.32475507259368896	0.12016419	No	

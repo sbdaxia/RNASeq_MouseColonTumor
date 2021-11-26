@@ -1,0 +1,30 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FZD1	frizzled class receptor 1 [Source:HGNC Symbol;Acc:HGNC:4038]	null	null	31	1.0307199954986572	0.1219105	Yes	
+row_1	PTPRR	protein tyrosine phosphatase receptor type R [Source:HGNC Symbol;Acc:HGNC:9680]	null	null	185	0.6991749405860901	0.19199246	Yes	
+row_2	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	null	null	262	0.6327979564666748	0.26139268	Yes	
+row_3	ADAM9	ADAM metallopeptidase domain 9 [Source:HGNC Symbol;Acc:HGNC:216]	null	null	282	0.619225263595581	0.33459687	Yes	
+row_4	LAMA3	laminin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6483]	null	null	349	0.5742809772491455	0.3978635	Yes	
+row_5	JAG1	jagged canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:6188]	null	null	377	0.5583756566047668	0.46293095	Yes	
+row_6	CTTN	cortactin [Source:HGNC Symbol;Acc:HGNC:3338]	null	null	524	0.503619909286499	0.50999016	Yes	
+row_7	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	null	null	1361	0.3266410827636719	0.46965507	No	
+row_8	PTP4A1	protein tyrosine phosphatase 4A1 [Source:HGNC Symbol;Acc:HGNC:9634]	null	null	1518	0.3040330708026886	0.49157813	No	
+row_9	PTPRD	protein tyrosine phosphatase receptor type D [Source:HGNC Symbol;Acc:HGNC:9668]	null	null	2275	0.21663491427898407	0.44556233	No	
+row_10	KDM4C	lysine demethylase 4C [Source:HGNC Symbol;Acc:HGNC:17071]	null	null	2282	0.2155708223581314	0.4711056	No	
+row_11	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	null	null	3365	0.12558582425117493	0.38289866	No	
+row_12	FGFR1	fibroblast growth factor receptor 1 [Source:HGNC Symbol;Acc:HGNC:3688]	null	null	3667	0.10448151081800461	0.366786	No	
+row_13	UHRF2	ubiquitin like with PHD and ring finger domains 2 [Source:HGNC Symbol;Acc:HGNC:12557]	null	null	4146	0.0679929256439209	0.32933432	No	
+row_14	RAD1	RAD1 checkpoint DNA exonuclease [Source:HGNC Symbol;Acc:HGNC:9806]	null	null	4483	0.043731652200222015	0.30251625	No	
+row_15	PAK1	p21 (RAC1) activated kinase 1 [Source:HGNC Symbol;Acc:HGNC:8590]	null	null	4790	0.02676095999777317	0.27650967	No	
+row_16	BAG4	BAG cochaperone 4 [Source:HGNC Symbol;Acc:HGNC:940]	null	null	4832	0.023275312036275864	0.2754106	No	
+row_17	CDK6	cyclin dependent kinase 6 [Source:HGNC Symbol;Acc:HGNC:1777]	null	null	5047	0.009636202827095985	0.25612304	No	
+row_18	TLN1	talin 1 [Source:HGNC Symbol;Acc:HGNC:11845]	null	null	5079	0.006392871495336294	0.25393444	No	
+row_19	YAP1	Yes1 associated transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:16262]	null	null	5545	-0.023739323019981384	0.21236394	No	
+row_20	TRAF6	TNF receptor associated factor 6 [Source:HGNC Symbol;Acc:HGNC:12036]	null	null	5660	-0.030002253130078316	0.20510219	No	
+row_21	TACC1	transforming acidic coiled-coil containing protein 1 [Source:HGNC Symbol;Acc:HGNC:11522]	null	null	5709	-0.033575791865587234	0.20458193	No	
+row_22	MDM2	MDM2 proto-oncogene [Source:HGNC Symbol;Acc:HGNC:6973]	null	null	5913	-0.04612015560269356	0.19076592	No	
+row_23	RBPJ	recombination signal binding protein for immunoglobulin kappa J region [Source:HGNC Symbol;Acc:HGNC:5724]	null	null	6497	-0.083999402821064	0.14521712	No	
+row_24	BIRC3	baculoviral IAP repeat containing 3 [Source:HGNC Symbol;Acc:HGNC:591]	null	null	8800	-0.27108699083328247	-0.041974608	No	
+row_25	MMP7	matrix metallopeptidase 7 [Source:HGNC Symbol;Acc:HGNC:7174]	null	null	9365	-0.34572356939315796	-0.053998955	No	
+row_26	SKP2	S-phase kinase associated protein 2 [Source:HGNC Symbol;Acc:HGNC:10901]	null	null	9501	-0.36941277980804443	-0.022147765	No	
+row_27	PHF21A	PHD finger protein 21A [Source:HGNC Symbol;Acc:HGNC:24156]	null	null	9917	-0.4597165286540985	-0.006119639	No	
+row_28	BIRC2	baculoviral IAP repeat containing 2 [Source:HGNC Symbol;Acc:HGNC:590]	null	null	10077	-0.5017972588539124	0.039476153	No	

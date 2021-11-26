@@ -1,0 +1,18 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ITGB8	integrin subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:6163]	null	null	11	1.199181318283081	0.24321602	Yes	
+row_1	PMEPA1	prostate transmembrane protein, androgen induced 1 [Source:HGNC Symbol;Acc:HGNC:14107]	null	null	150	0.7469829320907593	0.3821966	Yes	
+row_2	CCN2	cellular communication network factor 2 [Source:HGNC Symbol;Acc:HGNC:2500]	null	null	685	0.44996142387390137	0.42286775	Yes	
+row_3	GPRC5A	G protein-coupled receptor class C group 5 member A [Source:HGNC Symbol;Acc:HGNC:9836]	null	null	691	0.449472039937973	0.5139452	Yes	
+row_4	LACTB	lactamase beta [Source:HGNC Symbol;Acc:HGNC:16468]	null	null	1055	0.373884379863739	0.555446	Yes	
+row_5	NMD3	NMD3 ribosome export adaptor [Source:HGNC Symbol;Acc:HGNC:24250]	null	null	1245	0.3445601463317871	0.6075862	Yes	
+row_6	PRAG1	PEAK1 related, kinase-activating pseudokinase 1 [Source:HGNC Symbol;Acc:HGNC:25438]	null	null	2130	0.23117609322071075	0.57027596	No	
+row_7	SERPINE1	serpin family E member 1 [Source:HGNC Symbol;Acc:HGNC:8583]	null	null	3276	0.13195498287677765	0.48783612	No	
+row_8	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	null	null	3365	0.12558582425117493	0.50501543	No	
+row_9	APPL2	adaptor protein, phosphotyrosine interacting with PH domain and leucine zipper 2 [Source:HGNC Symbol;Acc:HGNC:18242]	null	null	3495	0.11557647585868835	0.5162415	No	
+row_10	PPFIBP1	PPFIA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9249]	null	null	3980	0.08188475668430328	0.4867113	No	
+row_11	SH3BP4	SH3 domain binding protein 4 [Source:HGNC Symbol;Acc:HGNC:10826]	null	null	4225	0.06289359927177429	0.47622657	No	
+row_12	CITED2	Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 2 [Source:HGNC Symbol;Acc:HGNC:1987]	null	null	4347	0.05377253517508507	0.4756273	No	
+row_13	TOB2	transducer of ERBB2, 2 [Source:HGNC Symbol;Acc:HGNC:11980]	null	null	6426	-0.07951906323432922	0.29342884	No	
+row_14	DYNLRB1	dynein light chain roadblock-type 1 [Source:HGNC Symbol;Acc:HGNC:15468]	null	null	6656	-0.09553303569555283	0.29102468	No	
+row_15	ZNF655	zinc finger protein 655 [Source:HGNC Symbol;Acc:HGNC:30899]	null	null	7809	-0.1810511350631714	0.21791711	No	
+row_16	DCTN4	dynactin subunit 4 [Source:HGNC Symbol;Acc:HGNC:15518]	null	null	7861	-0.18633130192756653	0.25100252	No	

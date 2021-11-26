@@ -1,0 +1,62 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	COPG2	COPI coat complex subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:2237]	null	null	218	0.6641115546226501	0.035170935	No	
+row_1	SEC22A	SEC22 homolog A, vesicle trafficking protein [Source:HGNC Symbol;Acc:HGNC:20260]	null	null	755	0.434124231338501	0.020434635	No	
+row_2	GOLM1	golgi membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:15451]	null	null	1259	0.34245675802230835	0.0011226286	No	
+row_3	SAR1B	secretion associated Ras related GTPase 1B [Source:HGNC Symbol;Acc:HGNC:10535]	null	null	2188	0.22654178738594055	-0.06872414	No	
+row_4	GOPC	golgi associated PDZ and coiled-coil motif containing [Source:HGNC Symbol;Acc:HGNC:17643]	null	null	2545	0.1916324496269226	-0.08667656	No	
+row_5	BCAP31	B cell receptor associated protein 31 [Source:HGNC Symbol;Acc:HGNC:16695]	null	null	3595	0.10912538319826126	-0.17803816	No	
+row_6	SELENOS	selenoprotein S [Source:HGNC Symbol;Acc:HGNC:30396]	null	null	3757	0.09840153902769089	-0.18516618	No	
+row_7	TRAPPC6A	trafficking protein particle complex 6A [Source:HGNC Symbol;Acc:HGNC:23069]	null	null	3781	0.09591899812221527	-0.17927274	No	
+row_8	BCAP29	B cell receptor associated protein 29 [Source:HGNC Symbol;Acc:HGNC:24131]	null	null	3853	0.08994196355342865	-0.17848606	No	
+row_9	PSMD9	proteasome 26S subunit, non-ATPase 9 [Source:HGNC Symbol;Acc:HGNC:9567]	null	null	3982	0.08177357167005539	-0.18385406	No	
+row_10	TBCB	tubulin folding cofactor B [Source:HGNC Symbol;Acc:HGNC:1989]	null	null	4112	0.07050235569477081	-0.19026957	No	
+row_11	PSMB1	proteasome 20S subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:9537]	null	null	4270	0.06009915471076965	-0.20024803	No	
+row_12	ERGIC3	ERGIC and golgi 3 [Source:HGNC Symbol;Acc:HGNC:15927]	null	null	4548	0.03966985270380974	-0.22345664	No	
+row_13	TRAPPC4	trafficking protein particle complex 4 [Source:HGNC Symbol;Acc:HGNC:19943]	null	null	4897	0.018865985795855522	-0.25522903	No	
+row_14	PSMD4	proteasome 26S subunit, non-ATPase 4 [Source:HGNC Symbol;Acc:HGNC:9561]	null	null	5074	0.006936345249414444	-0.27151778	No	
+row_15	GOSR2	golgi SNAP receptor complex member 2 [Source:HGNC Symbol;Acc:HGNC:4431]	null	null	5077	0.0064239115454256535	-0.27116716	No	
+row_16	HERPUD1	homocysteine inducible ER protein with ubiquitin like domain 1 [Source:HGNC Symbol;Acc:HGNC:13744]	null	null	5236	-0.0025471141561865807	-0.28610072	No	
+row_17	COPB1	COPI coat complex subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:2231]	null	null	5592	-0.02612556889653206	-0.31793132	No	
+row_18	PSMD10	proteasome 26S subunit, non-ATPase 10 [Source:HGNC Symbol;Acc:HGNC:9555]	null	null	5602	-0.026657847687602043	-0.31654343	No	
+row_19	GOLPH3L	golgi phosphoprotein 3 like [Source:HGNC Symbol;Acc:HGNC:24882]	null	null	5665	-0.030353497713804245	-0.31992504	No	
+row_20	TRAPPC6B	trafficking protein particle complex 6B [Source:HGNC Symbol;Acc:HGNC:23066]	null	null	5740	-0.035472769290208817	-0.32402492	No	
+row_21	PPP1R15A	protein phosphatase 1 regulatory subunit 15A [Source:HGNC Symbol;Acc:HGNC:14375]	null	null	5936	-0.047784946858882904	-0.3386864	No	
+row_22	COPA	COPI coat complex subunit alpha [Source:HGNC Symbol;Acc:HGNC:2230]	null	null	6170	-0.06349243223667145	-0.35566503	No	
+row_23	TRAPPC1	trafficking protein particle complex 1 [Source:HGNC Symbol;Acc:HGNC:19894]	null	null	6202	-0.06543070822954178	-0.3531128	No	
+row_24	SAR1A	secretion associated Ras related GTPase 1A [Source:HGNC Symbol;Acc:HGNC:10534]	null	null	6264	-0.06926876306533813	-0.35311282	No	
+row_25	TRAPPC3	trafficking protein particle complex 3 [Source:HGNC Symbol;Acc:HGNC:19942]	null	null	6338	-0.0740717276930809	-0.35385785	No	
+row_26	COPB2	COPI coat complex subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:2232]	null	null	6362	-0.07557941228151321	-0.3496817	No	
+row_27	PSMD6	proteasome 26S subunit, non-ATPase 6 [Source:HGNC Symbol;Acc:HGNC:9564]	null	null	6468	-0.0821743831038475	-0.35281068	No	
+row_28	CBY1	chibby family member 1, beta catenin antagonist [Source:HGNC Symbol;Acc:HGNC:1307]	null	null	6469	-0.08231216669082642	-0.3458609	No	
+row_29	PSMD1	proteasome 26S subunit, non-ATPase 1 [Source:HGNC Symbol;Acc:HGNC:9554]	null	null	6496	-0.0839405432343483	-0.34126645	No	
+row_30	TMED10	transmembrane p24 trafficking protein 10 [Source:HGNC Symbol;Acc:HGNC:16998]	null	null	6518	-0.08553709834814072	-0.33605784	No	
+row_31	PSMD13	proteasome 26S subunit, non-ATPase 13 [Source:HGNC Symbol;Acc:HGNC:9558]	null	null	7036	-0.12340332567691803	-0.37520722	No	
+row_32	YIPF5	Yip1 domain family member 5 [Source:HGNC Symbol;Acc:HGNC:24877]	null	null	7136	-0.1302293986082077	-0.37370354	No	
+row_33	PSMC4	proteasome 26S subunit, ATPase 4 [Source:HGNC Symbol;Acc:HGNC:9551]	null	null	7401	-0.1504022181034088	-0.38631642	No	
+row_34	ADCY3	adenylate cyclase 3 [Source:HGNC Symbol;Acc:HGNC:234]	null	null	8037	-0.1986754685640335	-0.43042395	Yes	
+row_35	PSMD2	proteasome 26S subunit, non-ATPase 2 [Source:HGNC Symbol;Acc:HGNC:9559]	null	null	8062	-0.19999434053897858	-0.4158391	Yes	
+row_36	HSP90B1	heat shock protein 90 beta family member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	null	null	8195	-0.2094784677028656	-0.41080824	Yes	
+row_37	ERGIC1	endoplasmic reticulum-golgi intermediate compartment 1 [Source:HGNC Symbol;Acc:HGNC:29205]	null	null	8353	-0.22213052213191986	-0.40710607	Yes	
+row_38	PSMB7	proteasome 20S subunit beta 7 [Source:HGNC Symbol;Acc:HGNC:9544]	null	null	8355	-0.22226737439632416	-0.3884355	Yes	
+row_39	PSMB3	proteasome 20S subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:9540]	null	null	8432	-0.23028168082237244	-0.37627906	Yes	
+row_40	SEC22B	SEC22 homolog B, vesicle trafficking protein (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:10700]	null	null	8458	-0.2326037436723709	-0.35903683	Yes	
+row_41	TMED9	transmembrane p24 trafficking protein 9 [Source:HGNC Symbol;Acc:HGNC:24878]	null	null	8476	-0.23505282402038574	-0.3408208	Yes	
+row_42	PSMB4	proteasome 20S subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:9541]	null	null	8499	-0.23747701942920685	-0.32287946	Yes	
+row_43	KDELR2	KDEL endoplasmic reticulum protein retention receptor 2 [Source:HGNC Symbol;Acc:HGNC:6305]	null	null	8510	-0.2382592111825943	-0.30372155	Yes	
+row_44	PDIA4	protein disulfide isomerase family A member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	null	null	8525	-0.2395395040512085	-0.28483906	Yes	
+row_45	WFS1	wolframin ER transmembrane glycoprotein [Source:HGNC Symbol;Acc:HGNC:12762]	null	null	8622	-0.25084832310676575	-0.2728637	Yes	
+row_46	COPG1	COPI coat complex subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:2236]	null	null	8763	-0.26665306091308594	-0.2637725	Yes	
+row_47	HSPA5	heat shock protein family A (Hsp70) member 5 [Source:HGNC Symbol;Acc:HGNC:5238]	null	null	8858	-0.27851688861846924	-0.24926926	Yes	
+row_48	ASNS	asparagine synthetase (glutamine-hydrolyzing) [Source:HGNC Symbol;Acc:HGNC:753]	null	null	8891	-0.28258016705513	-0.22847855	Yes	
+row_49	POMP	proteasome maturation protein [Source:HGNC Symbol;Acc:HGNC:20330]	null	null	8938	-0.28712189197540283	-0.20864667	Yes	
+row_50	PSMD3	proteasome 26S subunit, non-ATPase 3 [Source:HGNC Symbol;Acc:HGNC:9560]	null	null	8960	-0.2892448902130127	-0.1862386	Yes	
+row_51	COPE	COPI coat complex subunit epsilon [Source:HGNC Symbol;Acc:HGNC:2234]	null	null	8998	-0.2933834195137024	-0.16501516	Yes	
+row_52	PDIA3	protein disulfide isomerase family A member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	null	null	9070	-0.302412748336792	-0.14628917	Yes	
+row_53	COPZ1	COPI coat complex subunit zeta 1 [Source:HGNC Symbol;Acc:HGNC:2243]	null	null	9131	-0.30987727642059326	-0.12587829	Yes	
+row_54	SIL1	SIL1 nucleotide exchange factor [Source:HGNC Symbol;Acc:HGNC:24624]	null	null	9142	-0.31127357482910156	-0.10055564	Yes	
+row_55	TXNDC12	thioredoxin domain containing 12 [Source:HGNC Symbol;Acc:HGNC:24626]	null	null	9513	-0.3710393011569977	-0.104702696	Yes	
+row_56	PSMA5	proteasome 20S subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:9534]	null	null	9754	-0.4186031222343445	-0.092369795	Yes	
+row_57	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	null	null	9816	-0.43438926339149475	-0.06154201	Yes	
+row_58	DDIT3	DNA damage inducible transcript 3 [Source:HGNC Symbol;Acc:HGNC:2726]	null	null	9908	-0.4580710232257843	-0.031591047	Yes	
+row_59	YIPF1	Yip1 domain family member 1 [Source:HGNC Symbol;Acc:HGNC:25231]	null	null	10075	-0.5014482140541077	-0.005168466	Yes	
+row_60	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	null	null	10149	-0.5313342213630676	0.032694038	Yes	

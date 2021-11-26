@@ -1,0 +1,53 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CTSC	cathepsin C [Source:HGNC Symbol;Acc:HGNC:2528]	null	null	831	0.41689953207969666	-0.049729947	No	
+row_1	UGCG	UDP-glucose ceramide glucosyltransferase [Source:HGNC Symbol;Acc:HGNC:12524]	null	null	949	0.39321890473365784	-0.032759514	No	
+row_2	TGFBR2	transforming growth factor beta receptor 2 [Source:HGNC Symbol;Acc:HGNC:11773]	null	null	1440	0.31412574648857117	-0.057188354	No	
+row_3	POSTN	periostin [Source:HGNC Symbol;Acc:HGNC:16953]	null	null	1930	0.25061166286468506	-0.08607288	No	
+row_4	PTGS2	prostaglandin-endoperoxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:9605]	null	null	3489	0.1162724420428276	-0.2269887	No	
+row_5	CDH11	cadherin 11 [Source:HGNC Symbol;Acc:HGNC:1750]	null	null	3772	0.09703266620635986	-0.24704935	No	
+row_6	ATR	ATR serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:882]	null	null	3826	0.09209837019443512	-0.24552661	No	
+row_7	PSMD12	proteasome 26S subunit, non-ATPase 12 [Source:HGNC Symbol;Acc:HGNC:9557]	null	null	4165	0.06719033420085907	-0.27309027	No	
+row_8	KIF14	kinesin family member 14 [Source:HGNC Symbol;Acc:HGNC:19181]	null	null	4835	0.023217933252453804	-0.33551306	No	
+row_9	HSD17B10	hydroxysteroid 17-beta dehydrogenase 10 [Source:HGNC Symbol;Acc:HGNC:4800]	null	null	5161	0.001530465087853372	-0.36653665	No	
+row_10	NAE1	NEDD8 activating enzyme E1 subunit 1 [Source:HGNC Symbol;Acc:HGNC:621]	null	null	5377	-0.012803981080651283	-0.38621494	No	
+row_11	CSE1L	chromosome segregation 1 like [Source:HGNC Symbol;Acc:HGNC:2431]	null	null	5755	-0.03614600747823715	-0.41973925	No	
+row_12	PAFAH1B1	platelet activating factor acetylhydrolase 1b regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8574]	null	null	5882	-0.04413687810301781	-0.42864648	No	
+row_13	PPP1CC	protein phosphatase 1 catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9283]	null	null	5957	-0.049840327352285385	-0.4321637	No	
+row_14	FBL	fibrillarin [Source:HGNC Symbol;Acc:HGNC:3599]	null	null	6584	-0.09072133898735046	-0.48562995	No	
+row_15	PSMA2	proteasome 20S subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:9531]	null	null	6597	-0.09168282151222229	-0.4802094	No	
+row_16	MYBL2	MYB proto-oncogene like 2 [Source:HGNC Symbol;Acc:HGNC:7548]	null	null	7020	-0.12233195453882217	-0.51186836	No	
+row_17	PKMYT1	protein kinase, membrane associated tyrosine/threonine 1 [Source:HGNC Symbol;Acc:HGNC:29650]	null	null	7220	-0.13696548342704773	-0.5211164	No	
+row_18	RANBP1	RAN binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9847]	null	null	7301	-0.14269372820854187	-0.5185544	No	
+row_19	PSMC6	proteasome 26S subunit, ATPase 6 [Source:HGNC Symbol;Acc:HGNC:9553]	null	null	7512	-0.15983946621418	-0.52721703	No	
+row_20	SAFB	scaffold attachment factor B [Source:HGNC Symbol;Acc:HGNC:10520]	null	null	7562	-0.16336017847061157	-0.5202044	No	
+row_21	CCNF	cyclin F [Source:HGNC Symbol;Acc:HGNC:1591]	null	null	7915	-0.19006000459194183	-0.5403043	Yes	
+row_22	CENPA	centromere protein A [Source:HGNC Symbol;Acc:HGNC:1851]	null	null	8041	-0.19895271956920624	-0.5380215	Yes	
+row_23	DDX39A	DExD-box helicase 39A [Source:HGNC Symbol;Acc:HGNC:17821]	null	null	8137	-0.20586641132831573	-0.53236943	Yes	
+row_24	CKS1B	CDC28 protein kinase regulatory subunit 1B [Source:HGNC Symbol;Acc:HGNC:19083]	null	null	8206	-0.2104034721851349	-0.52380574	Yes	
+row_25	PSMD11	proteasome 26S subunit, non-ATPase 11 [Source:HGNC Symbol;Acc:HGNC:9556]	null	null	8233	-0.21251320838928223	-0.51106757	Yes	
+row_26	H2AZ1	H2A.Z variant histone 1 [Source:HGNC Symbol;Acc:HGNC:4741]	null	null	8246	-0.21354667842388153	-0.49691415	Yes	
+row_27	NUP88	nucleoporin 88 [Source:HGNC Symbol;Acc:HGNC:8067]	null	null	8328	-0.22004757821559906	-0.4889047	Yes	
+row_28	PSMC2	proteasome 26S subunit, ATPase 2 [Source:HGNC Symbol;Acc:HGNC:9548]	null	null	8574	-0.24618090689182281	-0.49473286	Yes	
+row_29	HMGB2	high mobility group box 2 [Source:HGNC Symbol;Acc:HGNC:5000]	null	null	8614	-0.2503524422645569	-0.48052838	Yes	
+row_30	CCNB1	cyclin B1 [Source:HGNC Symbol;Acc:HGNC:1579]	null	null	8668	-0.2560858428478241	-0.46725416	Yes	
+row_31	PSMA3	proteasome 20S subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:9532]	null	null	9054	-0.3005087971687317	-0.48260036	Yes	
+row_32	CCNA2	cyclin A2 [Source:HGNC Symbol;Acc:HGNC:1578]	null	null	9119	-0.30908435583114624	-0.46658197	Yes	
+row_33	PCNA	proliferating cell nuclear antigen [Source:HGNC Symbol;Acc:HGNC:8729]	null	null	9122	-0.30915582180023193	-0.44461918	Yes	
+row_34	H2AX	H2A.X variant histone [Source:HGNC Symbol;Acc:HGNC:4739]	null	null	9152	-0.3124960660934448	-0.4250035	Yes	
+row_35	CDC20	cell division cycle 20 [Source:HGNC Symbol;Acc:HGNC:1723]	null	null	9157	-0.3129817247390747	-0.40295812	Yes	
+row_36	UBE2C	ubiquitin conjugating enzyme E2 C [Source:HGNC Symbol;Acc:HGNC:15937]	null	null	9241	-0.3258945643901825	-0.3875552	Yes	
+row_37	MCM2	minichromosome maintenance complex component 2 [Source:HGNC Symbol;Acc:HGNC:6944]	null	null	9399	-0.3530188202857971	-0.3772973	Yes	
+row_38	KIF23	kinesin family member 23 [Source:HGNC Symbol;Acc:HGNC:6392]	null	null	9526	-0.3730476200580597	-0.36263454	Yes	
+row_39	NASP	nuclear autoantigenic sperm protein [Source:HGNC Symbol;Acc:HGNC:7644]	null	null	9533	-0.3740153908729553	-0.33640704	Yes	
+row_40	CENPF	centromere protein F [Source:HGNC Symbol;Acc:HGNC:1857]	null	null	9608	-0.38897690176963806	-0.31562144	Yes	
+row_41	CDK4	cyclin dependent kinase 4 [Source:HGNC Symbol;Acc:HGNC:1773]	null	null	9699	-0.40871939063072205	-0.29495376	Yes	
+row_42	PARP1	poly(ADP-ribose) polymerase 1 [Source:HGNC Symbol;Acc:HGNC:270]	null	null	9717	-0.41039079427719116	-0.26717332	Yes	
+row_43	CKAP5	cytoskeleton associated protein 5 [Source:HGNC Symbol;Acc:HGNC:28959]	null	null	9731	-0.4133692979812622	-0.23879623	Yes	
+row_44	KIF2C	kinesin family member 2C [Source:HGNC Symbol;Acc:HGNC:6393]	null	null	9792	-0.42775288224220276	-0.21389078	Yes	
+row_45	BARD1	BRCA1 associated RING domain 1 [Source:HGNC Symbol;Acc:HGNC:952]	null	null	9889	-0.4528263211250305	-0.19063714	Yes	
+row_46	TYMS	thymidylate synthetase [Source:HGNC Symbol;Acc:HGNC:12441]	null	null	10090	-0.5052695870399475	-0.17358801	Yes	
+row_47	CDC25B	cell division cycle 25B [Source:HGNC Symbol;Acc:HGNC:1726]	null	null	10229	-0.5638588666915894	-0.14640106	Yes	
+row_48	KIF11	kinesin family member 11 [Source:HGNC Symbol;Acc:HGNC:6388]	null	null	10253	-0.5781576633453369	-0.10717306	Yes	
+row_49	HMGN2	high mobility group nucleosomal binding domain 2 [Source:HGNC Symbol;Acc:HGNC:4986]	null	null	10264	-0.5884554386138916	-0.065961786	Yes	
+row_50	PLK1	polo like kinase 1 [Source:HGNC Symbol;Acc:HGNC:9077]	null	null	10270	-0.592936635017395	-0.023950411	Yes	
+row_51	FOXM1	forkhead box M1 [Source:HGNC Symbol;Acc:HGNC:3818]	null	null	10322	-0.6269736886024475	0.016093535	Yes	

@@ -1,0 +1,46 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FXYD3	FXYD domain containing ion transport regulator 3 [Source:HGNC Symbol;Acc:HGNC:4027]	null	null	243	0.645699143409729	0.040759645	No	
+row_1	ALG2	ALG2 alpha-1,3/1,6-mannosyltransferase [Source:HGNC Symbol;Acc:HGNC:23159]	null	null	681	0.4523238241672516	0.04377411	No	
+row_2	SPINT2	serine peptidase inhibitor, Kunitz type 2 [Source:HGNC Symbol;Acc:HGNC:11247]	null	null	952	0.39298108220100403	0.056891624	No	
+row_3	IMPA1	inositol monophosphatase 1 [Source:HGNC Symbol;Acc:HGNC:6050]	null	null	2468	0.1979077011346817	-0.06851709	No	
+row_4	EIF5	eukaryotic translation initiation factor 5 [Source:HGNC Symbol;Acc:HGNC:3299]	null	null	2593	0.18817339837551117	-0.061729956	No	
+row_5	LRRC28	leucine rich repeat containing 28 [Source:HGNC Symbol;Acc:HGNC:28355]	null	null	2696	0.18038137257099152	-0.05360935	No	
+row_6	RAB2A	RAB2A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9763]	null	null	3395	0.12359702587127686	-0.10817433	No	
+row_7	EBP	EBP cholestenol delta-isomerase [Source:HGNC Symbol;Acc:HGNC:3133]	null	null	3741	0.09943798929452896	-0.13134189	No	
+row_8	TGFB3	transforming growth factor beta 3 [Source:HGNC Symbol;Acc:HGNC:11769]	null	null	4271	0.06009499728679657	-0.17602476	No	
+row_9	NDUFA1	NADH:ubiquinone oxidoreductase subunit A1 [Source:HGNC Symbol;Acc:HGNC:7683]	null	null	4624	0.03606436774134636	-0.20614603	No	
+row_10	NUSAP1	nucleolar and spindle associated protein 1 [Source:HGNC Symbol;Acc:HGNC:18538]	null	null	4654	0.034896694123744965	-0.20546214	No	
+row_11	NDUFB3	NADH:ubiquinone oxidoreductase subunit B3 [Source:HGNC Symbol;Acc:HGNC:7698]	null	null	4815	0.02502303197979927	-0.21829793	No	
+row_12	GARS1	glycyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:4162]	null	null	5009	0.012207765132188797	-0.23556349	No	
+row_13	SUB1	SUB1 regulator of transcription [Source:HGNC Symbol;Acc:HGNC:19985]	null	null	5095	0.005482854787260294	-0.24315694	No	
+row_14	ATP5MPL	ATP synthase membrane subunit 6.8PL [Source:HGNC Symbol;Acc:HGNC:1188]	null	null	5176	9.181665955111384E-4	-0.25072435	No	
+row_15	HERPUD1	homocysteine inducible ER protein with ubiquitin like domain 1 [Source:HGNC Symbol;Acc:HGNC:13744]	null	null	5236	-0.0025471141561865807	-0.25611988	No	
+row_16	EXOC2	exocyst complex component 2 [Source:HGNC Symbol;Acc:HGNC:24968]	null	null	5415	-0.015216398052871227	-0.27165115	No	
+row_17	ARF4	ADP ribosylation factor 4 [Source:HGNC Symbol;Acc:HGNC:655]	null	null	5498	-0.020866265520453453	-0.27743214	No	
+row_18	IGFBP5	insulin like growth factor binding protein 5 [Source:HGNC Symbol;Acc:HGNC:5474]	null	null	6178	-0.06402748823165894	-0.33608466	No	
+row_19	COPB2	COPI coat complex subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:2232]	null	null	6362	-0.07557941228151321	-0.3461095	No	
+row_20	ATP5MD	ATP synthase membrane subunit DAPIT [Source:HGNC Symbol;Acc:HGNC:30889]	null	null	6673	-0.09671781212091446	-0.3661962	No	
+row_21	NME1	NME/NM23 nucleoside diphosphate kinase 1 [Source:HGNC Symbol;Acc:HGNC:7849]	null	null	6805	-0.10607612878084183	-0.36821926	No	
+row_22	RBM4	RNA binding motif protein 4 [Source:HGNC Symbol;Acc:HGNC:9901]	null	null	7121	-0.12922516465187073	-0.38556147	No	
+row_23	RANBP1	RAN binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9847]	null	null	7301	-0.14269372820854187	-0.38854888	No	
+row_24	SEC16A	SEC16 homolog A, endoplasmic reticulum export factor [Source:HGNC Symbol;Acc:HGNC:29006]	null	null	7365	-0.14833907783031464	-0.37987185	No	
+row_25	DCTN4	dynactin subunit 4 [Source:HGNC Symbol;Acc:HGNC:15518]	null	null	7861	-0.18633130192756653	-0.40878335	No	
+row_26	ZRANB2	zinc finger RANBP2-type containing 2 [Source:HGNC Symbol;Acc:HGNC:13058]	null	null	8167	-0.20782271027565002	-0.41737515	Yes	
+row_27	RRM2	ribonucleotide reductase regulatory subunit M2 [Source:HGNC Symbol;Acc:HGNC:10452]	null	null	8238	-0.21273642778396606	-0.4029831	Yes	
+row_28	SPIDR	scaffold protein involved in DNA repair [Source:HGNC Symbol;Acc:HGNC:28971]	null	null	8330	-0.2205234318971634	-0.3898293	Yes	
+row_29	TUBA1A	tubulin alpha 1a [Source:HGNC Symbol;Acc:HGNC:20766]	null	null	8351	-0.2219487577676773	-0.36973733	Yes	
+row_30	DUT	deoxyuridine triphosphatase [Source:HGNC Symbol;Acc:HGNC:3078]	null	null	8407	-0.2274523377418518	-0.35245022	Yes	
+row_31	CDK1	cyclin dependent kinase 1 [Source:HGNC Symbol;Acc:HGNC:1722]	null	null	8451	-0.23198121786117554	-0.33356532	Yes	
+row_32	SLC3A2	solute carrier family 3 member 2 [Source:HGNC Symbol;Acc:HGNC:11026]	null	null	8540	-0.24098852276802063	-0.31809518	Yes	
+row_33	ATP5MF	ATP synthase membrane subunit f [Source:HGNC Symbol;Acc:HGNC:848]	null	null	8690	-0.2583654820919037	-0.30674165	Yes	
+row_34	ASNS	asparagine synthetase (glutamine-hydrolyzing) [Source:HGNC Symbol;Acc:HGNC:753]	null	null	8891	-0.28258016705513	-0.29786944	Yes	
+row_35	MCCC1	methylcrotonoyl-CoA carboxylase 1 [Source:HGNC Symbol;Acc:HGNC:6936]	null	null	8899	-0.28350555896759033	-0.2704295	Yes	
+row_36	UBE2C	ubiquitin conjugating enzyme E2 C [Source:HGNC Symbol;Acc:HGNC:15937]	null	null	9241	-0.3258945643901825	-0.2707606	Yes	
+row_37	PPIH	peptidylprolyl isomerase H [Source:HGNC Symbol;Acc:HGNC:14651]	null	null	9332	-0.3402208387851715	-0.24564287	Yes	
+row_38	UBR4	ubiquitin protein ligase E3 component n-recognin 4 [Source:HGNC Symbol;Acc:HGNC:30313]	null	null	9672	-0.40134504437446594	-0.23830146	Yes	
+row_39	CENPL	centromere protein L [Source:HGNC Symbol;Acc:HGNC:17879]	null	null	9911	-0.4587671160697937	-0.21559778	Yes	
+row_40	TYRO3	TYRO3 protein tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:12446]	null	null	10069	-0.4990503191947937	-0.18114579	Yes	
+row_41	SHMT2	serine hydroxymethyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:10852]	null	null	10113	-0.5164597034454346	-0.13405435	Yes	
+row_42	WARS1	tryptophanyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:12729]	null	null	10118	-0.5191131234169006	-0.08296635	Yes	
+row_43	PCLAF	PCNA clamp associated factor [Source:HGNC Symbol;Acc:HGNC:28961]	null	null	10234	-0.567021369934082	-0.037754238	Yes	
+row_44	FOXM1	forkhead box M1 [Source:HGNC Symbol;Acc:HGNC:3818]	null	null	10322	-0.6269736886024475	0.016082695	Yes	

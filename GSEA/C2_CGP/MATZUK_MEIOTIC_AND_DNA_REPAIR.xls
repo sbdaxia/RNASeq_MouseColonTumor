@@ -1,0 +1,23 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ERCC1	ERCC excision repair 1, endonuclease non-catalytic subunit [Source:HGNC Symbol;Acc:HGNC:3433]	null	null	923	0.39737072587013245	-0.01888615	No	
+row_1	FANCC	FA complementation group C [Source:HGNC Symbol;Acc:HGNC:3584]	null	null	1237	0.3454190492630005	0.01143754	No	
+row_2	MLH1	mutL homolog 1 [Source:HGNC Symbol;Acc:HGNC:7127]	null	null	2296	0.21403007209300995	-0.052308034	No	
+row_3	PPP3R1	protein phosphatase 3 regulatory subunit B, alpha [Source:HGNC Symbol;Acc:HGNC:9317]	null	null	2374	0.20734861493110657	-0.023513246	No	
+row_4	PMS2	PMS1 homolog 2, mismatch repair system component [Source:HGNC Symbol;Acc:HGNC:9122]	null	null	4174	0.06658578664064407	-0.18374515	No	
+row_5	FANCL	FA complementation group L [Source:HGNC Symbol;Acc:HGNC:20748]	null	null	4708	0.03162664175033569	-0.22914347	No	
+row_6	NBN	nibrin [Source:HGNC Symbol;Acc:HGNC:7652]	null	null	4898	0.018838893622159958	-0.24391234	No	
+row_7	TRIP13	thyroid hormone receptor interactor 13 [Source:HGNC Symbol;Acc:HGNC:12307]	null	null	5556	-0.024499446153640747	-0.30239773	No	
+row_8	IKBKG	inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [Source:HGNC Symbol;Acc:HGNC:5961]	null	null	5898	-0.045025184750556946	-0.32712024	No	
+row_9	UBR2	ubiquitin protein ligase E3 component n-recognin 2 [Source:HGNC Symbol;Acc:HGNC:21289]	null	null	5951	-0.04874448850750923	-0.32358903	No	
+row_10	MLH3	mutL homolog 3 [Source:HGNC Symbol;Acc:HGNC:7128]	null	null	5968	-0.05050388723611832	-0.31631234	No	
+row_11	ERCC2	ERCC excision repair 2, TFIIH core complex helicase subunit [Source:HGNC Symbol;Acc:HGNC:3434]	null	null	6370	-0.0759783610701561	-0.34136957	No	
+row_12	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	null	null	8160	-0.20743751525878906	-0.47608972	Yes	
+row_13	CKS2	CDC28 protein kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:2000]	null	null	8231	-0.21199117600917816	-0.4458169	Yes	
+row_14	BRWD1	bromodomain and WD repeat domain containing 1 [Source:HGNC Symbol;Acc:HGNC:12760]	null	null	8607	-0.24918359518051147	-0.43819347	Yes	
+row_15	FANCG	FA complementation group G [Source:HGNC Symbol;Acc:HGNC:3588]	null	null	9497	-0.3689303696155548	-0.4587903	Yes	
+row_16	CDK2	cyclin dependent kinase 2 [Source:HGNC Symbol;Acc:HGNC:1771]	null	null	9773	-0.4226825535297394	-0.4113665	Yes	
+row_17	ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	null	null	9834	-0.4380347728729248	-0.34072927	Yes	
+row_18	FANCA	FA complementation group A [Source:HGNC Symbol;Acc:HGNC:3582]	null	null	9883	-0.45115864276885986	-0.26665777	Yes	
+row_19	CDC25B	cell division cycle 25B [Source:HGNC Symbol;Acc:HGNC:1726]	null	null	10229	-0.5638588666915894	-0.2013072	Yes	
+row_20	SGO2	shugoshin 2 [Source:HGNC Symbol;Acc:HGNC:30812]	null	null	10260	-0.5839580297470093	-0.10236365	Yes	
+row_21	REC8	REC8 meiotic recombination protein [Source:HGNC Symbol;Acc:HGNC:16879]	null	null	10413	-0.7126039862632751	0.0073549994	Yes	

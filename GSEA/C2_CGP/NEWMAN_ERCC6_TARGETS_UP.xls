@@ -1,0 +1,21 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ABCB1	ATP binding cassette subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:40]	null	null	4	1.432892918586731	0.17967336	Yes	
+row_1	RGCC	regulator of cell cycle [Source:HGNC Symbol;Acc:HGNC:20369]	null	null	30	1.0330567359924316	0.3070983	Yes	
+row_2	CRIP1	cysteine rich protein 1 [Source:HGNC Symbol;Acc:HGNC:2360]	null	null	136	0.7700673341751099	0.39383623	Yes	
+row_3	SLC25A40	solute carrier family 25 member 40 [Source:HGNC Symbol;Acc:HGNC:29680]	null	null	300	0.6083837747573853	0.45471808	Yes	
+row_4	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	null	null	383	0.5569772720336914	0.5168759	Yes	
+row_5	CLDN23	claudin 23 [Source:HGNC Symbol;Acc:HGNC:17591]	null	null	398	0.5484799146652222	0.58446014	Yes	
+row_6	SLC7A11	solute carrier family 7 member 11 [Source:HGNC Symbol;Acc:HGNC:11059]	null	null	635	0.46677741408348083	0.6205763	Yes	
+row_7	CSTA	cystatin A [Source:HGNC Symbol;Acc:HGNC:2481]	null	null	937	0.3954062759876251	0.64151645	Yes	
+row_8	FABP5	fatty acid binding protein 5 [Source:HGNC Symbol;Acc:HGNC:3560]	null	null	1976	0.24570266902446747	0.5732602	No	
+row_9	LITAF	lipopolysaccharide induced TNF factor [Source:HGNC Symbol;Acc:HGNC:16841]	null	null	2496	0.19546331465244293	0.5482564	No	
+row_10	PCSK5	proprotein convertase subtilisin/kexin type 5 [Source:HGNC Symbol;Acc:HGNC:8747]	null	null	2698	0.18033407628536224	0.55172104	No	
+row_11	CXCL2	C-X-C motif chemokine ligand 2 [Source:HGNC Symbol;Acc:HGNC:4603]	null	null	3143	0.14225982129573822	0.5271944	No	
+row_12	PMAIP1	phorbol-12-myristate-13-acetate-induced protein 1 [Source:HGNC Symbol;Acc:HGNC:9108]	null	null	3909	0.0861896350979805	0.46496594	No	
+row_13	GPAT3	glycerol-3-phosphate acyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:28157]	null	null	4917	0.0177204217761755	0.37102228	No	
+row_14	CRACD	capping protein inhibiting regulator of actin dynamics [Source:HGNC Symbol;Acc:HGNC:29219]	null	null	5468	-0.0186262596398592	0.3208368	No	
+row_15	STEAP1	STEAP family member 1 [Source:HGNC Symbol;Acc:HGNC:11378]	null	null	6781	-0.10422197729349136	0.20863476	No	
+row_16	DBF4	DBF4 zinc finger [Source:HGNC Symbol;Acc:HGNC:17364]	null	null	7337	-0.14573396742343903	0.17394397	No	
+row_17	MYLIP	myosin regulatory light chain interacting protein [Source:HGNC Symbol;Acc:HGNC:21155]	null	null	7707	-0.1729048192501068	0.16043076	No	
+row_18	SLC38A1	solute carrier family 38 member 1 [Source:HGNC Symbol;Acc:HGNC:13447]	null	null	7875	-0.18721424043178558	0.16800703	No	
+row_19	IFIT2	interferon induced protein with tetratricopeptide repeats 2 [Source:HGNC Symbol;Acc:HGNC:5409]	null	null	10355	-0.649656355381012	0.012892848	No	

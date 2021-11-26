@@ -1,0 +1,19 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ARPC1B	actin related protein 2/3 complex subunit 1B [Source:HGNC Symbol;Acc:HGNC:704]	null	null	90	0.8524622917175293	0.13294646	Yes	
+row_1	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	null	null	340	0.5806160569190979	0.20557459	Yes	
+row_2	CAP1	cyclase associated actin cytoskeleton regulatory protein 1 [Source:HGNC Symbol;Acc:HGNC:20040]	null	null	406	0.5459760427474976	0.2900202	Yes	
+row_3	MDFI	MyoD family inhibitor [Source:HGNC Symbol;Acc:HGNC:6967]	null	null	557	0.49244245886802673	0.35746115	Yes	
+row_4	FGD6	FYVE, RhoGEF and PH domain containing 6 [Source:HGNC Symbol;Acc:HGNC:21740]	null	null	580	0.4831019639968872	0.43557313	Yes	
+row_5	STK25	serine/threonine kinase 25 [Source:HGNC Symbol;Acc:HGNC:11404]	null	null	651	0.4620416462421417	0.5056051	Yes	
+row_6	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	null	null	777	0.4277958571910858	0.5646995	Yes	
+row_7	ANXA5	annexin A5 [Source:HGNC Symbol;Acc:HGNC:543]	null	null	920	0.3978123664855957	0.6171922	Yes	
+row_8	HILPDA	hypoxia inducible lipid droplet associated [Source:HGNC Symbol;Acc:HGNC:28859]	null	null	973	0.38992786407470703	0.6769694	Yes	
+row_9	PLCE1	phospholipase C epsilon 1 [Source:HGNC Symbol;Acc:HGNC:17175]	null	null	1018	0.3818948268890381	0.73617667	Yes	
+row_10	ITGAV	integrin subunit alpha V [Source:HGNC Symbol;Acc:HGNC:6150]	null	null	2461	0.19853435456752777	0.6314533	No	
+row_11	DENR	density regulated re-initiation and release factor [Source:HGNC Symbol;Acc:HGNC:2769]	null	null	2839	0.16856837272644043	0.62344444	No	
+row_12	HMGA1	high mobility group AT-hook 1 [Source:HGNC Symbol;Acc:HGNC:5010]	null	null	2911	0.16203774511814117	0.64356935	No	
+row_13	TUBB6	tubulin beta 6 class V [Source:HGNC Symbol;Acc:HGNC:20776]	null	null	3401	0.12292082607746124	0.6172872	No	
+row_14	NCK2	NCK adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:7665]	null	null	4063	0.07521697133779526	0.5666613	No	
+row_15	CD63	CD63 molecule [Source:HGNC Symbol;Acc:HGNC:1692]	null	null	5334	-0.01001519151031971	0.44706	No	
+row_16	KPNB1	karyopherin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6400]	null	null	6098	-0.05941031128168106	0.38407028	No	
+row_17	CKS2	CDC28 protein kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:2000]	null	null	8231	-0.21199117600917816	0.2156975	No	

@@ -1,0 +1,33 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FLRT3	fibronectin leucine rich transmembrane protein 3 [Source:HGNC Symbol;Acc:HGNC:3762]	null	null	10	1.2296634912490845	0.11624935	Yes	
+row_1	TRIM29	tripartite motif containing 29 [Source:HGNC Symbol;Acc:HGNC:17274]	null	null	33	1.0290249586105347	0.2122275	Yes	
+row_2	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	null	null	111	0.8118894696235657	0.2822507	Yes	
+row_3	JAG1	jagged canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:6188]	null	null	377	0.5583756566047668	0.3101353	Yes	
+row_4	PKP1	plakophilin 1 [Source:HGNC Symbol;Acc:HGNC:9023]	null	null	404	0.5463908910751343	0.3597287	Yes	
+row_5	GJB5	gap junction protein beta 5 [Source:HGNC Symbol;Acc:HGNC:4287]	null	null	657	0.4607917070388794	0.379555	Yes	
+row_6	SLPI	secretory leukocyte peptidase inhibitor [Source:HGNC Symbol;Acc:HGNC:11092]	null	null	696	0.44778871536254883	0.4186028	Yes	
+row_7	CSTA	cystatin A [Source:HGNC Symbol;Acc:HGNC:2481]	null	null	937	0.3954062759876251	0.43334422	Yes	
+row_8	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	null	null	985	0.38837528228759766	0.4658685	Yes	
+row_9	CA12	carbonic anhydrase 12 [Source:HGNC Symbol;Acc:HGNC:1371]	null	null	1169	0.3553140461444855	0.48223838	Yes	
+row_10	LGALS7	galectin 7 [Source:HGNC Symbol;Acc:HGNC:6568]	null	null	1205	0.3511982262134552	0.5123665	Yes	
+row_11	AQP3	aquaporin 3 (Gill blood group) [Source:HGNC Symbol;Acc:HGNC:636]	null	null	1256	0.34262415766716003	0.54024315	Yes	
+row_12	KRT6A	keratin 6A [Source:HGNC Symbol;Acc:HGNC:6443]	null	null	1280	0.3394602835178375	0.57039976	Yes	
+row_13	KRT16	keratin 16 [Source:HGNC Symbol;Acc:HGNC:6423]	null	null	1309	0.33545321226119995	0.5996964	Yes	
+row_14	CXCL14	C-X-C motif chemokine ligand 14 [Source:HGNC Symbol;Acc:HGNC:10640]	null	null	1599	0.2923886477947235	0.59993374	Yes	
+row_15	NDRG1	N-myc downstream regulated 1 [Source:HGNC Symbol;Acc:HGNC:7679]	null	null	1641	0.2866569459438324	0.6233364	Yes	
+row_16	DST	dystonin [Source:HGNC Symbol;Acc:HGNC:1090]	null	null	1731	0.27581503987312317	0.6411163	Yes	
+row_17	GJA1	gap junction protein alpha 1 [Source:HGNC Symbol;Acc:HGNC:4274]	null	null	1898	0.255767822265625	0.64962333	Yes	
+row_18	POSTN	periostin [Source:HGNC Symbol;Acc:HGNC:16953]	null	null	1930	0.25061166286468506	0.6705465	Yes	
+row_19	FABP5	fatty acid binding protein 5 [Source:HGNC Symbol;Acc:HGNC:3560]	null	null	1976	0.24570266902446747	0.6896631	Yes	
+row_20	PDPN	podoplanin [Source:HGNC Symbol;Acc:HGNC:29602]	null	null	2238	0.22057969868183136	0.6857331	No	
+row_21	SERPINE2	serpin family E member 2 [Source:HGNC Symbol;Acc:HGNC:8951]	null	null	2872	0.16578389704227448	0.6410127	No	
+row_22	SPRR1A	small proline rich protein 1A [Source:HGNC Symbol;Acc:HGNC:11259]	null	null	3233	0.13507337868213654	0.61946714	No	
+row_23	S100A9	S100 calcium binding protein A9 [Source:HGNC Symbol;Acc:HGNC:10499]	null	null	4090	0.07264044135808945	0.5445475	No	
+row_24	ITGA6	integrin subunit alpha 6 [Source:HGNC Symbol;Acc:HGNC:6142]	null	null	4164	0.06724811345338821	0.5439776	No	
+row_25	PTPRZ1	protein tyrosine phosphatase receptor type Z1 [Source:HGNC Symbol;Acc:HGNC:9685]	null	null	4286	0.058482956141233444	0.53798294	No	
+row_26	S100A8	S100 calcium binding protein A8 [Source:HGNC Symbol;Acc:HGNC:10498]	null	null	4753	0.029082464054226875	0.49620003	No	
+row_27	SLC39A6	solute carrier family 39 member 6 [Source:HGNC Symbol;Acc:HGNC:18607]	null	null	5295	-0.007255401462316513	0.44516578	No	
+row_28	IL1B	interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	null	null	6256	-0.06900225579738617	0.35995576	No	
+row_29	MMP10	matrix metallopeptidase 10 [Source:HGNC Symbol;Acc:HGNC:7156]	null	null	6552	-0.08842825889587402	0.34017894	No	
+row_30	HTRA1	HtrA serine peptidase 1 [Source:HGNC Symbol;Acc:HGNC:9476]	null	null	7476	-0.15724089741706848	0.266917	No	
+row_31	PTGES	prostaglandin E synthase [Source:HGNC Symbol;Acc:HGNC:9599]	null	null	8352	-0.22200419008731842	0.20441733	No	

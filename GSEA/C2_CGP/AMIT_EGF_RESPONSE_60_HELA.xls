@@ -1,0 +1,42 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC20A1	solute carrier family 20 member 1 [Source:HGNC Symbol;Acc:HGNC:10946]	null	null	297	0.6099641919136047	0.04726036	Yes	
+row_1	FXR1	FMR1 autosomal homolog 1 [Source:HGNC Symbol;Acc:HGNC:4023]	null	null	533	0.5007643103599548	0.086904734	Yes	
+row_2	CCN2	cellular communication network factor 2 [Source:HGNC Symbol;Acc:HGNC:2500]	null	null	685	0.44996142387390137	0.128284	Yes	
+row_3	GPRC5A	G protein-coupled receptor class C group 5 member A [Source:HGNC Symbol;Acc:HGNC:9836]	null	null	691	0.449472039937973	0.18357386	Yes	
+row_4	FOSB	FosB proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3797]	null	null	697	0.4474959969520569	0.23861854	Yes	
+row_5	DCUN1D4	defective in cullin neddylation 1 domain containing 4 [Source:HGNC Symbol;Acc:HGNC:28998]	null	null	699	0.446980357170105	0.293982	Yes	
+row_6	RHOB	ras homolog family member B [Source:HGNC Symbol;Acc:HGNC:668]	null	null	843	0.41391000151634216	0.33165374	Yes	
+row_7	UGCG	UDP-glucose ceramide glucosyltransferase [Source:HGNC Symbol;Acc:HGNC:12524]	null	null	949	0.39321890473365784	0.37039462	Yes	
+row_8	KLF10	Kruppel like factor 10 [Source:HGNC Symbol;Acc:HGNC:11810]	null	null	1152	0.35775911808013916	0.39545348	Yes	
+row_9	HES1	hes family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:5192]	null	null	1528	0.30242642760276794	0.39709193	Yes	
+row_10	NCKAP1	NCK associated protein 1 [Source:HGNC Symbol;Acc:HGNC:7666]	null	null	1629	0.28861019015312195	0.42333192	Yes	
+row_11	KLF6	Kruppel like factor 6 [Source:HGNC Symbol;Acc:HGNC:2235]	null	null	1708	0.27833014726638794	0.45040163	Yes	
+row_12	EXOC5	exocyst complex component 5 [Source:HGNC Symbol;Acc:HGNC:10696]	null	null	1827	0.26338252425193787	0.471789	Yes	
+row_13	PKM	pyruvate kinase M1/2 [Source:HGNC Symbol;Acc:HGNC:9021]	null	null	2561	0.1905876100063324	0.42529267	No	
+row_14	DNAJC24	DnaJ heat shock protein family (Hsp40) member C24 [Source:HGNC Symbol;Acc:HGNC:26979]	null	null	2879	0.16503189504146576	0.4154341	No	
+row_15	MBNL2	muscleblind like splicing regulator 2 [Source:HGNC Symbol;Acc:HGNC:16746]	null	null	3225	0.13530829548835754	0.39920813	No	
+row_16	SERPINE1	serpin family E member 1 [Source:HGNC Symbol;Acc:HGNC:8583]	null	null	3276	0.13195498287677765	0.41079578	No	
+row_17	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	null	null	3365	0.12558582425117493	0.4179568	No	
+row_18	NAA15	N-alpha-acetyltransferase 15, NatA auxiliary subunit [Source:HGNC Symbol;Acc:HGNC:30782]	null	null	3450	0.11930960416793823	0.4247219	No	
+row_19	BHLHE40	basic helix-loop-helix family member e40 [Source:HGNC Symbol;Acc:HGNC:1046]	null	null	3479	0.1170133426785469	0.43656093	No	
+row_20	LDLR	low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:6547]	null	null	3651	0.10535453259944916	0.43326917	No	
+row_21	PMAIP1	phorbol-12-myristate-13-acetate-induced protein 1 [Source:HGNC Symbol;Acc:HGNC:9108]	null	null	3909	0.0861896350979805	0.41936985	No	
+row_22	ZFP36L1	ZFP36 ring finger protein like 1 [Source:HGNC Symbol;Acc:HGNC:1107]	null	null	4012	0.07899250090122223	0.4194101	No	
+row_23	PLSCR1	phospholipid scramblase 1 [Source:HGNC Symbol;Acc:HGNC:9092]	null	null	4120	0.0698055699467659	0.417832	No	
+row_24	CITED2	Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 2 [Source:HGNC Symbol;Acc:HGNC:1987]	null	null	4347	0.05377253517508507	0.40287703	No	
+row_25	ATG4A	autophagy related 4A cysteine peptidase [Source:HGNC Symbol;Acc:HGNC:16489]	null	null	4529	0.040815725922584534	0.39062068	No	
+row_26	PTPN11	protein tyrosine phosphatase non-receptor type 11 [Source:HGNC Symbol;Acc:HGNC:9644]	null	null	4929	0.01735813543200493	0.3545926	No	
+row_27	SOD2	superoxide dismutase 2 [Source:HGNC Symbol;Acc:HGNC:11180]	null	null	5014	0.0118842339143157	0.34802884	No	
+row_28	MED20	mediator complex subunit 20 [Source:HGNC Symbol;Acc:HGNC:16840]	null	null	5151	0.001956174848601222	0.3352572	No	
+row_29	CCN1	cellular communication network factor 1 [Source:HGNC Symbol;Acc:HGNC:2654]	null	null	5159	0.0016265837475657463	0.33478916	No	
+row_30	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	null	null	5226	-0.0018582254415377975	0.32870394	No	
+row_31	HSPH1	heat shock protein family H (Hsp110) member 1 [Source:HGNC Symbol;Acc:HGNC:16969]	null	null	5283	-0.006125325337052345	0.32410508	No	
+row_32	PER1	period circadian regulator 1 [Source:HGNC Symbol;Acc:HGNC:8845]	null	null	5479	-0.019549580290913582	0.30787042	No	
+row_33	LIF	LIF interleukin 6 family cytokine [Source:HGNC Symbol;Acc:HGNC:6596]	null	null	5517	-0.021935338154435158	0.30705136	No	
+row_34	FOSL2	FOS like 2, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3798]	null	null	5773	-0.0376766100525856	0.2873242	No	
+row_35	TNFAIP2	TNF alpha induced protein 2 [Source:HGNC Symbol;Acc:HGNC:11895]	null	null	6820	-0.10743255168199539	0.20055822	No	
+row_36	TIPARP	TCDD inducible poly(ADP-ribose) polymerase [Source:HGNC Symbol;Acc:HGNC:23696]	null	null	7052	-0.12454908341169357	0.1939064	No	
+row_37	MOAP1	modulator of apoptosis 1 [Source:HGNC Symbol;Acc:HGNC:16658]	null	null	7633	-0.1682644486427307	0.15928145	No	
+row_38	NKTR	natural killer cell triggering receptor [Source:HGNC Symbol;Acc:HGNC:7833]	null	null	8411	-0.2278127670288086	0.11319328	No	
+row_39	SLC2A3	solute carrier family 2 member 3 [Source:HGNC Symbol;Acc:HGNC:11007]	null	null	8585	-0.24729429185390472	0.12732135	No	
+row_40	NR4A2	nuclear receptor subfamily 4 group A member 2 [Source:HGNC Symbol;Acc:HGNC:7981]	null	null	9857	-0.4423096776008606	0.060574193	No	

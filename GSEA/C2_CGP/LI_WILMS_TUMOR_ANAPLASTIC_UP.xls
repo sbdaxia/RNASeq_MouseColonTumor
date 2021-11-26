@@ -1,0 +1,17 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NUSAP1	nucleolar and spindle associated protein 1 [Source:HGNC Symbol;Acc:HGNC:18538]	null	null	4654	0.034896694123744965	-0.43788636	No	
+row_1	KPNA2	karyopherin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6395]	null	null	7688	-0.1718764305114746	-0.69586384	Yes	
+row_2	HAT1	histone acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4821]	null	null	7980	-0.19414584338665009	-0.6879849	Yes	
+row_3	CENPA	centromere protein A [Source:HGNC Symbol;Acc:HGNC:1851]	null	null	8041	-0.19895271956920624	-0.6571706	Yes	
+row_4	PCGF3	polycomb group ring finger 3 [Source:HGNC Symbol;Acc:HGNC:10066]	null	null	8712	-0.26029181480407715	-0.6733238	Yes	
+row_5	RFC4	replication factor C subunit 4 [Source:HGNC Symbol;Acc:HGNC:9972]	null	null	8844	-0.2767718732357025	-0.6349942	Yes	
+row_6	G3BP2	G3BP stress granule assembly factor 2 [Source:HGNC Symbol;Acc:HGNC:30291]	null	null	8859	-0.27873530983924866	-0.58513457	Yes	
+row_7	NCAPH	non-SMC condensin I complex subunit H [Source:HGNC Symbol;Acc:HGNC:1112]	null	null	9061	-0.3012169599533081	-0.5489977	Yes	
+row_8	TTK	TTK protein kinase [Source:HGNC Symbol;Acc:HGNC:12401]	null	null	9213	-0.32064294815063477	-0.50451946	Yes	
+row_9	HTT	huntingtin [Source:HGNC Symbol;Acc:HGNC:4851]	null	null	9436	-0.35813018679618835	-0.45993394	Yes	
+row_10	CENPF	centromere protein F [Source:HGNC Symbol;Acc:HGNC:1857]	null	null	9608	-0.38897690176963806	-0.40481395	Yes	
+row_11	KIF2C	kinesin family member 2C [Source:HGNC Symbol;Acc:HGNC:6393]	null	null	9792	-0.42775288224220276	-0.34371743	Yes	
+row_12	CDCA3	cell division cycle associated 3 [Source:HGNC Symbol;Acc:HGNC:14624]	null	null	9940	-0.464033305644989	-0.27252042	Yes	
+row_13	RAD54L	RAD54 like [Source:HGNC Symbol;Acc:HGNC:9826]	null	null	9994	-0.4763302803039551	-0.19009104	Yes	
+row_14	MKI67	marker of proliferation Ki-67 [Source:HGNC Symbol;Acc:HGNC:7107]	null	null	10025	-0.48470258712768555	-0.10392819	Yes	
+row_15	RFC3	replication factor C subunit 3 [Source:HGNC Symbol;Acc:HGNC:9971]	null	null	10454	-0.8069993853569031	0.0034366555	Yes	

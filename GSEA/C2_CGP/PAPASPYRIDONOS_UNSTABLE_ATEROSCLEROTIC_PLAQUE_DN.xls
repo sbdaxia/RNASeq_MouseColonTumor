@@ -1,0 +1,30 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PAM	peptidylglycine alpha-amidating monooxygenase [Source:HGNC Symbol;Acc:HGNC:8596]	null	null	35	1.0262882709503174	0.09334151	Yes	
+row_1	CRIM1	cysteine rich transmembrane BMP regulator 1 [Source:HGNC Symbol;Acc:HGNC:2359]	null	null	50	0.9583380818367004	0.18228866	Yes	
+row_2	ADCY9	adenylate cyclase 9 [Source:HGNC Symbol;Acc:HGNC:240]	null	null	69	0.8985718488693237	0.2652229	Yes	
+row_3	PMEPA1	prostate transmembrane protein, androgen induced 1 [Source:HGNC Symbol;Acc:HGNC:14107]	null	null	150	0.7469829320907593	0.32794967	Yes	
+row_4	NIBAN1	niban apoptosis regulator 1 [Source:HGNC Symbol;Acc:HGNC:16784]	null	null	249	0.6423797011375427	0.37910125	Yes	
+row_5	CPED1	cadherin like and PC-esterase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:26159]	null	null	461	0.5256657600402832	0.40845615	Yes	
+row_6	DSTN	destrin, actin depolymerizing factor [Source:HGNC Symbol;Acc:HGNC:15750]	null	null	703	0.44577357172966003	0.42741686	Yes	
+row_7	MYLK	myosin light chain kinase [Source:HGNC Symbol;Acc:HGNC:7590]	null	null	827	0.41822266578674316	0.45506093	Yes	
+row_8	PKD2	polycystin 2, transient receptor potential cation channel [Source:HGNC Symbol;Acc:HGNC:9009]	null	null	942	0.39419808983802795	0.48130187	Yes	
+row_9	MAP1B	microtubule associated protein 1B [Source:HGNC Symbol;Acc:HGNC:6836]	null	null	1111	0.36441999673843384	0.49957588	Yes	
+row_10	SYNPO2	synaptopodin 2 [Source:HGNC Symbol;Acc:HGNC:17732]	null	null	1142	0.35953596234321594	0.53058034	Yes	
+row_11	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	null	null	1361	0.3266410827636719	0.540516	Yes	
+row_12	TNS1	tensin 1 [Source:HGNC Symbol;Acc:HGNC:11973]	null	null	1364	0.32641366124153137	0.5710764	Yes	
+row_13	MYH11	myosin heavy chain 11 [Source:HGNC Symbol;Acc:HGNC:7569]	null	null	1425	0.3161776661872864	0.59512854	Yes	
+row_14	EID1	EP300 interacting inhibitor of differentiation 1 [Source:HGNC Symbol;Acc:HGNC:1191]	null	null	1539	0.30067873001098633	0.61265457	Yes	
+row_15	LHFPL6	LHFPL tetraspan subfamily member 6 [Source:HGNC Symbol;Acc:HGNC:6586]	null	null	1866	0.25927579402923584	0.6059206	Yes	
+row_16	GJA1	gap junction protein alpha 1 [Source:HGNC Symbol;Acc:HGNC:4274]	null	null	1898	0.255767822265625	0.6270535	Yes	
+row_17	HSPB1	heat shock protein family B (small) member 1 [Source:HGNC Symbol;Acc:HGNC:5246]	null	null	2681	0.18161478638648987	0.56941676	No	
+row_18	RABGAP1	RAB GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:17155]	null	null	5244	-0.0028091545682400465	0.3247952	No	
+row_19	SOD3	superoxide dismutase 3 [Source:HGNC Symbol;Acc:HGNC:11181]	null	null	5247	-0.0029716757126152515	0.32488397	No	
+row_20	MAGED2	MAGE family member D2 [Source:HGNC Symbol;Acc:HGNC:16353]	null	null	5668	-0.030727138742804527	0.2876335	No	
+row_21	GRK5	G protein-coupled receptor kinase 5 [Source:HGNC Symbol;Acc:HGNC:4544]	null	null	5940	-0.04807320237159729	0.26625922	No	
+row_22	EMP2	epithelial membrane protein 2 [Source:HGNC Symbol;Acc:HGNC:3334]	null	null	6682	-0.09717845171689987	0.20458668	No	
+row_23	PRELP	proline and arginine rich end leucine rich repeat protein [Source:HGNC Symbol;Acc:HGNC:9357]	null	null	6780	-0.10421072691679001	0.20513277	No	
+row_24	MYLIP	myosin regulatory light chain interacting protein [Source:HGNC Symbol;Acc:HGNC:21155]	null	null	7707	-0.1729048192501068	0.13291138	No	
+row_25	MXRA7	matrix remodeling associated 7 [Source:HGNC Symbol;Acc:HGNC:7541]	null	null	8329	-0.22046589851379395	0.09432387	No	
+row_26	DSEL	dermatan sulfate epimerase like [Source:HGNC Symbol;Acc:HGNC:18144]	null	null	8809	-0.2719007730484009	0.07415499	No	
+row_27	CCN3	cellular communication network factor 3 [Source:HGNC Symbol;Acc:HGNC:7885]	null	null	9741	-0.4161866307258606	0.024375346	No	
+row_28	PKIG	cAMP-dependent protein kinase inhibitor gamma [Source:HGNC Symbol;Acc:HGNC:9019]	null	null	10072	-0.5001739263534546	0.039954163	No	

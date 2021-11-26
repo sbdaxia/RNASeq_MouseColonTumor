@@ -1,0 +1,38 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PLEK2	pleckstrin 2 [Source:HGNC Symbol;Acc:HGNC:19238]	null	null	55	0.9384995698928833	0.07081707	Yes	
+row_1	ITGA2	integrin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6137]	null	null	78	0.8781513571739197	0.13989878	Yes	
+row_2	SPRY4	sprouty RTK signaling antagonist 4 [Source:HGNC Symbol;Acc:HGNC:15533]	null	null	82	0.8649768829345703	0.20973	Yes	
+row_3	TNFRSF21	TNF receptor superfamily member 21 [Source:HGNC Symbol;Acc:HGNC:13469]	null	null	215	0.6730705499649048	0.25166482	Yes	
+row_4	MALL	mal, T cell differentiation protein like [Source:HGNC Symbol;Acc:HGNC:6818]	null	null	302	0.6071032881736755	0.29265234	Yes	
+row_5	MPZL2	myelin protein zero like 2 [Source:HGNC Symbol;Acc:HGNC:3496]	null	null	311	0.6018041968345642	0.3406715	Yes	
+row_6	DUSP6	dual specificity phosphatase 6 [Source:HGNC Symbol;Acc:HGNC:3072]	null	null	458	0.5264972448348999	0.36938536	Yes	
+row_7	ELK3	ETS transcription factor ELK3 [Source:HGNC Symbol;Acc:HGNC:3325]	null	null	503	0.5108209848403931	0.40658548	Yes	
+row_8	SLC7A11	solute carrier family 7 member 11 [Source:HGNC Symbol;Acc:HGNC:11059]	null	null	635	0.46677741408348083	0.43189308	Yes	
+row_9	CCN2	cellular communication network factor 2 [Source:HGNC Symbol;Acc:HGNC:2500]	null	null	685	0.44996142387390137	0.4636814	Yes	
+row_10	FOSL1	FOS like 1, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:13718]	null	null	844	0.41339367628097534	0.48207876	Yes	
+row_11	EREG	epiregulin [Source:HGNC Symbol;Acc:HGNC:3443]	null	null	882	0.40571945905685425	0.51142853	Yes	
+row_12	MAP1B	microtubule associated protein 1B [Source:HGNC Symbol;Acc:HGNC:6836]	null	null	1111	0.36441999673843384	0.5191599	Yes	
+row_13	DUSP5	dual specificity phosphatase 5 [Source:HGNC Symbol;Acc:HGNC:3071]	null	null	1407	0.31896427273750305	0.5167975	Yes	
+row_14	HBEGF	heparin binding EGF like growth factor [Source:HGNC Symbol;Acc:HGNC:3059]	null	null	1694	0.2798439562320709	0.5121247	Yes	
+row_15	PHLDA1	pleckstrin homology like domain family A member 1 [Source:HGNC Symbol;Acc:HGNC:8933]	null	null	1789	0.2690507173538208	0.5249432	Yes	
+row_16	MAFF	MAF bZIP transcription factor F [Source:HGNC Symbol;Acc:HGNC:6780]	null	null	2010	0.2427079975605011	0.5235734	Yes	
+row_17	EPHA2	EPH receptor A2 [Source:HGNC Symbol;Acc:HGNC:3386]	null	null	2058	0.2377152144908905	0.5383476	Yes	
+row_18	ERRFI1	ERBB receptor feedback inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:18185]	null	null	2288	0.21479330956935883	0.533854	Yes	
+row_19	PLK3	polo like kinase 3 [Source:HGNC Symbol;Acc:HGNC:2154]	null	null	2449	0.19934536516666412	0.53470856	Yes	
+row_20	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	null	null	2484	0.1965998113155365	0.5473933	Yes	
+row_21	STAMBPL1	STAM binding protein like 1 [Source:HGNC Symbol;Acc:HGNC:24105]	null	null	3002	0.1540868580341339	0.5104294	No	
+row_22	MAP3K5	mitogen-activated protein kinase kinase kinase 5 [Source:HGNC Symbol;Acc:HGNC:6857]	null	null	3047	0.15031248331069946	0.5184054	No	
+row_23	MXD1	MAX dimerization protein 1 [Source:HGNC Symbol;Acc:HGNC:6761]	null	null	3334	0.1281552016735077	0.5014361	No	
+row_24	BHLHE40	basic helix-loop-helix family member e40 [Source:HGNC Symbol;Acc:HGNC:1046]	null	null	3479	0.1170133426785469	0.49714702	No	
+row_25	CEMIP	cell migration inducing hyaluronidase 1 [Source:HGNC Symbol;Acc:HGNC:29213]	null	null	3616	0.10732988268136978	0.4928382	No	
+row_26	STRN3	striatin 3 [Source:HGNC Symbol;Acc:HGNC:15720]	null	null	4218	0.06332019716501236	0.44048122	No	
+row_27	GEM	GTP binding protein overexpressed in skeletal muscle [Source:HGNC Symbol;Acc:HGNC:4234]	null	null	4627	0.03588586300611496	0.40436214	No	
+row_28	LPAR6	lysophosphatidic acid receptor 6 [Source:HGNC Symbol;Acc:HGNC:15520]	null	null	5464	-0.018300438299775124	0.32587624	No	
+row_29	LIF	LIF interleukin 6 family cytokine [Source:HGNC Symbol;Acc:HGNC:6596]	null	null	5517	-0.021935338154435158	0.32268023	No	
+row_30	TRIB1	tribbles pseudokinase 1 [Source:HGNC Symbol;Acc:HGNC:16891]	null	null	5562	-0.02462603896856308	0.3204676	No	
+row_31	DUSP4	dual specificity phosphatase 4 [Source:HGNC Symbol;Acc:HGNC:3070]	null	null	6775	-0.1041087955236435	0.21297054	No	
+row_32	CAPN8	calpain 8 [Source:HGNC Symbol;Acc:HGNC:1485]	null	null	7504	-0.15881681442260742	0.1562064	No	
+row_33	EGR1	early growth response 1 [Source:HGNC Symbol;Acc:HGNC:3238]	null	null	7636	-0.16850003600120544	0.15733454	No	
+row_34	GOLT1A	golgi transport 1A [Source:HGNC Symbol;Acc:HGNC:24766]	null	null	8985	-0.29162806272506714	0.052029118	No	
+row_35	NAV2	neuron navigator 2 [Source:HGNC Symbol;Acc:HGNC:15997]	null	null	9830	-0.43693986535072327	0.0067144143	No	
+row_36	RASD1	ras related dexamethasone induced 1 [Source:HGNC Symbol;Acc:HGNC:15828]	null	null	10396	-0.6948081254959106	0.008991807	No	

@@ -1,0 +1,38 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GLRX	glutaredoxin [Source:HGNC Symbol;Acc:HGNC:4330]	null	null	68	0.8992370367050171	0.06639613	Yes	
+row_1	CAV2	caveolin 2 [Source:HGNC Symbol;Acc:HGNC:1528]	null	null	138	0.7659372091293335	0.12189003	Yes	
+row_2	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	null	null	228	0.6550020575523376	0.16647732	Yes	
+row_3	TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	null	null	257	0.635176420211792	0.21529244	Yes	
+row_4	APRT	adenine phosphoribosyltransferase [Source:HGNC Symbol;Acc:HGNC:626]	null	null	429	0.5360503196716309	0.24239247	Yes	
+row_5	ITGA3	integrin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6139]	null	null	488	0.5160695910453796	0.2786819	Yes	
+row_6	CASP9	caspase 9 [Source:HGNC Symbol;Acc:HGNC:1511]	null	null	637	0.4666904807090759	0.30235907	Yes	
+row_7	CCN2	cellular communication network factor 2 [Source:HGNC Symbol;Acc:HGNC:2500]	null	null	685	0.44996142387390137	0.3343414	Yes	
+row_8	FOSB	FosB proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3797]	null	null	697	0.4474959969520569	0.3695675	Yes	
+row_9	TIMP3	TIMP metallopeptidase inhibitor 3 [Source:HGNC Symbol;Acc:HGNC:11822]	null	null	967	0.390253484249115	0.37547344	Yes	
+row_10	TRIP6	thyroid hormone receptor interactor 6 [Source:HGNC Symbol;Acc:HGNC:12311]	null	null	987	0.3880314230918884	0.40511352	Yes	
+row_11	KRT14	keratin 14 [Source:HGNC Symbol;Acc:HGNC:6416]	null	null	1071	0.3714855909347534	0.42729017	Yes	
+row_12	IGFBP2	insulin like growth factor binding protein 2 [Source:HGNC Symbol;Acc:HGNC:5471]	null	null	1214	0.34987860918045044	0.44207138	Yes	
+row_13	KRT7	keratin 7 [Source:HGNC Symbol;Acc:HGNC:6445]	null	null	1415	0.3177436292171478	0.4486993	Yes	
+row_14	HBEGF	heparin binding EGF like growth factor [Source:HGNC Symbol;Acc:HGNC:3059]	null	null	1694	0.2798439562320709	0.44479346	Yes	
+row_15	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	null	null	1742	0.27437862753868103	0.46254134	Yes	
+row_16	CD9	CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	null	null	1765	0.2719901502132416	0.48248702	Yes	
+row_17	LUM	lumican [Source:HGNC Symbol;Acc:HGNC:6724]	null	null	2051	0.23842753469944	0.47455397	No	
+row_18	BSG	basigin (Ok blood group) [Source:HGNC Symbol;Acc:HGNC:1116]	null	null	2192	0.22613771259784698	0.47949487	No	
+row_19	MMP19	matrix metallopeptidase 19 [Source:HGNC Symbol;Acc:HGNC:7165]	null	null	2399	0.20457200706005096	0.47637406	No	
+row_20	COL1A2	collagen type I alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2198]	null	null	2680	0.18173755705356598	0.46432346	No	
+row_21	FOS	Fos proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3796]	null	null	2881	0.1648191213607788	0.45855385	No	
+row_22	PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	null	null	3245	0.13466814160346985	0.4347478	No	
+row_23	JUNB	JunB proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6205]	null	null	4465	0.04498933255672455	0.32178897	No	
+row_24	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	null	null	4908	0.018423104658722878	0.28100204	No	
+row_25	RHOG	ras homolog family member G [Source:HGNC Symbol;Acc:HGNC:672]	null	null	4965	0.01565384678542614	0.2769143	No	
+row_26	SOD3	superoxide dismutase 3 [Source:HGNC Symbol;Acc:HGNC:11181]	null	null	5247	-0.0029716757126152515	0.25027555	No	
+row_27	BAD	BCL2 associated agonist of cell death [Source:HGNC Symbol;Acc:HGNC:936]	null	null	5496	-0.020792987197637558	0.22823825	No	
+row_28	TIMP2	TIMP metallopeptidase inhibitor 2 [Source:HGNC Symbol;Acc:HGNC:11821]	null	null	5630	-0.028116218745708466	0.21779522	No	
+row_29	FASTK	Fas activated serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:24676]	null	null	5702	-0.03321166709065437	0.21369602	No	
+row_30	ARHGDIB	Rho GDP dissociation inhibitor beta [Source:HGNC Symbol;Acc:HGNC:679]	null	null	8643	-0.25247856974601746	-0.047067706	No	
+row_31	PLA2G6	phospholipase A2 group VI [Source:HGNC Symbol;Acc:HGNC:9039]	null	null	8841	-0.2764506936073303	-0.043500412	No	
+row_32	MMP13	matrix metallopeptidase 13 [Source:HGNC Symbol;Acc:HGNC:7159]	null	null	8937	-0.28710150718688965	-0.029312631	No	
+row_33	TP53I11	tumor protein p53 inducible protein 11 [Source:HGNC Symbol;Acc:HGNC:16842]	null	null	9484	-0.3664681613445282	-0.051832005	No	
+row_34	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	null	null	10001	-0.47795671224594116	-0.06244333	No	
+row_35	QSOX1	quiescin sulfhydryl oxidase 1 [Source:HGNC Symbol;Acc:HGNC:9756]	null	null	10313	-0.623197615146637	-0.041670308	No	
+row_36	CDKN2C	cyclin dependent kinase inhibitor 2C [Source:HGNC Symbol;Acc:HGNC:1789]	null	null	10419	-0.7216760516166687	0.0067917	No	

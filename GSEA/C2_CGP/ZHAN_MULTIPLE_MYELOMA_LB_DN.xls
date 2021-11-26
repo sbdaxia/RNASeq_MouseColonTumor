@@ -1,0 +1,28 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CAP1	cyclase associated actin cytoskeleton regulatory protein 1 [Source:HGNC Symbol;Acc:HGNC:20040]	null	null	406	0.5459760427474976	0.023369495	No	
+row_1	DUSP6	dual specificity phosphatase 6 [Source:HGNC Symbol;Acc:HGNC:3072]	null	null	458	0.5264972448348999	0.07844682	No	
+row_2	ZMIZ1	zinc finger MIZ-type containing 1 [Source:HGNC Symbol;Acc:HGNC:16493]	null	null	1070	0.37160614132881165	0.06237019	No	
+row_3	HIF1A	hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910]	null	null	2521	0.19358021020889282	-0.054157566	No	
+row_4	LYSMD2	LysM domain containing 2 [Source:HGNC Symbol;Acc:HGNC:28571]	null	null	3155	0.14131562411785126	-0.09855936	No	
+row_5	BASP1	brain abundant membrane attached signal protein 1 [Source:HGNC Symbol;Acc:HGNC:957]	null	null	3355	0.12647055089473724	-0.103176	No	
+row_6	WIPF1	WAS/WASL interacting protein family member 1 [Source:HGNC Symbol;Acc:HGNC:12736]	null	null	4278	0.05926402285695076	-0.18453935	No	
+row_7	CCR2	C-C motif chemokine receptor 2 [Source:HGNC Symbol;Acc:HGNC:1603]	null	null	4641	0.03527072072029114	-0.21511795	No	
+row_8	TACC1	transforming acidic coiled-coil containing protein 1 [Source:HGNC Symbol;Acc:HGNC:11522]	null	null	5709	-0.033575791865587234	-0.3132634	No	
+row_9	AKNA	AT-hook transcription factor [Source:HGNC Symbol;Acc:HGNC:24108]	null	null	5902	-0.04527346417307854	-0.32645682	No	
+row_10	IFI27	interferon alpha inducible protein 27 [Source:HGNC Symbol;Acc:HGNC:5397]	null	null	6717	-0.10019905120134354	-0.39283788	No	
+row_11	SMAD1	SMAD family member 1 [Source:HGNC Symbol;Acc:HGNC:6767]	null	null	7348	-0.14669398963451385	-0.43634054	No	
+row_12	SEPHS1	selenophosphate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:19685]	null	null	8021	-0.1972583383321762	-0.47809932	No	
+row_13	TRAF5	TNF receptor associated factor 5 [Source:HGNC Symbol;Acc:HGNC:12035]	null	null	8495	-0.23678778111934662	-0.49633938	No	
+row_14	CASP4	caspase 4 [Source:HGNC Symbol;Acc:HGNC:1505]	null	null	9225	-0.3237069249153137	-0.52914697	Yes	
+row_15	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	null	null	9311	-0.33559533953666687	-0.4990565	Yes	
+row_16	RTP4	receptor transporter protein 4 [Source:HGNC Symbol;Acc:HGNC:23992]	null	null	9331	-0.34021928906440735	-0.46213216	Yes	
+row_17	GTPBP1	GTP binding protein 1 [Source:HGNC Symbol;Acc:HGNC:4669]	null	null	9663	-0.3994970917701721	-0.4482745	Yes	
+row_18	LY6E	lymphocyte antigen 6 family member E [Source:HGNC Symbol;Acc:HGNC:6727]	null	null	9762	-0.4201923608779907	-0.40979347	Yes	
+row_19	STAT2	signal transducer and activator of transcription 2 [Source:HGNC Symbol;Acc:HGNC:11363]	null	null	9932	-0.4625176787376404	-0.3732781	Yes	
+row_20	IFI35	interferon induced protein 35 [Source:HGNC Symbol;Acc:HGNC:5399]	null	null	9985	-0.4745757579803467	-0.32420856	Yes	
+row_21	USP18	ubiquitin specific peptidase 18 [Source:HGNC Symbol;Acc:HGNC:12616]	null	null	10002	-0.4782516658306122	-0.27128005	Yes	
+row_22	IRF1	interferon regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:6116]	null	null	10052	-0.49332940578460693	-0.21978836	Yes	
+row_23	XAF1	XIAP associated factor 1 [Source:HGNC Symbol;Acc:HGNC:30932]	null	null	10098	-0.50916987657547	-0.16611066	Yes	
+row_24	DDX60	DExD/H-box helicase 60 [Source:HGNC Symbol;Acc:HGNC:25942]	null	null	10169	-0.536372184753418	-0.111724645	Yes	
+row_25	RSAD2	radical S-adenosyl methionine domain containing 2 [Source:HGNC Symbol;Acc:HGNC:30908]	null	null	10212	-0.5555347204208374	-0.05248079	Yes	
+row_26	PSMB10	proteasome 20S subunit beta 10 [Source:HGNC Symbol;Acc:HGNC:9538]	null	null	10395	-0.6933684349060059	0.009078712	Yes	

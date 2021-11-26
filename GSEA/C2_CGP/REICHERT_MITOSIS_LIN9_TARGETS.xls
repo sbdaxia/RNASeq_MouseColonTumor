@@ -1,0 +1,28 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MYO6	myosin VI [Source:HGNC Symbol;Acc:HGNC:7605]	null	null	1451	0.313111275434494	-0.10653137	No	
+row_1	CALD1	caldesmon 1 [Source:HGNC Symbol;Acc:HGNC:1441]	null	null	1672	0.2825239896774292	-0.09856046	No	
+row_2	NUSAP1	nucleolar and spindle associated protein 1 [Source:HGNC Symbol;Acc:HGNC:18538]	null	null	4654	0.034896694123744965	-0.37986052	No	
+row_3	CDK11B	cyclin dependent kinase 11B [Source:HGNC Symbol;Acc:HGNC:1729]	null	null	7058	-0.12495820969343185	-0.5966806	No	
+row_4	CEP55	centrosomal protein 55 [Source:HGNC Symbol;Acc:HGNC:1161]	null	null	7645	-0.1689453125	-0.6353433	No	
+row_5	CCNF	cyclin F [Source:HGNC Symbol;Acc:HGNC:1591]	null	null	7915	-0.19006000459194183	-0.6415447	Yes	
+row_6	CENPA	centromere protein A [Source:HGNC Symbol;Acc:HGNC:1851]	null	null	8041	-0.19895271956920624	-0.6330719	Yes	
+row_7	ASPM	assembly factor for spindle microtubules [Source:HGNC Symbol;Acc:HGNC:19048]	null	null	8259	-0.21480663120746613	-0.6317641	Yes	
+row_8	LMLN	leishmanolysin like peptidase [Source:HGNC Symbol;Acc:HGNC:15991]	null	null	8575	-0.2462826520204544	-0.63659143	Yes	
+row_9	VCPIP1	valosin containing protein interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:30897]	null	null	8576	-0.24634391069412231	-0.6113092	Yes	
+row_10	HMGB2	high mobility group box 2 [Source:HGNC Symbol;Acc:HGNC:5000]	null	null	8614	-0.2503524422645569	-0.5891515	Yes	
+row_11	CCNB1	cyclin B1 [Source:HGNC Symbol;Acc:HGNC:1579]	null	null	8668	-0.2560858428478241	-0.56793445	Yes	
+row_12	KNL1	kinetochore scaffold 1 [Source:HGNC Symbol;Acc:HGNC:24054]	null	null	8873	-0.2805652916431427	-0.55863553	Yes	
+row_13	FBXO5	F-box protein 5 [Source:HGNC Symbol;Acc:HGNC:13584]	null	null	9173	-0.31555435061454773	-0.5548244	Yes	
+row_14	HMMR	hyaluronan mediated motility receptor [Source:HGNC Symbol;Acc:HGNC:5012]	null	null	9184	-0.31772223114967346	-0.5231723	Yes	
+row_15	ANAPC1	anaphase promoting complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:19988]	null	null	9364	-0.34550803899765015	-0.50481915	Yes	
+row_16	KIF23	kinesin family member 23 [Source:HGNC Symbol;Acc:HGNC:6392]	null	null	9526	-0.3730476200580597	-0.48191947	Yes	
+row_17	CENPF	centromere protein F [Source:HGNC Symbol;Acc:HGNC:1857]	null	null	9608	-0.38897690176963806	-0.4497397	Yes	
+row_18	KIF2C	kinesin family member 2C [Source:HGNC Symbol;Acc:HGNC:6393]	null	null	9792	-0.42775288224220276	-0.42332804	Yes	
+row_19	AURKA	aurora kinase A [Source:HGNC Symbol;Acc:HGNC:11393]	null	null	9865	-0.445352703332901	-0.38450232	Yes	
+row_20	MKI67	marker of proliferation Ki-67 [Source:HGNC Symbol;Acc:HGNC:7107]	null	null	10025	-0.48470258712768555	-0.34995237	Yes	
+row_21	KIF20A	kinesin family member 20A [Source:HGNC Symbol;Acc:HGNC:9787]	null	null	10146	-0.5308979153633118	-0.30693433	Yes	
+row_22	CDCA2	cell division cycle associated 2 [Source:HGNC Symbol;Acc:HGNC:14623]	null	null	10267	-0.5908008813858032	-0.25776845	Yes	
+row_23	PLK1	polo like kinase 1 [Source:HGNC Symbol;Acc:HGNC:9077]	null	null	10270	-0.592936635017395	-0.19710663	Yes	
+row_24	CENPE	centromere protein E [Source:HGNC Symbol;Acc:HGNC:1856]	null	null	10385	-0.6812216639518738	-0.1380875	Yes	
+row_25	TOP2A	DNA topoisomerase II alpha [Source:HGNC Symbol;Acc:HGNC:11989]	null	null	10405	-0.704357385635376	-0.0676152	Yes	
+row_26	NCAPD2	non-SMC condensin I complex subunit D2 [Source:HGNC Symbol;Acc:HGNC:24305]	null	null	10430	-0.7370439171791077	0.0057338686	Yes	

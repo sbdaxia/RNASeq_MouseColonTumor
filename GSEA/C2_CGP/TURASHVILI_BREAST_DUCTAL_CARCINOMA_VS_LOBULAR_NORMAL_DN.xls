@@ -1,0 +1,39 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	null	null	157	0.7393895387649536	0.05572422	Yes	
+row_1	CX3CL1	C-X3-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:10647]	null	null	174	0.7140886783599854	0.12251663	Yes	
+row_2	FOSB	FosB proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3797]	null	null	697	0.4474959969520569	0.11539465	Yes	
+row_3	CADM1	cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5951]	null	null	735	0.43883517384529114	0.15384218	Yes	
+row_4	MYLK	myosin light chain kinase [Source:HGNC Symbol;Acc:HGNC:7590]	null	null	827	0.41822266578674316	0.18515155	Yes	
+row_5	RCAN1	regulator of calcineurin 1 [Source:HGNC Symbol;Acc:HGNC:3040]	null	null	850	0.41250619292259216	0.22251494	Yes	
+row_6	PROM1	prominin 1 [Source:HGNC Symbol;Acc:HGNC:9454]	null	null	887	0.40501201152801514	0.25782198	Yes	
+row_7	KRT14	keratin 14 [Source:HGNC Symbol;Acc:HGNC:6416]	null	null	1071	0.3714855909347534	0.2758583	Yes	
+row_8	SYNM	synemin [Source:HGNC Symbol;Acc:HGNC:24466]	null	null	1120	0.3634280264377594	0.30603865	Yes	
+row_9	SYNPO2	synaptopodin 2 [Source:HGNC Symbol;Acc:HGNC:17732]	null	null	1142	0.35953596234321594	0.33842957	Yes	
+row_10	KRT5	keratin 5 [Source:HGNC Symbol;Acc:HGNC:6442]	null	null	1197	0.3523123562335968	0.3669724	Yes	
+row_11	ACTG2	actin gamma 2, smooth muscle [Source:HGNC Symbol;Acc:HGNC:145]	null	null	1255	0.342671662569046	0.3943058	Yes	
+row_12	TAGLN	transgelin [Source:HGNC Symbol;Acc:HGNC:11553]	null	null	1303	0.3360881209373474	0.42196596	Yes	
+row_13	CNN1	calponin 1 [Source:HGNC Symbol;Acc:HGNC:2155]	null	null	1326	0.3322362005710602	0.45164922	Yes	
+row_14	GHR	growth hormone receptor [Source:HGNC Symbol;Acc:HGNC:4263]	null	null	1369	0.32586750388145447	0.4788098	Yes	
+row_15	OXR1	oxidation resistance 1 [Source:HGNC Symbol;Acc:HGNC:15822]	null	null	1400	0.32046806812286377	0.5066018	Yes	
+row_16	MYH11	myosin heavy chain 11 [Source:HGNC Symbol;Acc:HGNC:7569]	null	null	1425	0.3161776661872864	0.5345573	Yes	
+row_17	RPL31	ribosomal protein L31 [Source:HGNC Symbol;Acc:HGNC:10334]	null	null	1654	0.2848816514015198	0.54000247	Yes	
+row_18	CAV1	caveolin 1 [Source:HGNC Symbol;Acc:HGNC:1527]	null	null	1865	0.25934457778930664	0.5447263	Yes	
+row_19	ELF3	E74 like ETS transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:3318]	null	null	2755	0.17565852403640747	0.4764857	No	
+row_20	FOS	Fos proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3796]	null	null	2881	0.1648191213607788	0.48029712	No	
+row_21	ADH1B	alcohol dehydrogenase 1B (class I), beta polypeptide [Source:HGNC Symbol;Acc:HGNC:250]	null	null	3937	0.08451097458600998	0.38745505	No	
+row_22	YBX3	Y-box binding protein 3 [Source:HGNC Symbol;Acc:HGNC:2428]	null	null	4015	0.07878218591213226	0.38762653	No	
+row_23	KRT17	keratin 17 [Source:HGNC Symbol;Acc:HGNC:6427]	null	null	4182	0.06586536020040512	0.37804782	No	
+row_24	SENP6	SUMO specific peptidase 6 [Source:HGNC Symbol;Acc:HGNC:20944]	null	null	4413	0.04912228137254715	0.36074454	No	
+row_25	CSNK1A1	casein kinase 1 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2451]	null	null	4870	0.021138111129403114	0.31914315	No	
+row_26	ATP1A2	ATPase Na+/K+ transporting subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:800]	null	null	6446	-0.08079930394887924	0.17619948	No	
+row_27	FAM126A	family with sequence similarity 126 member A [Source:HGNC Symbol;Acc:HGNC:24587]	null	null	6638	-0.0941380113363266	0.16693422	No	
+row_28	MAOA	monoamine oxidase A [Source:HGNC Symbol;Acc:HGNC:6833]	null	null	6741	-0.10173063725233078	0.16690971	No	
+row_29	SFRP1	secreted frizzled related protein 1 [Source:HGNC Symbol;Acc:HGNC:10776]	null	null	6835	-0.10898371785879135	0.16844016	No	
+row_30	PTN	pleiotrophin [Source:HGNC Symbol;Acc:HGNC:9630]	null	null	6966	-0.11817657947540283	0.16731052	No	
+row_31	PLEKHS1	pleckstrin homology domain containing S1 [Source:HGNC Symbol;Acc:HGNC:26285]	null	null	7044	-0.12422347068786621	0.17182976	No	
+row_32	GPM6B	glycoprotein M6B [Source:HGNC Symbol;Acc:HGNC:4461]	null	null	7624	-0.167857825756073	0.13249938	No	
+row_33	NFIB	nuclear factor I B [Source:HGNC Symbol;Acc:HGNC:7785]	null	null	7746	-0.17633473873138428	0.13779524	No	
+row_34	ATF3	activating transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:785]	null	null	8824	-0.27376824617385864	0.060956407	No	
+row_35	MGP	matrix Gla protein [Source:HGNC Symbol;Acc:HGNC:7060]	null	null	9011	-0.2954348921775818	0.0714293	No	
+row_36	MMP7	matrix metallopeptidase 7 [Source:HGNC Symbol;Acc:HGNC:7174]	null	null	9365	-0.34572356939315796	0.07073747	No	
+row_37	PIGR	polymeric immunoglobulin receptor [Source:HGNC Symbol;Acc:HGNC:8968]	null	null	9582	-0.3845316767692566	0.086865045	No	

@@ -1,0 +1,16 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AQP8	aquaporin 8 [Source:HGNC Symbol;Acc:HGNC:642]	null	null	294	0.6143277287483215	0.14224711	Yes	
+row_1	ETHE1	ETHE1 persulfide dioxygenase [Source:HGNC Symbol;Acc:HGNC:23287]	null	null	577	0.4842253625392914	0.24957117	Yes	
+row_2	DHCR7	7-dehydrocholesterol reductase [Source:HGNC Symbol;Acc:HGNC:2860]	null	null	609	0.47338104248046875	0.37784836	Yes	
+row_3	MSMO1	methylsterol monooxygenase 1 [Source:HGNC Symbol;Acc:HGNC:10545]	null	null	758	0.4332577586174011	0.48383373	Yes	
+row_4	CES2	carboxylesterase 2 [Source:HGNC Symbol;Acc:HGNC:1864]	null	null	933	0.3962944746017456	0.5770898	Yes	
+row_5	HMGCS1	3-hydroxy-3-methylglutaryl-CoA synthase 1 [Source:HGNC Symbol;Acc:HGNC:5007]	null	null	1829	0.2631360590457916	0.5646062	Yes	
+row_6	SQLE	squalene epoxidase [Source:HGNC Symbol;Acc:HGNC:11279]	null	null	2255	0.21843023598194122	0.58459306	Yes	
+row_7	IDI1	isopentenyl-diphosphate delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:5387]	null	null	2367	0.2077493965625763	0.6315922	Yes	
+row_8	CYP51A1	cytochrome P450 family 51 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2649]	null	null	2385	0.20587491989135742	0.68704456	Yes	
+row_9	GSTA3	glutathione S-transferase alpha 3 [Source:HGNC Symbol;Acc:HGNC:4628]	null	null	3677	0.10389982163906097	0.5926148	No	
+row_10	FDPS	farnesyl diphosphate synthase [Source:HGNC Symbol;Acc:HGNC:3631]	null	null	3896	0.08712708950042725	0.5959598	No	
+row_11	CYP2C18	cytochrome P450 family 2 subfamily C member 18 [Source:HGNC Symbol;Acc:HGNC:2620]	null	null	4706	0.031760863959789276	0.5275408	No	
+row_12	GSTM1	glutathione S-transferase mu 1 [Source:HGNC Symbol;Acc:HGNC:4632]	null	null	5075	0.006768675986677408	0.49428937	No	
+row_13	TCEA3	transcription elongation factor A3 [Source:HGNC Symbol;Acc:HGNC:11615]	null	null	5585	-0.02591574378311634	0.4528868	No	
+row_14	CYB5B	cytochrome b5 type B [Source:HGNC Symbol;Acc:HGNC:24374]	null	null	6038	-0.054938919842243195	0.42497137	No	

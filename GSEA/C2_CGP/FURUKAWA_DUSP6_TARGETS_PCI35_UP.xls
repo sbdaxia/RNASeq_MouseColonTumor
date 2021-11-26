@@ -1,0 +1,37 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FXYD3	FXYD domain containing ion transport regulator 3 [Source:HGNC Symbol;Acc:HGNC:4027]	null	null	243	0.645699143409729	0.03116653	No	
+row_1	CLEC2D	C-type lectin domain family 2 member D [Source:HGNC Symbol;Acc:HGNC:14351]	null	null	254	0.6368147134780884	0.08387041	No	
+row_2	KRT14	keratin 14 [Source:HGNC Symbol;Acc:HGNC:6416]	null	null	1071	0.3714855909347534	0.037124384	No	
+row_3	AQP3	aquaporin 3 (Gill blood group) [Source:HGNC Symbol;Acc:HGNC:636]	null	null	1256	0.34262415766716003	0.048395928	No	
+row_4	C15orf48	chromosome 15 open reading frame 48 [Source:HGNC Symbol;Acc:HGNC:29898]	null	null	2223	0.22288431227207184	-0.025218999	No	
+row_5	ARHGEF37	Rho guanine nucleotide exchange factor 37 [Source:HGNC Symbol;Acc:HGNC:34430]	null	null	2457	0.19901259243488312	-0.03073545	No	
+row_6	ZFAT	zinc finger and AT-hook domain containing [Source:HGNC Symbol;Acc:HGNC:19899]	null	null	2571	0.18961390852928162	-0.025566107	No	
+row_7	EPB41L4A	erythrocyte membrane protein band 4.1 like 4A [Source:HGNC Symbol;Acc:HGNC:13278]	null	null	2729	0.17830651998519897	-0.025558079	No	
+row_8	KRT17	keratin 17 [Source:HGNC Symbol;Acc:HGNC:6427]	null	null	4182	0.06586536020040512	-0.15888894	No	
+row_9	ZBTB20	zinc finger and BTB domain containing 20 [Source:HGNC Symbol;Acc:HGNC:13503]	null	null	4572	0.038460105657577515	-0.19285522	No	
+row_10	C1S	complement C1s [Source:HGNC Symbol;Acc:HGNC:1247]	null	null	4906	0.018475672230124474	-0.22314918	No	
+row_11	OFD1	OFD1 centriole and centriolar satellite protein [Source:HGNC Symbol;Acc:HGNC:2567]	null	null	5229	-0.002330400748178363	-0.2537515	No	
+row_12	HMOX1	heme oxygenase 1 [Source:HGNC Symbol;Acc:HGNC:5013]	null	null	6669	-0.09628383815288544	-0.38327575	No	
+row_13	DUSP4	dual specificity phosphatase 4 [Source:HGNC Symbol;Acc:HGNC:3070]	null	null	6775	-0.1041087955236435	-0.3845462	No	
+row_14	ID3	inhibitor of DNA binding 3, HLH protein [Source:HGNC Symbol;Acc:HGNC:5362]	null	null	6801	-0.10582548379898071	-0.37802014	No	
+row_15	SLC15A3	solute carrier family 15 member 3 [Source:HGNC Symbol;Acc:HGNC:18068]	null	null	7259	-0.1390342265367508	-0.41001573	No	
+row_16	APH1B	aph-1 homolog B, gamma-secretase subunit [Source:HGNC Symbol;Acc:HGNC:24080]	null	null	7340	-0.14591336250305176	-0.40537238	No	
+row_17	BPHL	biphenyl hydrolase like [Source:HGNC Symbol;Acc:HGNC:1094]	null	null	7679	-0.17108725011348724	-0.42328498	No	
+row_18	SOX4	SRY-box transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:11200]	null	null	8692	-0.2585010528564453	-0.4982985	Yes	
+row_19	RNASE1	ribonuclease A family member 1, pancreatic [Source:HGNC Symbol;Acc:HGNC:10044]	null	null	8775	-0.2675134539604187	-0.48359996	Yes	
+row_20	SMIM14	small integral membrane protein 14 [Source:HGNC Symbol;Acc:HGNC:27321]	null	null	8813	-0.2726975381374359	-0.46416044	Yes	
+row_21	IFITM1	interferon induced transmembrane protein 1 [Source:HGNC Symbol;Acc:HGNC:5412]	null	null	9013	-0.2955970764160156	-0.4582863	Yes	
+row_22	SLC2A10	solute carrier family 2 member 10 [Source:HGNC Symbol;Acc:HGNC:13444]	null	null	9095	-0.30544427037239075	-0.44029593	Yes	
+row_23	RTP4	receptor transporter protein 4 [Source:HGNC Symbol;Acc:HGNC:23992]	null	null	9331	-0.34021928906440735	-0.43410507	Yes	
+row_24	PYCARD	PYD and CARD domain containing [Source:HGNC Symbol;Acc:HGNC:16608]	null	null	9745	-0.41702863574028015	-0.43846732	Yes	
+row_25	ST6GALNAC2	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:10867]	null	null	9853	-0.4410324990749359	-0.41153863	Yes	
+row_26	SECTM1	secreted and transmembrane 1 [Source:HGNC Symbol;Acc:HGNC:10707]	null	null	9867	-0.44541820883750916	-0.37524948	Yes	
+row_27	PARP9	poly(ADP-ribose) polymerase family member 9 [Source:HGNC Symbol;Acc:HGNC:24118]	null	null	9884	-0.45153045654296875	-0.3387322	Yes	
+row_28	CD24	CD24 molecule [Source:HGNC Symbol;Acc:HGNC:1645]	null	null	10119	-0.5192188620567322	-0.31736255	Yes	
+row_29	SHFL	shiftless antiviral inhibitor of ribosomal frameshifting [Source:HGNC Symbol;Acc:HGNC:25649]	null	null	10174	-0.5377780795097351	-0.27721238	Yes	
+row_30	HERC6	HECT and RLD domain containing E3 ubiquitin protein ligase family member 6 [Source:HGNC Symbol;Acc:HGNC:26072]	null	null	10178	-0.5401490330696106	-0.23198438	Yes	
+row_31	ALDH1B1	aldehyde dehydrogenase 1 family member B1 [Source:HGNC Symbol;Acc:HGNC:407]	null	null	10271	-0.5941181778907776	-0.1907214	Yes	
+row_32	ENPP5	ectonucleotide pyrophosphatase/phosphodiesterase family member 5 [Source:HGNC Symbol;Acc:HGNC:13717]	null	null	10283	-0.6004979610443115	-0.14117335	Yes	
+row_33	TMCO4	transmembrane and coiled-coil domains 4 [Source:HGNC Symbol;Acc:HGNC:27393]	null	null	10304	-0.6150203347206116	-0.09126242	Yes	
+row_34	PSMB9	proteasome 20S subunit beta 9 [Source:HGNC Symbol;Acc:HGNC:9546]	null	null	10332	-0.6352822780609131	-0.040313683	Yes	
+row_35	TAPBPL	TAP binding protein like [Source:HGNC Symbol;Acc:HGNC:30683]	null	null	10360	-0.6566336750984192	0.0124342	Yes	

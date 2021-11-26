@@ -1,0 +1,34 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KCTD5	potassium channel tetramerization domain containing 5 [Source:HGNC Symbol;Acc:HGNC:21423]	null	null	210	0.6775199770927429	0.07280169	Yes	
+row_1	NEU1	neuraminidase 1 [Source:HGNC Symbol;Acc:HGNC:7758]	null	null	373	0.5599980354309082	0.13408193	Yes	
+row_2	POR	cytochrome p450 oxidoreductase [Source:HGNC Symbol;Acc:HGNC:9208]	null	null	425	0.5364882946014404	0.2027531	Yes	
+row_3	DDR1	discoidin domain receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:2730]	null	null	722	0.44259917736053467	0.23512584	Yes	
+row_4	LASP1	LIM and SH3 protein 1 [Source:HGNC Symbol;Acc:HGNC:6513]	null	null	747	0.4363133907318115	0.29264566	Yes	
+row_5	ADIPOR1	adiponectin receptor 1 [Source:HGNC Symbol;Acc:HGNC:24040]	null	null	779	0.4276488125324249	0.3483083	Yes	
+row_6	SPINT1	serine peptidase inhibitor, Kunitz type 1 [Source:HGNC Symbol;Acc:HGNC:11246]	null	null	782	0.42698273062705994	0.40665263	Yes	
+row_7	GPX4	glutathione peroxidase 4 [Source:HGNC Symbol;Acc:HGNC:4556]	null	null	1267	0.34187981486320496	0.40724096	Yes	
+row_8	MVK	mevalonate kinase [Source:HGNC Symbol;Acc:HGNC:7530]	null	null	1705	0.2787035405635834	0.40366256	Yes	
+row_9	CLDN3	claudin 3 [Source:HGNC Symbol;Acc:HGNC:2045]	null	null	1817	0.26549607515335083	0.42944586	Yes	
+row_10	CYB561	cytochrome b561 [Source:HGNC Symbol;Acc:HGNC:2571]	null	null	2029	0.24118858575820923	0.44233474	Yes	
+row_11	BSG	basigin (Ok blood group) [Source:HGNC Symbol;Acc:HGNC:1116]	null	null	2192	0.22613771259784698	0.4578457	Yes	
+row_12	PRKCD	protein kinase C delta [Source:HGNC Symbol;Acc:HGNC:9399]	null	null	2252	0.2188825160264969	0.48221093	Yes	
+row_13	ARHGEF16	Rho guanine nucleotide exchange factor 16 [Source:HGNC Symbol;Acc:HGNC:15515]	null	null	2594	0.1880902349948883	0.4753898	Yes	
+row_14	TOLLIP	toll interacting protein [Source:HGNC Symbol;Acc:HGNC:16476]	null	null	2609	0.18745949864387512	0.49975017	Yes	
+row_15	SLC37A1	solute carrier family 37 member 1 [Source:HGNC Symbol;Acc:HGNC:11024]	null	null	3128	0.1432611644268036	0.46985856	No	
+row_16	MMP15	matrix metallopeptidase 15 [Source:HGNC Symbol;Acc:HGNC:7161]	null	null	3140	0.14247989654541016	0.48833945	No	
+row_17	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	null	null	3301	0.130544051527977	0.4909366	No	
+row_18	BRMS1	BRMS1 transcriptional repressor and anoikis regulator [Source:HGNC Symbol;Acc:HGNC:17262]	null	null	3627	0.10668081045150757	0.47448492	No	
+row_19	RNF126	ring finger protein 126 [Source:HGNC Symbol;Acc:HGNC:21151]	null	null	3727	0.10042162984609604	0.4787854	No	
+row_20	NEDD8	NEDD8 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:7732]	null	null	4133	0.06932942569255829	0.4495635	No	
+row_21	NECTIN2	nectin cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:9707]	null	null	4335	0.05463315546512604	0.43783352	No	
+row_22	PMPCA	peptidase, mitochondrial processing subunit alpha [Source:HGNC Symbol;Acc:HGNC:18667]	null	null	4839	0.022881362587213516	0.3928732	No	
+row_23	DUSP10	dual specificity phosphatase 10 [Source:HGNC Symbol;Acc:HGNC:3065]	null	null	5741	-0.035540688782930374	0.31159136	No	
+row_24	TJP3	tight junction protein 3 [Source:HGNC Symbol;Acc:HGNC:11829]	null	null	6129	-0.061579059809446335	0.28302816	No	
+row_25	SYNJ2BP	synaptojanin 2 binding protein [Source:HGNC Symbol;Acc:HGNC:18955]	null	null	6132	-0.06167343631386757	0.29129177	No	
+row_26	CDK16	cyclin dependent kinase 16 [Source:HGNC Symbol;Acc:HGNC:8749]	null	null	6212	-0.06598681211471558	0.29278398	No	
+row_27	HNRNPAB	heterogeneous nuclear ribonucleoprotein A/B [Source:HGNC Symbol;Acc:HGNC:5034]	null	null	6432	-0.0799771398305893	0.28280723	No	
+row_28	TMED10	transmembrane p24 trafficking protein 10 [Source:HGNC Symbol;Acc:HGNC:16998]	null	null	6518	-0.08553709834814072	0.28640586	No	
+row_29	CDC34	cell division cycle 34, ubiqiutin conjugating enzyme [Source:HGNC Symbol;Acc:HGNC:1734]	null	null	6652	-0.09512960910797119	0.28672975	No	
+row_30	UBE2M	ubiquitin conjugating enzyme E2 M [Source:HGNC Symbol;Acc:HGNC:12491]	null	null	7258	-0.13881714642047882	0.2479099	No	
+row_31	CLSTN1	calsyntenin 1 [Source:HGNC Symbol;Acc:HGNC:17447]	null	null	8159	-0.207392156124115	0.19028302	No	
+row_32	CORO1B	coronin 1B [Source:HGNC Symbol;Acc:HGNC:2253]	null	null	8497	-0.23716260492801666	0.19057178	No	

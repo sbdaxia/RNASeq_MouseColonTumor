@@ -1,0 +1,20 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALDH1A3	aldehyde dehydrogenase 1 family member A3 [Source:HGNC Symbol;Acc:HGNC:409]	null	null	13	1.1841182708740234	0.18907402	Yes	
+row_1	PCSK6	proprotein convertase subtilisin/kexin type 6 [Source:HGNC Symbol;Acc:HGNC:8569]	null	null	15	1.1593390703201294	0.37531134	Yes	
+row_2	LRRK1	leucine rich repeat kinase 1 [Source:HGNC Symbol;Acc:HGNC:18608]	null	null	255	0.6358684301376343	0.45468748	Yes	
+row_3	CHSY1	chondroitin sulfate synthase 1 [Source:HGNC Symbol;Acc:HGNC:17198]	null	null	392	0.5508632063865662	0.530237	Yes	
+row_4	CERS3	ceramide synthase 3 [Source:HGNC Symbol;Acc:HGNC:23752]	null	null	922	0.3974270224571228	0.54359716	Yes	
+row_5	SYNM	synemin [Source:HGNC Symbol;Acc:HGNC:24466]	null	null	1120	0.3634280264377594	0.58319646	Yes	
+row_6	IGF1R	insulin like growth factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:5465]	null	null	2504	0.19456355273723602	0.48240086	No	
+row_7	LRRC28	leucine rich repeat containing 28 [Source:HGNC Symbol;Acc:HGNC:28355]	null	null	2696	0.18038137257099152	0.49315324	No	
+row_8	TTC23	tetratricopeptide repeat domain 23 [Source:HGNC Symbol;Acc:HGNC:25730]	null	null	2961	0.15748976171016693	0.49325547	No	
+row_9	TARS3	threonyl-tRNA synthetase 3 [Source:HGNC Symbol;Acc:HGNC:24728]	null	null	3153	0.14140571653842926	0.49774355	No	
+row_10	SELENOS	selenoprotein S [Source:HGNC Symbol;Acc:HGNC:30396]	null	null	3757	0.09840153902769089	0.45597684	No	
+row_11	LINS1	lines homolog 1 [Source:HGNC Symbol;Acc:HGNC:30922]	null	null	3767	0.097476065158844	0.47078407	No	
+row_12	MEF2A	myocyte enhancer factor 2A [Source:HGNC Symbol;Acc:HGNC:6993]	null	null	4824	0.02390918880701065	0.3737865	No	
+row_13	TM2D3	TM2 domain containing 3 [Source:HGNC Symbol;Acc:HGNC:24128]	null	null	4932	0.017227739095687866	0.3663377	No	
+row_14	ARRDC4	arrestin domain containing 4 [Source:HGNC Symbol;Acc:HGNC:28087]	null	null	5259	-0.004010102245956659	0.33585155	No	
+row_15	SNRPA1	small nuclear ribonucleoprotein polypeptide A' [Source:HGNC Symbol;Acc:HGNC:11152]	null	null	7371	-0.1490193009376526	0.15821725	No	
+row_16	ASB7	ankyrin repeat and SOCS box containing 7 [Source:HGNC Symbol;Acc:HGNC:17182]	null	null	7835	-0.18337443470954895	0.14347665	No	
+row_17	LYSMD4	LysM domain containing 4 [Source:HGNC Symbol;Acc:HGNC:26571]	null	null	9326	-0.3387513756752014	0.05563771	No	
+row_18	ADAMTS17	ADAM metallopeptidase with thrombospondin type 1 motif 17 [Source:HGNC Symbol;Acc:HGNC:17109]	null	null	9361	-0.344818651676178	0.107811354	No	

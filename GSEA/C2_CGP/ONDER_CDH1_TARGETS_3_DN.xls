@@ -1,0 +1,31 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SCEL	sciellin [Source:HGNC Symbol;Acc:HGNC:10573]	null	null	60	0.9215428829193115	0.08866245	Yes	
+row_1	DSC2	desmocollin 2 [Source:HGNC Symbol;Acc:HGNC:3036]	null	null	141	0.7649310827255249	0.15937056	Yes	
+row_2	CWH43	cell wall biogenesis 43 C-terminal homolog [Source:HGNC Symbol;Acc:HGNC:26133]	null	null	184	0.7017253637313843	0.22723673	Yes	
+row_3	KRT8	keratin 8 [Source:HGNC Symbol;Acc:HGNC:6446]	null	null	337	0.5837623476982117	0.27250415	Yes	
+row_4	ANO1	anoctamin 1 [Source:HGNC Symbol;Acc:HGNC:21625]	null	null	371	0.5617377758026123	0.32689103	Yes	
+row_5	SERPINB1	serpin family B member 1 [Source:HGNC Symbol;Acc:HGNC:3311]	null	null	451	0.5279015898704529	0.37341467	Yes	
+row_6	DUSP6	dual specificity phosphatase 6 [Source:HGNC Symbol;Acc:HGNC:3072]	null	null	458	0.5264972448348999	0.42677274	Yes	
+row_7	GPRC5A	G protein-coupled receptor class C group 5 member A [Source:HGNC Symbol;Acc:HGNC:9836]	null	null	691	0.449472039937973	0.4506367	Yes	
+row_8	C1orf116	chromosome 1 open reading frame 116 [Source:HGNC Symbol;Acc:HGNC:28667]	null	null	959	0.3913109302520752	0.46519718	Yes	
+row_9	KRT13	keratin 13 [Source:HGNC Symbol;Acc:HGNC:6415]	null	null	1112	0.3643505871295929	0.4879892	Yes	
+row_10	P2RY2	purinergic receptor P2Y2 [Source:HGNC Symbol;Acc:HGNC:8541]	null	null	1181	0.35342761874198914	0.51769215	Yes	
+row_11	KLK10	kallikrein related peptidase 10 [Source:HGNC Symbol;Acc:HGNC:6358]	null	null	1337	0.33109867572784424	0.5367912	Yes	
+row_12	EPN3	epsin 3 [Source:HGNC Symbol;Acc:HGNC:18235]	null	null	1619	0.28932324051856995	0.5395663	Yes	
+row_13	HBEGF	heparin binding EGF like growth factor [Source:HGNC Symbol;Acc:HGNC:3059]	null	null	1694	0.2798439562320709	0.5611582	Yes	
+row_14	EDN1	endothelin 1 [Source:HGNC Symbol;Acc:HGNC:3176]	null	null	1718	0.27737778425216675	0.58737266	Yes	
+row_15	TGFA	transforming growth factor alpha [Source:HGNC Symbol;Acc:HGNC:11765]	null	null	1920	0.25262629985809326	0.59403616	Yes	
+row_16	CXCL2	C-X-C motif chemokine ligand 2 [Source:HGNC Symbol;Acc:HGNC:4603]	null	null	3143	0.14225982129573822	0.49179366	No	
+row_17	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	null	null	3316	0.1294930875301361	0.48861626	No	
+row_18	PTGS2	prostaglandin-endoperoxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:9605]	null	null	3489	0.1162724420428276	0.48408458	No	
+row_19	KRT15	keratin 15 [Source:HGNC Symbol;Acc:HGNC:6421]	null	null	3516	0.11404747515916824	0.49328157	No	
+row_20	ATP12A	ATPase H+/K+ transporting non-gastric alpha2 subunit [Source:HGNC Symbol;Acc:HGNC:13816]	null	null	4385	0.05152423679828644	0.4155846	No	
+row_21	ARL4C	ADP ribosylation factor like GTPase 4C [Source:HGNC Symbol;Acc:HGNC:698]	null	null	4585	0.037817515432834625	0.4004354	No	
+row_22	MYO5C	myosin VC [Source:HGNC Symbol;Acc:HGNC:7604]	null	null	5270	-0.005142027512192726	0.3355764	No	
+row_23	EHF	ETS homologous factor [Source:HGNC Symbol;Acc:HGNC:3246]	null	null	5536	-0.023259976878762245	0.31262684	No	
+row_24	IL1B	interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	null	null	6256	-0.06900225579738617	0.2509636	No	
+row_25	MMP10	matrix metallopeptidase 10 [Source:HGNC Symbol;Acc:HGNC:7156]	null	null	6552	-0.08842825889587402	0.23182173	No	
+row_26	CXCL3	C-X-C motif chemokine ligand 3 [Source:HGNC Symbol;Acc:HGNC:4604]	null	null	7426	-0.1522219479084015	0.16396174	No	
+row_27	IL1R2	interleukin 1 receptor type 2 [Source:HGNC Symbol;Acc:HGNC:5994]	null	null	7798	-0.18004192411899567	0.14693923	No	
+row_28	LCN2	lipocalin 2 [Source:HGNC Symbol;Acc:HGNC:6526]	null	null	10140	-0.5292033553123474	-0.022635516	No	
+row_29	CXCL1	C-X-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:4602]	null	null	10193	-0.5466660857200623	0.028391263	No	

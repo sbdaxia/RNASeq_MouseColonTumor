@@ -1,0 +1,58 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CFTR	CF transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	null	null	201	0.6870986223220825	0.029193461	No	
+row_1	MEP1B	meprin A subunit beta [Source:HGNC Symbol;Acc:HGNC:7020]	null	null	1123	0.36279016733169556	-0.033490002	No	
+row_2	ART3	ADP-ribosyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:725]	null	null	1177	0.35379528999328613	-0.013618251	No	
+row_3	STAM2	signal transducing adaptor molecule 2 [Source:HGNC Symbol;Acc:HGNC:11358]	null	null	1190	0.35293397307395935	0.010122215	No	
+row_4	PGS1	phosphatidylglycerophosphate synthase 1 [Source:HGNC Symbol;Acc:HGNC:30029]	null	null	1265	0.3421185612678528	0.027157817	No	
+row_5	NF2	neurofibromin 2 [Source:HGNC Symbol;Acc:HGNC:7773]	null	null	1325	0.33247068524360657	0.044950612	No	
+row_6	ARL4A	ADP ribosylation factor like GTPase 4A [Source:HGNC Symbol;Acc:HGNC:695]	null	null	1501	0.3067462742328644	0.049811702	No	
+row_7	SEPTIN4	septin 4 [Source:HGNC Symbol;Acc:HGNC:9165]	null	null	1807	0.2669913172721863	0.03940982	No	
+row_8	SLC12A2	solute carrier family 12 member 2 [Source:HGNC Symbol;Acc:HGNC:10911]	null	null	2151	0.22905166447162628	0.022690313	No	
+row_9	IP6K1	inositol hexakisphosphate kinase 1 [Source:HGNC Symbol;Acc:HGNC:18360]	null	null	2390	0.2053854614496231	0.014365012	No	
+row_10	CSNK2A2	casein kinase 2 alpha 2 [Source:HGNC Symbol;Acc:HGNC:2459]	null	null	2568	0.18983744084835052	0.010789462	No	
+row_11	ACE	angiotensin I converting enzyme [Source:HGNC Symbol;Acc:HGNC:2707]	null	null	2767	0.17480021715164185	0.004140767	No	
+row_12	VDAC3	voltage dependent anion channel 3 [Source:HGNC Symbol;Acc:HGNC:12674]	null	null	2811	0.17057138681411743	0.012049116	No	
+row_13	MAST2	microtubule associated serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:19035]	null	null	2908	0.162244513630867	0.014290667	No	
+row_14	MTOR	mechanistic target of rapamycin kinase [Source:HGNC Symbol;Acc:HGNC:3942]	null	null	3578	0.11016923934221268	-0.042056993	No	
+row_15	SPATA6	spermatogenesis associated 6 [Source:HGNC Symbol;Acc:HGNC:18309]	null	null	3703	0.10202932357788086	-0.04674563	No	
+row_16	TLE4	TLE family member 4, transcriptional corepressor [Source:HGNC Symbol;Acc:HGNC:11840]	null	null	3737	0.09971325844526291	-0.042876124	No	
+row_17	BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	null	null	3769	0.09730863571166992	-0.038984522	No	
+row_18	MAP7	microtubule associated protein 7 [Source:HGNC Symbol;Acc:HGNC:6869]	null	null	4159	0.06751810014247894	-0.071504794	No	
+row_19	HSPA4L	heat shock protein family A (Hsp70) member 4 like [Source:HGNC Symbol;Acc:HGNC:17041]	null	null	4289	0.05843941867351532	-0.0797468	No	
+row_20	AGFG1	ArfGAP with FG repeats 1 [Source:HGNC Symbol;Acc:HGNC:5175]	null	null	5132	0.0031652958132326603	-0.1602213	No	
+row_21	SIRT1	sirtuin 1 [Source:HGNC Symbol;Acc:HGNC:14929]	null	null	5271	-0.0051439255475997925	-0.1730845	No	
+row_22	CHFR	checkpoint with forkhead and ring finger domains [Source:HGNC Symbol;Acc:HGNC:20455]	null	null	6030	-0.054230883717536926	-0.241907	No	
+row_23	TSN	translin [Source:HGNC Symbol;Acc:HGNC:12379]	null	null	6097	-0.05935545265674591	-0.24404645	No	
+row_24	CLPB	caseinolytic mitochondrial matrix peptidase chaperone subunit B [Source:HGNC Symbol;Acc:HGNC:30664]	null	null	6591	-0.09120047092437744	-0.28486395	No	
+row_25	ZC3H14	zinc finger CCCH-type containing 14 [Source:HGNC Symbol;Acc:HGNC:20509]	null	null	6627	-0.09359810501337051	-0.2816174	No	
+row_26	PHKG2	phosphorylase kinase catalytic subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:8931]	null	null	6807	-0.10626465827226639	-0.29127857	No	
+row_27	IDE	insulin degrading enzyme [Source:HGNC Symbol;Acc:HGNC:5381]	null	null	6914	-0.11401667445898056	-0.29339668	No	
+row_28	DBF4	DBF4 zinc finger [Source:HGNC Symbol;Acc:HGNC:17364]	null	null	7337	-0.14573396742343903	-0.32356355	No	
+row_29	IFT88	intraflagellar transport 88 [Source:HGNC Symbol;Acc:HGNC:20606]	null	null	7346	-0.1466221809387207	-0.3139898	No	
+row_30	GMCL1	germ cell-less 1, spermatogenesis associated [Source:HGNC Symbol;Acc:HGNC:23843]	null	null	7614	-0.16702686250209808	-0.32779968	Yes	
+row_31	TALDO1	transaldolase 1 [Source:HGNC Symbol;Acc:HGNC:11559]	null	null	7687	-0.17183545231819153	-0.32258156	Yes	
+row_32	COIL	coilin [Source:HGNC Symbol;Acc:HGNC:2184]	null	null	7693	-0.17205891013145447	-0.31092635	Yes	
+row_33	STRBP	spermatid perinuclear RNA binding protein [Source:HGNC Symbol;Acc:HGNC:16462]	null	null	7737	-0.17524828016757965	-0.30268818	Yes	
+row_34	NEK2	NIMA related kinase 2 [Source:HGNC Symbol;Acc:HGNC:7745]	null	null	7760	-0.1778007298707962	-0.29225734	Yes	
+row_35	NPHP1	nephrocystin 1 [Source:HGNC Symbol;Acc:HGNC:7905]	null	null	7910	-0.18968042731285095	-0.2931604	Yes	
+row_36	RAD17	RAD17 checkpoint clamp loader component [Source:HGNC Symbol;Acc:HGNC:9807]	null	null	8011	-0.19647011160850525	-0.28888848	Yes	
+row_37	PSMG1	proteasome assembly chaperone 1 [Source:HGNC Symbol;Acc:HGNC:3043]	null	null	8052	-0.19942313432693481	-0.27865785	Yes	
+row_38	MLLT10	MLLT10 histone lysine methyltransferase DOT1L cofactor [Source:HGNC Symbol;Acc:HGNC:16063]	null	null	8245	-0.21352672576904297	-0.28200033	Yes	
+row_39	CDK1	cyclin dependent kinase 1 [Source:HGNC Symbol;Acc:HGNC:1722]	null	null	8451	-0.23198121786117554	-0.28528723	Yes	
+row_40	PIAS2	protein inhibitor of activated STAT 2 [Source:HGNC Symbol;Acc:HGNC:17311]	null	null	8656	-0.2542761266231537	-0.28690594	Yes	
+row_41	TOPBP1	DNA topoisomerase II binding protein 1 [Source:HGNC Symbol;Acc:HGNC:17008]	null	null	8701	-0.25920334458351135	-0.2728427	Yes	
+row_42	PRKAR2A	protein kinase cAMP-dependent type II regulatory subunit alpha [Source:HGNC Symbol;Acc:HGNC:9391]	null	null	8804	-0.2714259624481201	-0.26347622	Yes	
+row_43	RFC4	replication factor C subunit 4 [Source:HGNC Symbol;Acc:HGNC:9972]	null	null	8844	-0.2767718732357025	-0.24769475	Yes	
+row_44	NCAPH	non-SMC condensin I complex subunit H [Source:HGNC Symbol;Acc:HGNC:1112]	null	null	9061	-0.3012169599533081	-0.24715307	Yes	
+row_45	EZH2	enhancer of zeste 2 polycomb repressive complex 2 subunit [Source:HGNC Symbol;Acc:HGNC:3527]	null	null	9101	-0.30566051602363586	-0.22933425	Yes	
+row_46	TTK	TTK protein kinase [Source:HGNC Symbol;Acc:HGNC:12401]	null	null	9213	-0.32064294815063477	-0.2173593	Yes	
+row_47	PEBP1	phosphatidylethanolamine binding protein 1 [Source:HGNC Symbol;Acc:HGNC:8630]	null	null	9358	-0.3440859913825989	-0.20689379	Yes	
+row_48	LPIN1	lipin 1 [Source:HGNC Symbol;Acc:HGNC:13345]	null	null	9482	-0.3661629855632782	-0.19285865	Yes	
+row_49	CCNB2	cyclin B2 [Source:HGNC Symbol;Acc:HGNC:1580]	null	null	9704	-0.40924298763275146	-0.18517768	Yes	
+row_50	KIF2C	kinesin family member 2C [Source:HGNC Symbol;Acc:HGNC:6393]	null	null	9792	-0.42775288224220276	-0.16334867	Yes	
+row_51	AURKA	aurora kinase A [Source:HGNC Symbol;Acc:HGNC:11393]	null	null	9865	-0.445352703332901	-0.13884084	Yes	
+row_52	PARP2	poly(ADP-ribose) polymerase 2 [Source:HGNC Symbol;Acc:HGNC:272]	null	null	9900	-0.45525357127189636	-0.1099928	Yes	
+row_53	BUB1	BUB1 mitotic checkpoint serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1148]	null	null	9981	-0.47359350323677063	-0.084260024	Yes	
+row_54	GFI1	growth factor independent 1 transcriptional repressor [Source:HGNC Symbol;Acc:HGNC:4237]	null	null	10128	-0.5251489877700806	-0.061216775	Yes	
+row_55	GSTM3	glutathione S-transferase mu 3 [Source:HGNC Symbol;Acc:HGNC:4635]	null	null	10334	-0.6369807720184326	-0.03594122	Yes	
+row_56	ALOX15	arachidonate 15-lipoxygenase [Source:HGNC Symbol;Acc:HGNC:433]	null	null	10417	-0.7202643156051636	0.006996261	Yes	

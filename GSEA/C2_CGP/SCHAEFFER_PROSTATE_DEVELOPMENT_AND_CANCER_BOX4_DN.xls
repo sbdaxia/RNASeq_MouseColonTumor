@@ -1,0 +1,34 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IER3IP1	immediate early response 3 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:18550]	null	null	3023	0.1524486541748047	-0.26485652	No	
+row_1	SYMPK	symplekin [Source:HGNC Symbol;Acc:HGNC:22935]	null	null	3205	0.13729877769947052	-0.26036474	No	
+row_2	NRIP1	nuclear receptor interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:8001]	null	null	3337	0.1277722418308258	-0.25260445	No	
+row_3	LRPAP1	LDL receptor related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	null	null	3831	0.09183193743228912	-0.28516513	No	
+row_4	SRSF9	serine and arginine rich splicing factor 9 [Source:HGNC Symbol;Acc:HGNC:10791]	null	null	3874	0.08837256580591202	-0.27515015	No	
+row_5	IER2	immediate early response 2 [Source:HGNC Symbol;Acc:HGNC:28871]	null	null	4470	0.044504716992378235	-0.32497832	No	
+row_6	CSNK1A1	casein kinase 1 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2451]	null	null	4870	0.021138111129403114	-0.3597748	No	
+row_7	CDC37L1	cell division cycle 37 like 1 [Source:HGNC Symbol;Acc:HGNC:17179]	null	null	5018	0.011638069525361061	-0.37198326	No	
+row_8	HNRNPC	heterogeneous nuclear ribonucleoprotein C [Source:HGNC Symbol;Acc:HGNC:5035]	null	null	5384	-0.013271433301270008	-0.40477765	No	
+row_9	ZNF664	zinc finger protein 664 [Source:HGNC Symbol;Acc:HGNC:25406]	null	null	5945	-0.04828518256545067	-0.45065886	No	
+row_10	SFPQ	splicing factor proline and glutamine rich [Source:HGNC Symbol;Acc:HGNC:10774]	null	null	6051	-0.05606473237276077	-0.45179754	No	
+row_11	PRPF40A	pre-mRNA processing factor 40 homolog A [Source:HGNC Symbol;Acc:HGNC:16463]	null	null	6052	-0.05610227957367897	-0.4428901	No	
+row_12	TOB2	transducer of ERBB2, 2 [Source:HGNC Symbol;Acc:HGNC:11980]	null	null	6426	-0.07951906323432922	-0.46593124	No	
+row_13	VPS36	vacuolar protein sorting 36 homolog [Source:HGNC Symbol;Acc:HGNC:20312]	null	null	6442	-0.08058618754148483	-0.45457077	No	
+row_14	SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2 [Source:HGNC Symbol;Acc:HGNC:11098]	null	null	6788	-0.10461633652448654	-0.4709498	Yes	
+row_15	EIF3A	eukaryotic translation initiation factor 3 subunit A [Source:HGNC Symbol;Acc:HGNC:3271]	null	null	6894	-0.11275646090507507	-0.46308744	Yes	
+row_16	PPHLN1	periphilin 1 [Source:HGNC Symbol;Acc:HGNC:19369]	null	null	6920	-0.11450468003749847	-0.4472979	Yes	
+row_17	TMED2	transmembrane p24 trafficking protein 2 [Source:HGNC Symbol;Acc:HGNC:16996]	null	null	6980	-0.11939692497253418	-0.4339827	Yes	
+row_18	GCC2	GRIP and coiled-coil domain containing 2 [Source:HGNC Symbol;Acc:HGNC:23218]	null	null	7395	-0.15007734298706055	-0.44974163	Yes	
+row_19	PSMC6	proteasome 26S subunit, ATPase 6 [Source:HGNC Symbol;Acc:HGNC:9553]	null	null	7512	-0.15983946621418	-0.4354557	Yes	
+row_20	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	null	null	8192	-0.20918092131614685	-0.46717015	Yes	
+row_21	REST	RE1 silencing transcription factor [Source:HGNC Symbol;Acc:HGNC:9966]	null	null	8280	-0.2163216918706894	-0.44114345	Yes	
+row_22	TNRC6B	trinucleotide repeat containing adaptor 6B [Source:HGNC Symbol;Acc:HGNC:29190]	null	null	8348	-0.22185415029525757	-0.41232595	Yes	
+row_23	NFIA	nuclear factor I A [Source:HGNC Symbol;Acc:HGNC:7784]	null	null	8486	-0.23615814745426178	-0.3879308	Yes	
+row_24	ZNF462	zinc finger protein 462 [Source:HGNC Symbol;Acc:HGNC:21684]	null	null	8676	-0.25673747062683105	-0.36524054	Yes	
+row_25	SSR1	signal sequence receptor subunit 1 [Source:HGNC Symbol;Acc:HGNC:11323]	null	null	9063	-0.3012813627719879	-0.35431525	Yes	
+row_26	CHD9	chromodomain helicase DNA binding protein 9 [Source:HGNC Symbol;Acc:HGNC:25701]	null	null	9215	-0.32099735736846924	-0.31778875	Yes	
+row_27	CTSO	cathepsin O [Source:HGNC Symbol;Acc:HGNC:2542]	null	null	9334	-0.3404649794101715	-0.2750159	Yes	
+row_28	EIF2AK2	eukaryotic translation initiation factor 2 alpha kinase 2 [Source:HGNC Symbol;Acc:HGNC:9437]	null	null	9440	-0.3592117428779602	-0.22802353	Yes	
+row_29	BCLAF1	BCL2 associated transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:16863]	null	null	9714	-0.41016024351119995	-0.18900625	Yes	
+row_30	ELOVL5	ELOVL fatty acid elongase 5 [Source:HGNC Symbol;Acc:HGNC:21308]	null	null	9727	-0.41285350918769836	-0.1246044	Yes	
+row_31	MANF	mesencephalic astrocyte derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:15461]	null	null	9893	-0.45418936014175415	-0.068269536	Yes	
+row_32	MYO1B	myosin IB [Source:HGNC Symbol;Acc:HGNC:7596]	null	null	10448	-0.7889297008514404	0.004016096	Yes	

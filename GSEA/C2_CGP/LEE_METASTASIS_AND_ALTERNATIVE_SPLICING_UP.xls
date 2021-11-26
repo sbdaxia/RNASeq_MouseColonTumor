@@ -1,0 +1,48 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SMAD3	SMAD family member 3 [Source:HGNC Symbol;Acc:HGNC:6769]	null	null	12	1.1941479444503784	0.08638202	Yes	
+row_1	LRRC66	leucine rich repeat containing 66 [Source:HGNC Symbol;Acc:HGNC:34299]	null	null	14	1.1804466247558594	0.17281295	Yes	
+row_2	FZD1	frizzled class receptor 1 [Source:HGNC Symbol;Acc:HGNC:4038]	null	null	31	1.0307199954986572	0.24683271	Yes	
+row_3	RTN4	reticulon 4 [Source:HGNC Symbol;Acc:HGNC:14085]	null	null	310	0.6022703647613525	0.26436096	Yes	
+row_4	SH2D4A	SH2 domain containing 4A [Source:HGNC Symbol;Acc:HGNC:26102]	null	null	401	0.5480066537857056	0.29591244	Yes	
+row_5	ITGB5	integrin subunit beta 5 [Source:HGNC Symbol;Acc:HGNC:6160]	null	null	450	0.528076171875	0.33002445	Yes	
+row_6	ELN	elastin [Source:HGNC Symbol;Acc:HGNC:3327]	null	null	460	0.5261270403862	0.36772782	Yes	
+row_7	PDCD6IP	programmed cell death 6 interacting protein [Source:HGNC Symbol;Acc:HGNC:8766]	null	null	706	0.44555577635765076	0.3769286	Yes	
+row_8	TSPAN9	tetraspanin 9 [Source:HGNC Symbol;Acc:HGNC:21640]	null	null	712	0.4447695314884186	0.40905145	Yes	
+row_9	DDR1	discoidin domain receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:2730]	null	null	722	0.44259917736053467	0.4406322	Yes	
+row_10	COL6A2	collagen type VI alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2212]	null	null	846	0.41309428215026855	0.4591349	Yes	
+row_11	CEACAM1	CEA cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:1814]	null	null	974	0.3898797631263733	0.47555298	Yes	
+row_12	TMEM45A	transmembrane protein 45A [Source:HGNC Symbol;Acc:HGNC:25480]	null	null	1345	0.32928138971328735	0.46426225	No	
+row_13	PLXNA2	plexin A2 [Source:HGNC Symbol;Acc:HGNC:9100]	null	null	1636	0.28713080286979675	0.4575418	No	
+row_14	CTSV	cathepsin V [Source:HGNC Symbol;Acc:HGNC:2538]	null	null	2289	0.2147667109966278	0.410856	No	
+row_15	LGALS1	galectin 1 [Source:HGNC Symbol;Acc:HGNC:6561]	null	null	2356	0.2084251195192337	0.41981414	No	
+row_16	PTK7	protein tyrosine kinase 7 (inactive) [Source:HGNC Symbol;Acc:HGNC:9618]	null	null	2359	0.2081657499074936	0.43488118	No	
+row_17	PPP2R1A	protein phosphatase 2 scaffold subunit Aalpha [Source:HGNC Symbol;Acc:HGNC:9302]	null	null	2405	0.20372755825519562	0.4455057	No	
+row_18	BMP1	bone morphogenetic protein 1 [Source:HGNC Symbol;Acc:HGNC:1067]	null	null	2826	0.16936759650707245	0.41770586	No	
+row_19	SLC1A4	solute carrier family 1 member 4 [Source:HGNC Symbol;Acc:HGNC:10942]	null	null	2975	0.1561587154865265	0.41498148	No	
+row_20	LTBR	lymphotoxin beta receptor [Source:HGNC Symbol;Acc:HGNC:6718]	null	null	3107	0.14464206993579865	0.41304064	No	
+row_21	F2R	coagulation factor II thrombin receptor [Source:HGNC Symbol;Acc:HGNC:3537]	null	null	3161	0.14089149236679077	0.4182933	No	
+row_22	NAIP	NLR family apoptosis inhibitory protein [Source:HGNC Symbol;Acc:HGNC:7634]	null	null	3725	0.10055558383464813	0.37175748	No	
+row_23	BID	BH3 interacting domain death agonist [Source:HGNC Symbol;Acc:HGNC:1050]	null	null	3788	0.09558483213186264	0.3728274	No	
+row_24	TNFRSF1A	TNF receptor superfamily member 1A [Source:HGNC Symbol;Acc:HGNC:11916]	null	null	3801	0.09443731606006622	0.3786007	No	
+row_25	PTPRF	protein tyrosine phosphatase receptor type F [Source:HGNC Symbol;Acc:HGNC:9670]	null	null	4190	0.06526346504688263	0.346234	No	
+row_26	BNIP3	BCL2 interacting protein 3 [Source:HGNC Symbol;Acc:HGNC:1084]	null	null	4669	0.034048955887556076	0.30296186	No	
+row_27	BMF	Bcl2 modifying factor [Source:HGNC Symbol;Acc:HGNC:24132]	null	null	5085	0.006062241271138191	0.26367047	No	
+row_28	CAMK1	calcium/calmodulin dependent protein kinase I [Source:HGNC Symbol;Acc:HGNC:1459]	null	null	5136	0.002908605383709073	0.25909626	No	
+row_29	CCN1	cellular communication network factor 1 [Source:HGNC Symbol;Acc:HGNC:2654]	null	null	5159	0.0016265837475657463	0.25710902	No	
+row_30	SHC1	SHC adaptor protein 1 [Source:HGNC Symbol;Acc:HGNC:10840]	null	null	5549	-0.023889748379588127	0.22161385	No	
+row_31	FASTK	Fas activated serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:24676]	null	null	5702	-0.03321166709065437	0.20949446	No	
+row_32	MET	MET proto-oncogene, receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:7029]	null	null	5762	-0.036746956408023834	0.20653884	No	
+row_33	FAT1	FAT atypical cadherin 1 [Source:HGNC Symbol;Acc:HGNC:3595]	null	null	6500	-0.08430218696594238	0.14215134	No	
+row_34	BCL2A1	BCL2 related protein A1 [Source:HGNC Symbol;Acc:HGNC:991]	null	null	6608	-0.09228137135505676	0.13867046	No	
+row_35	DAP3	death associated protein 3 [Source:HGNC Symbol;Acc:HGNC:2673]	null	null	6618	-0.09303897619247437	0.14462847	No	
+row_36	MAP4K4	mitogen-activated protein kinase kinase kinase kinase 4 [Source:HGNC Symbol;Acc:HGNC:6866]	null	null	6855	-0.10996841639280319	0.13009244	No	
+row_37	WNK1	WNK lysine deficient protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:14540]	null	null	7161	-0.1323447823524475	0.11058994	No	
+row_38	LGALS3BP	galectin 3 binding protein [Source:HGNC Symbol;Acc:HGNC:6564]	null	null	7170	-0.1332923322916031	0.11959427	No	
+row_39	TSPAN33	tetraspanin 33 [Source:HGNC Symbol;Acc:HGNC:28743]	null	null	8338	-0.2211775928735733	0.02406778	No	
+row_40	HIPK2	homeodomain interacting protein kinase 2 [Source:HGNC Symbol;Acc:HGNC:14402]	null	null	8526	-0.23963385820388794	0.023727916	No	
+row_41	MGP	matrix Gla protein [Source:HGNC Symbol;Acc:HGNC:7060]	null	null	9011	-0.2954348921775818	-9.5911446E-4	No	
+row_42	PIM1	Pim-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:8986]	null	null	9088	-0.3044526278972626	0.014080347	No	
+row_43	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	null	null	9479	-0.3657523989677429	0.0035479695	No	
+row_44	MCM7	minichromosome maintenance complex component 7 [Source:HGNC Symbol;Acc:HGNC:6950]	null	null	9514	-0.37135595083236694	0.02751289	No	
+row_45	ANKS1A	ankyrin repeat and sterile alpha motif domain containing 1A [Source:HGNC Symbol;Acc:HGNC:20961]	null	null	9691	-0.40747013688087463	0.040528655	No	
+row_46	SMO	smoothened, frizzled class receptor [Source:HGNC Symbol;Acc:HGNC:11119]	null	null	10041	-0.4894793629646301	0.042991158	No	

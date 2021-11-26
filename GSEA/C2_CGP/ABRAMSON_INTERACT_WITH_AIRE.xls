@@ -1,0 +1,41 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	POLR2B	RNA polymerase II subunit B [Source:HGNC Symbol;Acc:HGNC:9188]	null	null	1980	0.24533288180828094	-0.16154157	No	
+row_1	GEMIN5	gem nuclear organelle associated protein 5 [Source:HGNC Symbol;Acc:HGNC:20043]	null	null	2888	0.16464807093143463	-0.22959384	No	
+row_2	NOP56	NOP56 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:15911]	null	null	3491	0.11576322466135025	-0.27402446	No	
+row_3	DDX5	DEAD-box helicase 5 [Source:HGNC Symbol;Acc:HGNC:2746]	null	null	4637	0.03534417226910591	-0.37956187	No	
+row_4	DDX17	DEAD-box helicase 17 [Source:HGNC Symbol;Acc:HGNC:2740]	null	null	4646	0.035054486244916916	-0.37633887	No	
+row_5	C1QBP	complement C1q binding protein [Source:HGNC Symbol;Acc:HGNC:1243]	null	null	4801	0.026200564578175545	-0.38809317	No	
+row_6	SRSF2	serine and arginine rich splicing factor 2 [Source:HGNC Symbol;Acc:HGNC:10783]	null	null	4944	0.016671204939484596	-0.39978355	No	
+row_7	MYBBP1A	MYB binding protein 1a [Source:HGNC Symbol;Acc:HGNC:7546]	null	null	4971	0.015391599386930466	-0.4005201	No	
+row_8	SNRPB	small nuclear ribonucleoprotein polypeptides B and B1 [Source:HGNC Symbol;Acc:HGNC:11153]	null	null	5094	0.005606763530522585	-0.41155568	No	
+row_9	NUP93	nucleoporin 93 [Source:HGNC Symbol;Acc:HGNC:28958]	null	null	5566	-0.024766789749264717	-0.45380518	No	
+row_10	MSH2	mutS homolog 2 [Source:HGNC Symbol;Acc:HGNC:7325]	null	null	5626	-0.028051964938640594	-0.4562588	No	
+row_11	PABPC1	poly(A) binding protein cytoplasmic 1 [Source:HGNC Symbol;Acc:HGNC:8554]	null	null	6089	-0.05871843174099922	-0.49378413	No	
+row_12	KPNB1	karyopherin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6400]	null	null	6098	-0.05941031128168106	-0.4877899	No	
+row_13	IPO7	importin 7 [Source:HGNC Symbol;Acc:HGNC:9852]	null	null	6161	-0.06290975213050842	-0.48656446	No	
+row_14	SMC1A	structural maintenance of chromosomes 1A [Source:HGNC Symbol;Acc:HGNC:11111]	null	null	6296	-0.07137485593557358	-0.49126515	No	
+row_15	RUVBL2	RuvB like AAA ATPase 2 [Source:HGNC Symbol;Acc:HGNC:10475]	null	null	6643	-0.09431636333465576	-0.5136407	No	
+row_16	RANBP9	RAN binding protein 9 [Source:HGNC Symbol;Acc:HGNC:13727]	null	null	6899	-0.11302653700113297	-0.5251801	No	
+row_17	SRSF1	serine and arginine rich splicing factor 1 [Source:HGNC Symbol;Acc:HGNC:10780]	null	null	7150	-0.13130943477153778	-0.5341609	No	
+row_18	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide [Source:HGNC Symbol;Acc:HGNC:11160]	null	null	7338	-0.1458393782377243	-0.5354603	Yes	
+row_19	EFTUD2	elongation factor Tu GTP binding domain containing 2 [Source:HGNC Symbol;Acc:HGNC:30858]	null	null	7487	-0.15802273154258728	-0.5316418	Yes	
+row_20	CAND1	cullin associated and neddylation dissociated 1 [Source:HGNC Symbol;Acc:HGNC:30688]	null	null	7634	-0.1682751476764679	-0.52646536	Yes	
+row_21	PRKDC	protein kinase, DNA-activated, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9413]	null	null	7823	-0.18242956697940826	-0.52369726	Yes	
+row_22	TRIM28	tripartite motif containing 28 [Source:HGNC Symbol;Acc:HGNC:16384]	null	null	8026	-0.19761985540390015	-0.5205403	Yes	
+row_23	RANBP2	RAN binding protein 2 [Source:HGNC Symbol;Acc:HGNC:9848]	null	null	8165	-0.20768791437149048	-0.5101141	Yes	
+row_24	MSH6	mutS homolog 6 [Source:HGNC Symbol;Acc:HGNC:7329]	null	null	8566	-0.24434728920459747	-0.5205861	Yes	
+row_25	SMC3	structural maintenance of chromosomes 3 [Source:HGNC Symbol;Acc:HGNC:2468]	null	null	8635	-0.2521829307079315	-0.4983992	Yes	
+row_26	SUPT16H	SPT16 homolog, facilitates chromatin remodeling subunit [Source:HGNC Symbol;Acc:HGNC:11465]	null	null	8657	-0.2545013427734375	-0.4714514	Yes	
+row_27	LMNB1	lamin B1 [Source:HGNC Symbol;Acc:HGNC:6637]	null	null	9021	-0.29631558060646057	-0.4724701	Yes	
+row_28	PCNA	proliferating cell nuclear antigen [Source:HGNC Symbol;Acc:HGNC:8729]	null	null	9122	-0.30915582180023193	-0.4468628	Yes	
+row_29	SRSF3	serine and arginine rich splicing factor 3 [Source:HGNC Symbol;Acc:HGNC:10785]	null	null	9214	-0.3209300935268402	-0.41905463	Yes	
+row_30	MCM2	minichromosome maintenance complex component 2 [Source:HGNC Symbol;Acc:HGNC:6944]	null	null	9399	-0.3530188202857971	-0.3964941	Yes	
+row_31	GCN1	GCN1 activator of EIF2AK4 [Source:HGNC Symbol;Acc:HGNC:4199]	null	null	9466	-0.36248037219047546	-0.36156625	Yes	
+row_32	POLR2A	RNA polymerase II subunit A [Source:HGNC Symbol;Acc:HGNC:9187]	null	null	9478	-0.36554989218711853	-0.32102647	Yes	
+row_33	NASP	nuclear autoantigenic sperm protein [Source:HGNC Symbol;Acc:HGNC:7644]	null	null	9533	-0.3740153908729553	-0.28363794	Yes	
+row_34	CHD6	chromodomain helicase DNA binding protein 6 [Source:HGNC Symbol;Acc:HGNC:19057]	null	null	9689	-0.4069609045982361	-0.25216502	Yes	
+row_35	PARP1	poly(ADP-ribose) polymerase 1 [Source:HGNC Symbol;Acc:HGNC:270]	null	null	9717	-0.41039079427719116	-0.20805418	Yes	
+row_36	XPO1	exportin 1 [Source:HGNC Symbol;Acc:HGNC:12825]	null	null	9979	-0.473348468542099	-0.17917025	Yes	
+row_37	MCM6	minichromosome maintenance complex component 6 [Source:HGNC Symbol;Acc:HGNC:6949]	null	null	10120	-0.520156979560852	-0.13338259	Yes	
+row_38	TOP2A	DNA topoisomerase II alpha [Source:HGNC Symbol;Acc:HGNC:11989]	null	null	10405	-0.704357385635376	-0.08041518	Yes	
+row_39	MCM5	minichromosome maintenance complex component 5 [Source:HGNC Symbol;Acc:HGNC:6948]	null	null	10445	-0.7773997187614441	0.004305722	Yes	

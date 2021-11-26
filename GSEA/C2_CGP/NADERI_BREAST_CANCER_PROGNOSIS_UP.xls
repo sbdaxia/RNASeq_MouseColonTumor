@@ -1,0 +1,36 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FA2H	fatty acid 2-hydroxylase [Source:HGNC Symbol;Acc:HGNC:21197]	null	null	289	0.616716206073761	0.030062841	No	
+row_1	CTPS1	CTP synthase 1 [Source:HGNC Symbol;Acc:HGNC:2519]	null	null	409	0.5449960231781006	0.06967386	No	
+row_2	GSE1	Gse1 coiled-coil protein [Source:HGNC Symbol;Acc:HGNC:28979]	null	null	2987	0.15578332543373108	-0.16221179	No	
+row_3	EBP	EBP cholestenol delta-isomerase [Source:HGNC Symbol;Acc:HGNC:3133]	null	null	3741	0.09943798929452896	-0.22492403	No	
+row_4	SCLT1	sodium channel and clathrin linker 1 [Source:HGNC Symbol;Acc:HGNC:26406]	null	null	4872	0.021008089184761047	-0.33103034	No	
+row_5	MLLT1	MLLT1 super elongation complex subunit [Source:HGNC Symbol;Acc:HGNC:7134]	null	null	5062	0.00817789975553751	-0.34834093	No	
+row_6	FADD	Fas associated via death domain [Source:HGNC Symbol;Acc:HGNC:3573]	null	null	5383	-0.013270079158246517	-0.3777038	No	
+row_7	PSMD14	proteasome 26S subunit, non-ATPase 14 [Source:HGNC Symbol;Acc:HGNC:16889]	null	null	5586	-0.025930002331733704	-0.3945967	No	
+row_8	SPAG5	sperm associated antigen 5 [Source:HGNC Symbol;Acc:HGNC:13452]	null	null	6268	-0.06960588693618774	-0.45321417	No	
+row_9	MYBL2	MYB proto-oncogene like 2 [Source:HGNC Symbol;Acc:HGNC:7548]	null	null	7020	-0.12233195453882217	-0.5135931	No	
+row_10	ATP2C2	ATPase secretory pathway Ca2+ transporting 2 [Source:HGNC Symbol;Acc:HGNC:29103]	null	null	7293	-0.14166909456253052	-0.52635175	No	
+row_11	TMEM208	transmembrane protein 208 [Source:HGNC Symbol;Acc:HGNC:25015]	null	null	7398	-0.1501893252134323	-0.5222458	No	
+row_12	TRIM24	tripartite motif containing 24 [Source:HGNC Symbol;Acc:HGNC:11812]	null	null	7458	-0.15512455999851227	-0.51337445	No	
+row_13	CEP55	centrosomal protein 55 [Source:HGNC Symbol;Acc:HGNC:1161]	null	null	7645	-0.1689453125	-0.51535606	No	
+row_14	UHRF1	ubiquitin like with PHD and ring finger domains 1 [Source:HGNC Symbol;Acc:HGNC:12556]	null	null	7739	-0.17530760169029236	-0.507848	No	
+row_15	PSMD2	proteasome 26S subunit, non-ATPase 2 [Source:HGNC Symbol;Acc:HGNC:9559]	null	null	8062	-0.19999434053897858	-0.51993144	No	
+row_16	ASPM	assembly factor for spindle microtubules [Source:HGNC Symbol;Acc:HGNC:19048]	null	null	8259	-0.21480663120746613	-0.51857847	No	
+row_17	RACGAP1	Rac GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:9804]	null	null	8601	-0.24888472259044647	-0.5279046	Yes	
+row_18	EXO1	exonuclease 1 [Source:HGNC Symbol;Acc:HGNC:3511]	null	null	8693	-0.25853773951530457	-0.512418	Yes	
+row_19	TIMELESS	timeless circadian regulator [Source:HGNC Symbol;Acc:HGNC:11813]	null	null	8727	-0.2623349130153656	-0.4910289	Yes	
+row_20	CDCA8	cell division cycle associated 8 [Source:HGNC Symbol;Acc:HGNC:14629]	null	null	8920	-0.28552550077438354	-0.48267666	Yes	
+row_21	POLD1	DNA polymerase delta 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9175]	null	null	9134	-0.31050121784210205	-0.47399598	Yes	
+row_22	MTFR2	mitochondrial fission regulator 2 [Source:HGNC Symbol;Acc:HGNC:21115]	null	null	9246	-0.32631078362464905	-0.45408094	Yes	
+row_23	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4 [Source:HGNC Symbol;Acc:HGNC:11100]	null	null	9387	-0.3511888384819031	-0.4346117	Yes	
+row_24	MELK	maternal embryonic leucine zipper kinase [Source:HGNC Symbol;Acc:HGNC:16870]	null	null	9464	-0.3620905876159668	-0.4080016	Yes	
+row_25	DSCC1	DNA replication and sister chromatid cohesion 1 [Source:HGNC Symbol;Acc:HGNC:24453]	null	null	9543	-0.3763411343097687	-0.3802494	Yes	
+row_26	PTTG1	PTTG1 regulator of sister chromatid separation, securin [Source:HGNC Symbol;Acc:HGNC:9690]	null	null	9697	-0.40857017040252686	-0.3566547	Yes	
+row_27	SEMA4C	semaphorin 4C [Source:HGNC Symbol;Acc:HGNC:10731]	null	null	9753	-0.41834279894828796	-0.32277298	Yes	
+row_28	BUB1	BUB1 mitotic checkpoint serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1148]	null	null	9981	-0.47359350323677063	-0.30017167	Yes	
+row_29	NDC80	NDC80 kinetochore complex component [Source:HGNC Symbol;Acc:HGNC:16909]	null	null	10112	-0.516196072101593	-0.26430732	Yes	
+row_30	SHMT2	serine hydroxymethyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:10852]	null	null	10113	-0.5164597034454346	-0.21598525	Yes	
+row_31	KIF20A	kinesin family member 20A [Source:HGNC Symbol;Acc:HGNC:9787]	null	null	10146	-0.5308979153633118	-0.16937272	Yes	
+row_32	UBE2T	ubiquitin conjugating enzyme E2 T [Source:HGNC Symbol;Acc:HGNC:25009]	null	null	10219	-0.5598641037940979	-0.123875566	Yes	
+row_33	CDCA5	cell division cycle associated 5 [Source:HGNC Symbol;Acc:HGNC:14626]	null	null	10375	-0.668695330619812	-0.07613374	Yes	
+row_34	CENPN	centromere protein N [Source:HGNC Symbol;Acc:HGNC:30873]	null	null	10475	-0.9302354454994202	0.0014346174	Yes	

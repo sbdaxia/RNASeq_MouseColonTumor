@@ -1,0 +1,32 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EPS8	epidermal growth factor receptor pathway substrate 8 [Source:HGNC Symbol;Acc:HGNC:3420]	null	null	1025	0.38048094511032104	-0.04563302	No	
+row_1	STOM	stomatin [Source:HGNC Symbol;Acc:HGNC:3383]	null	null	1510	0.3051331639289856	-0.049914077	No	
+row_2	TPM3	tropomyosin 3 [Source:HGNC Symbol;Acc:HGNC:12012]	null	null	1959	0.24731792509555817	-0.05870961	No	
+row_3	KRAS	KRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:6407]	null	null	3194	0.13793115317821503	-0.15770164	No	
+row_4	FOXP4	forkhead box P4 [Source:HGNC Symbol;Acc:HGNC:20842]	null	null	3480	0.11694338172674179	-0.16885531	No	
+row_5	MTOR	mechanistic target of rapamycin kinase [Source:HGNC Symbol;Acc:HGNC:3942]	null	null	3578	0.11016923934221268	-0.16296795	No	
+row_6	SLC43A3	solute carrier family 43 member 3 [Source:HGNC Symbol;Acc:HGNC:17466]	null	null	4208	0.06399458646774292	-0.21429527	No	
+row_7	MARCKSL1	MARCKS like 1 [Source:HGNC Symbol;Acc:HGNC:7142]	null	null	4306	0.05708741396665573	-0.2157127	No	
+row_8	NFYA	nuclear transcription factor Y subunit alpha [Source:HGNC Symbol;Acc:HGNC:7804]	null	null	4935	0.01697356067597866	-0.27341515	No	
+row_9	MLLT1	MLLT1 super elongation complex subunit [Source:HGNC Symbol;Acc:HGNC:7134]	null	null	5062	0.00817789975553751	-0.28433564	No	
+row_10	HNRNPD	heterogeneous nuclear ribonucleoprotein D [Source:HGNC Symbol;Acc:HGNC:5036]	null	null	5289	-0.006531411781907082	-0.30504295	No	
+row_11	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	null	null	5512	-0.02152802050113678	-0.32330412	No	
+row_12	PTER	phosphotriesterase related [Source:HGNC Symbol;Acc:HGNC:9590]	null	null	5557	-0.02453549951314926	-0.3241342	No	
+row_13	ADRA2A	adrenoceptor alpha 2A [Source:HGNC Symbol;Acc:HGNC:281]	null	null	5827	-0.04078659415245056	-0.34423843	No	
+row_14	CSTF1	cleavage stimulation factor subunit 1 [Source:HGNC Symbol;Acc:HGNC:2483]	null	null	5955	-0.04967854544520378	-0.34954348	No	
+row_15	PTGR1	prostaglandin reductase 1 [Source:HGNC Symbol;Acc:HGNC:18429]	null	null	7363	-0.14821630716323853	-0.46365932	No	
+row_16	UHRF1	ubiquitin like with PHD and ring finger domains 1 [Source:HGNC Symbol;Acc:HGNC:12556]	null	null	7739	-0.17530760169029236	-0.4753855	Yes	
+row_17	PPM1F	protein phosphatase, Mg2+/Mn2+ dependent 1F [Source:HGNC Symbol;Acc:HGNC:19388]	null	null	7887	-0.18800170719623566	-0.46356744	Yes	
+row_18	CAD	carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase [Source:HGNC Symbol;Acc:HGNC:1424]	null	null	8121	-0.20473015308380127	-0.45766914	Yes	
+row_19	SSX2IP	SSX family member 2 interacting protein [Source:HGNC Symbol;Acc:HGNC:16509]	null	null	8439	-0.23060396313667297	-0.45624083	Yes	
+row_20	DPP4	dipeptidyl peptidase 4 [Source:HGNC Symbol;Acc:HGNC:3009]	null	null	8787	-0.2695419192314148	-0.4523222	Yes	
+row_21	RBM14-RBM4	RBM14-RBM4 readthrough [Source:HGNC Symbol;Acc:HGNC:38840]	null	null	8945	-0.28783997893333435	-0.42772108	Yes	
+row_22	POMT1	protein O-mannosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:9202]	null	null	9258	-0.3280828595161438	-0.41240036	Yes	
+row_23	SKP2	S-phase kinase associated protein 2 [Source:HGNC Symbol;Acc:HGNC:10901]	null	null	9501	-0.36941277980804443	-0.38469994	Yes	
+row_24	GABPB1	GA binding protein transcription factor subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:4074]	null	null	9579	-0.38366812467575073	-0.33926338	Yes	
+row_25	TIFA	TRAF interacting protein with forkhead associated domain [Source:HGNC Symbol;Acc:HGNC:19075]	null	null	9588	-0.3860812485218048	-0.2868982	Yes	
+row_26	GAS2L3	growth arrest specific 2 like 3 [Source:HGNC Symbol;Acc:HGNC:27475]	null	null	9743	-0.4163689911365509	-0.24432294	Yes	
+row_27	ZFPM1	zinc finger protein, FOG family member 1 [Source:HGNC Symbol;Acc:HGNC:19762]	null	null	9895	-0.4545152485370636	-0.19621143	Yes	
+row_28	TYMS	thymidylate synthetase [Source:HGNC Symbol;Acc:HGNC:12441]	null	null	10090	-0.5052695870399475	-0.14522634	Yes	
+row_29	FOXM1	forkhead box M1 [Source:HGNC Symbol;Acc:HGNC:3818]	null	null	10322	-0.6269736886024475	-0.0810304	Yes	
+row_30	NRARP	NOTCH regulated ankyrin repeat protein [Source:HGNC Symbol;Acc:HGNC:33843]	null	null	10406	-0.7048434615135193	0.008030612	Yes	

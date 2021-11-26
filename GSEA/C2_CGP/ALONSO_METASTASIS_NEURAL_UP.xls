@@ -1,0 +1,16 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PMP22	peripheral myelin protein 22 [Source:HGNC Symbol;Acc:HGNC:9118]	null	null	93	0.8509647846221924	0.14501892	Yes	
+row_1	SELENOP	selenoprotein P [Source:HGNC Symbol;Acc:HGNC:10751]	null	null	140	0.7657715082168579	0.27911717	Yes	
+row_2	EMP1	epithelial membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:3333]	null	null	197	0.6880738139152527	0.39820924	Yes	
+row_3	MAL	mal, T cell differentiation protein [Source:HGNC Symbol;Acc:HGNC:6817]	null	null	209	0.6782418489456177	0.5198188	Yes	
+row_4	S100A10	S100 calcium binding protein A10 [Source:HGNC Symbol;Acc:HGNC:10487]	null	null	321	0.5963250398635864	0.61706805	Yes	
+row_5	APLP2	amyloid beta precursor like protein 2 [Source:HGNC Symbol;Acc:HGNC:598]	null	null	1398	0.3209245204925537	0.5723961	No	
+row_6	AKT1S1	AKT1 substrate 1 [Source:HGNC Symbol;Acc:HGNC:28426]	null	null	1714	0.2777426242828369	0.5925569	No	
+row_7	SDCBP	syndecan binding protein [Source:HGNC Symbol;Acc:HGNC:10662]	null	null	2746	0.17655505239963531	0.5260713	No	
+row_8	PDGFRA	platelet derived growth factor receptor alpha [Source:HGNC Symbol;Acc:HGNC:8803]	null	null	2753	0.17587636411190033	0.5573057	No	
+row_9	ENC1	ectodermal-neural cortex 1 [Source:HGNC Symbol;Acc:HGNC:3345]	null	null	3539	0.1128186360001564	0.50277567	No	
+row_10	PTPRZ1	protein tyrosine phosphatase receptor type Z1 [Source:HGNC Symbol;Acc:HGNC:9685]	null	null	4286	0.058482956141233444	0.44214192	No	
+row_11	CD63	CD63 molecule [Source:HGNC Symbol;Acc:HGNC:1692]	null	null	5334	-0.01001519151031971	0.34401044	No	
+row_12	KIT	KIT proto-oncogene, receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6342]	null	null	7538	-0.16104792058467865	0.16284564	No	
+row_13	SETX	senataxin [Source:HGNC Symbol;Acc:HGNC:445]	null	null	8978	-0.2908742427825928	0.078088455	No	
+row_14	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	null	null	9479	-0.3657523989677429	0.09650637	No	

@@ -1,0 +1,34 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PPL	periplakin [Source:HGNC Symbol;Acc:HGNC:9273]	null	null	52	0.9498982429504395	0.06366519	Yes	
+row_1	SCEL	sciellin [Source:HGNC Symbol;Acc:HGNC:10573]	null	null	60	0.9215428829193115	0.12958442	Yes	
+row_2	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	null	null	114	0.8014151453971863	0.18242493	Yes	
+row_3	GNE	glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase [Source:HGNC Symbol;Acc:HGNC:23657]	null	null	189	0.6939514875411987	0.22549234	Yes	
+row_4	EMP1	epithelial membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:3333]	null	null	197	0.6880738139152527	0.27454165	Yes	
+row_5	MAL	mal, T cell differentiation protein [Source:HGNC Symbol;Acc:HGNC:6817]	null	null	209	0.6782418489456177	0.322498	Yes	
+row_6	FHL1	four and a half LIM domains 1 [Source:HGNC Symbol;Acc:HGNC:3702]	null	null	308	0.6025639176368713	0.35666707	Yes	
+row_7	IL1RN	interleukin 1 receptor antagonist [Source:HGNC Symbol;Acc:HGNC:6000]	null	null	423	0.5375111103057861	0.38460565	Yes	
+row_8	NBEAL2	neurobeachin like 2 [Source:HGNC Symbol;Acc:HGNC:31928]	null	null	639	0.46630364656448364	0.39774123	Yes	
+row_9	PSCA	prostate stem cell antigen [Source:HGNC Symbol;Acc:HGNC:9500]	null	null	875	0.4074695110321045	0.4047132	Yes	
+row_10	TGM3	transglutaminase 3 [Source:HGNC Symbol;Acc:HGNC:11779]	null	null	884	0.4052305817604065	0.43322927	Yes	
+row_11	ECM1	extracellular matrix protein 1 [Source:HGNC Symbol;Acc:HGNC:3153]	null	null	961	0.39107546210289	0.45422032	Yes	
+row_12	CEACAM1	CEA cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:1814]	null	null	974	0.3898797631263733	0.48124468	Yes	
+row_13	KRT13	keratin 13 [Source:HGNC Symbol;Acc:HGNC:6415]	null	null	1112	0.3643505871295929	0.4944718	Yes	
+row_14	KRT4	keratin 4 [Source:HGNC Symbol;Acc:HGNC:6441]	null	null	1180	0.3535946309566498	0.51361513	Yes	
+row_15	AQP3	aquaporin 3 (Gill blood group) [Source:HGNC Symbol;Acc:HGNC:636]	null	null	1256	0.34262415766716003	0.5312008	Yes	
+row_16	SPINK5	serine peptidase inhibitor Kazal type 5 [Source:HGNC Symbol;Acc:HGNC:15464]	null	null	1332	0.3319481611251831	0.5480151	Yes	
+row_17	SMAGP	small cell adhesion glycoprotein [Source:HGNC Symbol;Acc:HGNC:26918]	null	null	1336	0.33118200302124023	0.5716587	Yes	
+row_18	MYH11	myosin heavy chain 11 [Source:HGNC Symbol;Acc:HGNC:7569]	null	null	1425	0.3161776661872864	0.5860903	Yes	
+row_19	ZNF185	zinc finger protein 185 with LIM domain [Source:HGNC Symbol;Acc:HGNC:12976]	null	null	2138	0.23057596385478973	0.5346694	No	
+row_20	SELENBP1	selenium binding protein 1 [Source:HGNC Symbol;Acc:HGNC:10719]	null	null	2701	0.18017572164535522	0.4939497	No	
+row_21	KRT15	keratin 15 [Source:HGNC Symbol;Acc:HGNC:6421]	null	null	3516	0.11404747515916824	0.42435536	No	
+row_22	PGD	phosphogluconate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:8891]	null	null	4026	0.0778878927230835	0.3813125	No	
+row_23	GMDS	GDP-mannose 4,6-dehydratase [Source:HGNC Symbol;Acc:HGNC:4369]	null	null	4663	0.0343647263944149	0.3229809	No	
+row_24	NUCB2	nucleobindin 2 [Source:HGNC Symbol;Acc:HGNC:8044]	null	null	5478	-0.019514497369527817	0.24655585	No	
+row_25	SFRP1	secreted frizzled related protein 1 [Source:HGNC Symbol;Acc:HGNC:10776]	null	null	6835	-0.10898371785879135	0.124769256	No	
+row_26	PTN	pleiotrophin [Source:HGNC Symbol;Acc:HGNC:9630]	null	null	6966	-0.11817657947540283	0.12087775	No	
+row_27	HOPX	HOP homeobox [Source:HGNC Symbol;Acc:HGNC:24961]	null	null	7409	-0.15080533921718597	0.0895103	No	
+row_28	TFF3	trefoil factor 3 [Source:HGNC Symbol;Acc:HGNC:11757]	null	null	8006	-0.1962174028158188	0.046698652	No	
+row_29	ALDH9A1	aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412]	null	null	9936	-0.46347537636756897	-0.104263775	No	
+row_30	PLA2G2A	phospholipase A2 group IIA [Source:HGNC Symbol;Acc:HGNC:9031]	null	null	10261	-0.5862293243408203	-0.09288526	No	
+row_31	MUC4	mucin 4, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7514]	null	null	10374	-0.6680208444595337	-0.05532512	No	
+row_32	MUC1	mucin 1, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7508]	null	null	10474	-0.9178465604782104	0.0015299206	No	

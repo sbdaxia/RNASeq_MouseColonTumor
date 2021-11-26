@@ -1,0 +1,16 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LMNA	lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]	null	null	113	0.8080447912216187	0.20196708	Yes	
+row_1	MYO1E	myosin IE [Source:HGNC Symbol;Acc:HGNC:7599]	null	null	550	0.4939625859260559	0.29040572	Yes	
+row_2	KLF2	Kruppel like factor 2 [Source:HGNC Symbol;Acc:HGNC:6347]	null	null	1126	0.362405925989151	0.3309378	Yes	
+row_3	MCL1	MCL1 apoptosis regulator, BCL2 family member [Source:HGNC Symbol;Acc:HGNC:6943]	null	null	1633	0.2876819372177124	0.35838196	Yes	
+row_4	JADE1	jade family PHD finger 1 [Source:HGNC Symbol;Acc:HGNC:30027]	null	null	1776	0.2705542743206024	0.41606256	Yes	
+row_5	ZFAND5	zinc finger AN1-type containing 5 [Source:HGNC Symbol;Acc:HGNC:13008]	null	null	2013	0.24245432019233704	0.45737174	Yes	
+row_6	EPHA2	EPH receptor A2 [Source:HGNC Symbol;Acc:HGNC:3386]	null	null	2058	0.2377152144908905	0.5157608	Yes	
+row_7	KLF9	Kruppel like factor 9 [Source:HGNC Symbol;Acc:HGNC:1123]	null	null	2330	0.21054169535636902	0.54532653	Yes	
+row_8	UCK2	uridine-cytidine kinase 2 [Source:HGNC Symbol;Acc:HGNC:12562]	null	null	2637	0.1855974942445755	0.5649837	Yes	
+row_9	PLEKHA1	pleckstrin homology domain containing A1 [Source:HGNC Symbol;Acc:HGNC:14335]	null	null	2999	0.15438678860664368	0.57117313	Yes	
+row_10	GOT1	glutamic-oxaloacetic transaminase 1 [Source:HGNC Symbol;Acc:HGNC:4432]	null	null	3141	0.1423744261264801	0.5952002	Yes	
+row_11	GPD2	glycerol-3-phosphate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:4456]	null	null	3460	0.11830466240644455	0.59599406	Yes	
+row_12	SGPL1	sphingosine-1-phosphate lyase 1 [Source:HGNC Symbol;Acc:HGNC:10817]	null	null	3533	0.11328212171792984	0.61894774	Yes	
+row_13	CSRNP1	cysteine and serine rich nuclear protein 1 [Source:HGNC Symbol;Acc:HGNC:14300]	null	null	5914	-0.046175211668014526	0.4039195	No	
+row_14	TIPARP	TCDD inducible poly(ADP-ribose) polymerase [Source:HGNC Symbol;Acc:HGNC:23696]	null	null	7052	-0.12454908341169357	0.32817876	No	

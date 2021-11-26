@@ -1,0 +1,18 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GSTA1	glutathione S-transferase alpha 1 [Source:HGNC Symbol;Acc:HGNC:4626]	null	null	29	1.0403056144714355	0.1840558	Yes	
+row_1	GSTO1	glutathione S-transferase omega 1 [Source:HGNC Symbol;Acc:HGNC:13312]	null	null	678	0.452963262796402	0.20353429	Yes	
+row_2	SLPI	secretory leukocyte peptidase inhibitor [Source:HGNC Symbol;Acc:HGNC:11092]	null	null	696	0.44778871536254883	0.2823279	Yes	
+row_3	COL18A1	collagen type XVIII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2195]	null	null	757	0.43328630924224854	0.3544117	Yes	
+row_4	HBA2	hemoglobin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:4824]	null	null	837	0.415431946516037	0.42147505	Yes	
+row_5	ECM1	extracellular matrix protein 1 [Source:HGNC Symbol;Acc:HGNC:3153]	null	null	961	0.39107546210289	0.47996345	Yes	
+row_6	KRT13	keratin 13 [Source:HGNC Symbol;Acc:HGNC:6415]	null	null	1112	0.3643505871295929	0.53107464	Yes	
+row_7	KRT16	keratin 16 [Source:HGNC Symbol;Acc:HGNC:6423]	null	null	1309	0.33545321226119995	0.5726044	Yes	
+row_8	COL1A2	collagen type I alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2198]	null	null	2680	0.18173755705356598	0.4744419	No	
+row_9	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	null	null	3365	0.12558582425117493	0.4316908	No	
+row_10	S100A9	S100 calcium binding protein A9 [Source:HGNC Symbol;Acc:HGNC:10499]	null	null	4090	0.07264044135808945	0.3756125	No	
+row_11	SPRR2A	small proline rich protein 2A [Source:HGNC Symbol;Acc:HGNC:11261]	null	null	4616	0.0364343486726284	0.33203146	No	
+row_12	S100A8	S100 calcium binding protein A8 [Source:HGNC Symbol;Acc:HGNC:10498]	null	null	4753	0.029082464054226875	0.32426974	No	
+row_13	RHOG	ras homolog family member G [Source:HGNC Symbol;Acc:HGNC:672]	null	null	4965	0.01565384678542614	0.30693585	No	
+row_14	LTF	lactotransferrin [Source:HGNC Symbol;Acc:HGNC:6720]	null	null	7233	-0.13725923001766205	0.11514499	No	
+row_15	COTL1	coactosin like F-actin binding protein 1 [Source:HGNC Symbol;Acc:HGNC:18304]	null	null	9682	-0.40508952736854553	-0.045828108	No	
+row_16	PLET1	placenta expressed transcript 1 [Source:HGNC Symbol;Acc:HGNC:30053]	null	null	10388	-0.6842171549797058	0.009738341	No	

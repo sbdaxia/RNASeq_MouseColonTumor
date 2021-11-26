@@ -1,0 +1,20 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAFB	MAF bZIP transcription factor B [Source:HGNC Symbol;Acc:HGNC:6408]	null	null	1166	0.35607993602752686	0.0043609412	No	
+row_1	LMO2	LIM domain only 2 [Source:HGNC Symbol;Acc:HGNC:6642]	null	null	1791	0.26895245909690857	0.032167535	No	
+row_2	ISL1	ISL LIM homeobox 1 [Source:HGNC Symbol;Acc:HGNC:6132]	null	null	2651	0.18419092893600464	0.009990715	No	
+row_3	PKLR	pyruvate kinase L/R [Source:HGNC Symbol;Acc:HGNC:9020]	null	null	3924	0.0852169543504715	-0.08378545	No	
+row_4	GCG	glucagon [Source:HGNC Symbol;Acc:HGNC:4191]	null	null	3941	0.08433292806148529	-0.057909988	No	
+row_5	FOXO1	forkhead box O1 [Source:HGNC Symbol;Acc:HGNC:3819]	null	null	3957	0.08282359689474106	-0.03242948	No	
+row_6	CHGA	chromogranin A [Source:HGNC Symbol;Acc:HGNC:1929]	null	null	4025	0.0779816284775734	-0.013487953	No	
+row_7	VDR	vitamin D receptor [Source:HGNC Symbol;Acc:HGNC:12679]	null	null	4240	0.06199606508016586	-0.013778249	No	
+row_8	SRP9	signal recognition particle 9 [Source:HGNC Symbol;Acc:HGNC:11304]	null	null	4769	0.027841441333293915	-0.055151552	No	
+row_9	STXBP1	syntaxin binding protein 1 [Source:HGNC Symbol;Acc:HGNC:11444]	null	null	5373	-0.012675786390900612	-0.10861478	No	
+row_10	ELP4	elongator acetyltransferase complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:1171]	null	null	5690	-0.0323793850839138	-0.12826905	No	
+row_11	HNF1A	HNF1 homeobox A [Source:HGNC Symbol;Acc:HGNC:11621]	null	null	6521	-0.08591397851705551	-0.17961092	No	
+row_12	SRP14	signal recognition particle 14 [Source:HGNC Symbol;Acc:HGNC:11299]	null	null	7410	-0.1508266031742096	-0.21539852	Yes	
+row_13	SRPRB	SRP receptor subunit beta [Source:HGNC Symbol;Acc:HGNC:24085]	null	null	7448	-0.15353107452392578	-0.16904299	Yes	
+row_14	PCSK1	proprotein convertase subtilisin/kexin type 1 [Source:HGNC Symbol;Acc:HGNC:8743]	null	null	7865	-0.18661876022815704	-0.14812763	Yes	
+row_15	SEC11A	SEC11 homolog A, signal peptidase complex subunit [Source:HGNC Symbol;Acc:HGNC:17718]	null	null	8752	-0.2645050287246704	-0.14678529	Yes	
+row_16	DPP4	dipeptidyl peptidase 4 [Source:HGNC Symbol;Acc:HGNC:3009]	null	null	8787	-0.2695419192314148	-0.062446438	Yes	
+row_17	AKT3	AKT serine/threonine kinase 3 [Source:HGNC Symbol;Acc:HGNC:393]	null	null	9319	-0.33744558691978455	-0.0035026965	Yes	
+row_18	FOXA2	forkhead box A2 [Source:HGNC Symbol;Acc:HGNC:5022]	null	null	9408	-0.35461416840553284	0.10332313	Yes	

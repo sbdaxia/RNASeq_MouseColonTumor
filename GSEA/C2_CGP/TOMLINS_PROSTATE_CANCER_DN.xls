@@ -1,0 +1,32 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PMP22	peripheral myelin protein 22 [Source:HGNC Symbol;Acc:HGNC:9118]	null	null	93	0.8509647846221924	0.06557706	Yes	
+row_1	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	null	null	114	0.8014151453971863	0.13379699	Yes	
+row_2	ITGB4	integrin subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:6158]	null	null	120	0.7936203479766846	0.20276885	Yes	
+row_3	MYOF	myoferlin [Source:HGNC Symbol;Acc:HGNC:3656]	null	null	230	0.6538941264152527	0.24957058	Yes	
+row_4	SEC23A	Sec23 homolog A, COPII coat complex component [Source:HGNC Symbol;Acc:HGNC:10701]	null	null	267	0.6300891637802124	0.30126813	Yes	
+row_5	FHL1	four and a half LIM domains 1 [Source:HGNC Symbol;Acc:HGNC:3702]	null	null	308	0.6025639176368713	0.3501745	Yes	
+row_6	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	null	null	485	0.5167306661605835	0.3785677	Yes	
+row_7	CAVIN1	caveolae associated protein 1 [Source:HGNC Symbol;Acc:HGNC:9688]	null	null	742	0.43689197301864624	0.392326	Yes	
+row_8	SVIL	supervillin [Source:HGNC Symbol;Acc:HGNC:11480]	null	null	805	0.4222536087036133	0.42335016	Yes	
+row_9	MYLK	myosin light chain kinase [Source:HGNC Symbol;Acc:HGNC:7590]	null	null	827	0.41822266578674316	0.45794123	Yes	
+row_10	GSN	gelsolin [Source:HGNC Symbol;Acc:HGNC:4620]	null	null	893	0.402975469827652	0.48699155	Yes	
+row_11	TPM2	tropomyosin 2 [Source:HGNC Symbol;Acc:HGNC:12011]	null	null	916	0.39872926473617554	0.5197812	Yes	
+row_12	TGFB1I1	transforming growth factor beta 1 induced transcript 1 [Source:HGNC Symbol;Acc:HGNC:11767]	null	null	1278	0.3400067985057831	0.5150228	Yes	
+row_13	CNN1	calponin 1 [Source:HGNC Symbol;Acc:HGNC:2155]	null	null	1326	0.3322362005710602	0.53960353	Yes	
+row_14	PPP1R12B	protein phosphatase 1 regulatory subunit 12B [Source:HGNC Symbol;Acc:HGNC:7619]	null	null	1549	0.29955610632896423	0.54459405	Yes	
+row_15	DST	dystonin [Source:HGNC Symbol;Acc:HGNC:1090]	null	null	1731	0.27581503987312317	0.55142665	Yes	
+row_16	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	null	null	2721	0.17881359159946442	0.472524	No	
+row_17	RBPMS	RNA binding protein, mRNA processing factor [Source:HGNC Symbol;Acc:HGNC:19097]	null	null	2834	0.16891822218894958	0.4765986	No	
+row_18	VCL	vinculin [Source:HGNC Symbol;Acc:HGNC:12665]	null	null	3529	0.11347626894712448	0.42018092	No	
+row_19	SPART	spartin [Source:HGNC Symbol;Acc:HGNC:18514]	null	null	3954	0.08318492025136948	0.38692507	No	
+row_20	SMTN	smoothelin [Source:HGNC Symbol;Acc:HGNC:11126]	null	null	4287	0.058476921170949936	0.36030245	No	
+row_21	ATP2B4	ATPase plasma membrane Ca2+ transporting 4 [Source:HGNC Symbol;Acc:HGNC:817]	null	null	4490	0.04342150315642357	0.3447906	No	
+row_22	TACC1	transforming acidic coiled-coil containing protein 1 [Source:HGNC Symbol;Acc:HGNC:11522]	null	null	5709	-0.033575791865587234	0.23128523	No	
+row_23	BTG3	BTG anti-proliferation factor 3 [Source:HGNC Symbol;Acc:HGNC:1132]	null	null	5804	-0.03909814730286598	0.22572011	No	
+row_24	GATM	glycine amidinotransferase [Source:HGNC Symbol;Acc:HGNC:4175]	null	null	7790	-0.17969219386577606	0.051674448	No	
+row_25	LAMA4	laminin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	null	null	8323	-0.2194117307662964	0.020014789	No	
+row_26	MEIS2	Meis homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7001]	null	null	9103	-0.30610162019729614	-0.02767239	No	
+row_27	LPIN1	lipin 1 [Source:HGNC Symbol;Acc:HGNC:13345]	null	null	9482	-0.3661629855632782	-0.031767067	No	
+row_28	ZNF516	zinc finger protein 516 [Source:HGNC Symbol;Acc:HGNC:28990]	null	null	9530	-0.3732757866382599	-0.0035949445	No	
+row_29	CYLD	CYLD lysine 63 deubiquitinase [Source:HGNC Symbol;Acc:HGNC:2584]	null	null	9845	-0.4398537278175354	0.0048776134	No	
+row_30	DENND2B	DENN domain containing 2B [Source:HGNC Symbol;Acc:HGNC:11350]	null	null	10352	-0.647814929485321	0.0131932525	No	

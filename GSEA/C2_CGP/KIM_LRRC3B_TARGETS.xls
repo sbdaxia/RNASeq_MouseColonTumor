@@ -1,0 +1,24 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EEF1A1	eukaryotic translation elongation factor 1 alpha 1 [Source:HGNC Symbol;Acc:HGNC:3189]	null	null	3083	0.14667809009552002	-0.2777312	No	
+row_1	EIF3E	eukaryotic translation initiation factor 3 subunit E [Source:HGNC Symbol;Acc:HGNC:3277]	null	null	3541	0.11275818943977356	-0.30848435	No	
+row_2	FTH1	ferritin heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:3976]	null	null	4845	0.02257685735821724	-0.4303753	No	
+row_3	IFI27	interferon alpha inducible protein 27 [Source:HGNC Symbol;Acc:HGNC:5397]	null	null	6717	-0.10019905120134354	-0.59764403	No	
+row_4	GM2A	GM2 ganglioside activator [Source:HGNC Symbol;Acc:HGNC:4367]	null	null	6995	-0.1207345724105835	-0.6102891	No	
+row_5	CD59	CD59 molecule (CD59 blood group) [Source:HGNC Symbol;Acc:HGNC:1689]	null	null	8347	-0.2218528538942337	-0.7139609	Yes	
+row_6	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	null	null	8462	-0.23296450078487396	-0.69819146	Yes	
+row_7	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	null	null	8654	-0.2542555332183838	-0.6873413	Yes	
+row_8	IFI16	interferon gamma inducible protein 16 [Source:HGNC Symbol;Acc:HGNC:5395]	null	null	8852	-0.278084397315979	-0.6743374	Yes	
+row_9	CXCL9	C-X-C motif chemokine ligand 9 [Source:HGNC Symbol;Acc:HGNC:7098]	null	null	9129	-0.30962905287742615	-0.6652704	Yes	
+row_10	IFI44	interferon induced protein 44 [Source:HGNC Symbol;Acc:HGNC:16938]	null	null	9642	-0.39522063732147217	-0.6689535	Yes	
+row_11	LYZ	lysozyme [Source:HGNC Symbol;Acc:HGNC:6740]	null	null	9944	-0.4643612205982208	-0.6445676	Yes	
+row_12	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	null	null	9961	-0.4691679775714874	-0.59240586	Yes	
+row_13	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	null	null	10001	-0.47795671224594116	-0.54143554	Yes	
+row_14	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	null	null	10110	-0.5156027674674988	-0.4927486	Yes	
+row_15	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	null	null	10147	-0.5311388969421387	-0.43540564	Yes	
+row_16	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	null	null	10149	-0.5313342213630676	-0.37469682	Yes	
+row_17	TAPBP	TAP binding protein [Source:HGNC Symbol;Acc:HGNC:11566]	null	null	10161	-0.5348544716835022	-0.31454048	Yes	
+row_18	CXCL1	C-X-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:4602]	null	null	10193	-0.5466660857200623	-0.25494298	Yes	
+row_19	TAP1	transporter 1, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:43]	null	null	10221	-0.5608476996421814	-0.1933405	Yes	
+row_20	PSME2	proteasome activator subunit 2 [Source:HGNC Symbol;Acc:HGNC:9569]	null	null	10312	-0.6226290464401245	-0.13068627	Yes	
+row_21	IFITM2	interferon induced transmembrane protein 2 [Source:HGNC Symbol;Acc:HGNC:5413]	null	null	10323	-0.627163827419281	-0.05987075	Yes	
+row_22	OAS2	2'-5'-oligoadenylate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:8087]	null	null	10368	-0.6617479920387268	0.011654485	Yes	

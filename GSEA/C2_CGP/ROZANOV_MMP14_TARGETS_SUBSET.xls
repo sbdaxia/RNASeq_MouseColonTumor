@@ -1,0 +1,25 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CHSY1	chondroitin sulfate synthase 1 [Source:HGNC Symbol;Acc:HGNC:17198]	null	null	392	0.5508632063865662	0.042958014	Yes	
+row_1	ANGPTL2	angiopoietin like 2 [Source:HGNC Symbol;Acc:HGNC:490]	null	null	549	0.4945606589317322	0.10024464	Yes	
+row_2	COL6A1	collagen type VI alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2211]	null	null	723	0.44195497035980225	0.14822832	Yes	
+row_3	COL18A1	collagen type XVIII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2195]	null	null	757	0.43328630924224854	0.20832199	Yes	
+row_4	NR3C1	nuclear receptor subfamily 3 group C member 1 [Source:HGNC Symbol;Acc:HGNC:7978]	null	null	761	0.4326993227005005	0.27119613	Yes	
+row_5	COL6A2	collagen type VI alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2212]	null	null	846	0.41309428215026855	0.32346994	Yes	
+row_6	COL4A1	collagen type IV alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2202]	null	null	857	0.411324143409729	0.38255522	Yes	
+row_7	TIMP3	TIMP metallopeptidase inhibitor 3 [Source:HGNC Symbol;Acc:HGNC:11822]	null	null	967	0.390253484249115	0.4291065	Yes	
+row_8	SULF2	sulfatase 2 [Source:HGNC Symbol;Acc:HGNC:20392]	null	null	1087	0.368400514125824	0.47151256	Yes	
+row_9	COL4A2	collagen type IV alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2203]	null	null	1128	0.36225777864456177	0.5205695	Yes	
+row_10	TNFRSF11B	TNF receptor superfamily member 11b [Source:HGNC Symbol;Acc:HGNC:11909]	null	null	1229	0.3467959463596344	0.56163716	Yes	
+row_11	CALD1	caldesmon 1 [Source:HGNC Symbol;Acc:HGNC:1441]	null	null	1672	0.2825239896774292	0.56064904	Yes	
+row_12	SERPINH1	serpin family H member 1 [Source:HGNC Symbol;Acc:HGNC:1546]	null	null	1774	0.2710915803909302	0.5905706	Yes	
+row_13	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	null	null	2116	0.23215152323246002	0.59187907	Yes	
+row_14	HIF1A	hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910]	null	null	2521	0.19358021020889282	0.58153826	No	
+row_15	P3H1	prolyl 3-hydroxylase 1 [Source:HGNC Symbol;Acc:HGNC:19316]	null	null	3126	0.1433389037847519	0.5447562	No	
+row_16	PTGS1	prostaglandin-endoperoxide synthase 1 [Source:HGNC Symbol;Acc:HGNC:9604]	null	null	3146	0.1419449895620346	0.56366056	No	
+row_17	GJB2	gap junction protein beta 2 [Source:HGNC Symbol;Acc:HGNC:4284]	null	null	4475	0.04421867057681084	0.44324017	No	
+row_18	PLOD2	procollagen-lysine,2-oxoglutarate 5-dioxygenase 2 [Source:HGNC Symbol;Acc:HGNC:9082]	null	null	5088	0.005952597130089998	0.38563958	No	
+row_19	COL5A1	collagen type V alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2209]	null	null	5115	0.0041712429374456406	0.38376448	No	
+row_20	LAMB1	laminin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6486]	null	null	6402	-0.07784388959407806	0.27226496	No	
+row_21	LAMA4	laminin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	null	null	8323	-0.2194117307662964	0.12085865	No	
+row_22	ERO1A	endoplasmic reticulum oxidoreductase 1 alpha [Source:HGNC Symbol;Acc:HGNC:13280]	null	null	8848	-0.2775314748287201	0.11130759	No	
+row_23	PLXND1	plexin D1 [Source:HGNC Symbol;Acc:HGNC:9107]	null	null	9145	-0.3115096986293793	0.12849905	No	

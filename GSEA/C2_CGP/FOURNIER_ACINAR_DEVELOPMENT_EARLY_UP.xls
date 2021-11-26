@@ -1,0 +1,16 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SRD5A1	steroid 5 alpha-reductase 1 [Source:HGNC Symbol;Acc:HGNC:11284]	null	null	22	1.106925368309021	0.2584637	Yes	
+row_1	PPL	periplakin [Source:HGNC Symbol;Acc:HGNC:9273]	null	null	52	0.9498982429504395	0.479296	Yes	
+row_2	GSN	gelsolin [Source:HGNC Symbol;Acc:HGNC:4620]	null	null	893	0.402975469827652	0.49397078	Yes	
+row_3	SEPTIN10	septin 10 [Source:HGNC Symbol;Acc:HGNC:14349]	null	null	978	0.3890872001647949	0.57754135	Yes	
+row_4	IGFBP2	insulin like growth factor binding protein 2 [Source:HGNC Symbol;Acc:HGNC:5471]	null	null	1214	0.34987860918045044	0.63746846	Yes	
+row_5	BNIP3L	BCL2 interacting protein 3 like [Source:HGNC Symbol;Acc:HGNC:1085]	null	null	1314	0.33476686477661133	0.7068205	Yes	
+row_6	ZNF277	zinc finger protein 277 [Source:HGNC Symbol;Acc:HGNC:13070]	null	null	3310	0.12995140254497528	0.546975	No	
+row_7	DCAF10	DDB1 and CUL4 associated factor 10 [Source:HGNC Symbol;Acc:HGNC:23686]	null	null	3919	0.08576618134975433	0.5091264	No	
+row_8	SUCLG2	succinate-CoA ligase GDP-forming subunit beta [Source:HGNC Symbol;Acc:HGNC:11450]	null	null	5090	0.005904622841626406	0.3988325	No	
+row_9	MACROD1	mono-ADP ribosylhydrolase 1 [Source:HGNC Symbol;Acc:HGNC:29598]	null	null	5411	-0.014933193102478981	0.3718017	No	
+row_10	GOLPH3L	golgi phosphoprotein 3 like [Source:HGNC Symbol;Acc:HGNC:24882]	null	null	5665	-0.030353497713804245	0.3547963	No	
+row_11	FOSL2	FOS like 2, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3798]	null	null	5773	-0.0376766100525856	0.3534513	No	
+row_12	LEPR	leptin receptor [Source:HGNC Symbol;Acc:HGNC:6554]	null	null	5925	-0.046981893479824066	0.35009667	No	
+row_13	EGR1	early growth response 1 [Source:HGNC Symbol;Acc:HGNC:3238]	null	null	7636	-0.16850003600120544	0.22653037	No	
+row_14	CEP57	centrosomal protein 57 [Source:HGNC Symbol;Acc:HGNC:30794]	null	null	7985	-0.19459481537342072	0.23911807	No	

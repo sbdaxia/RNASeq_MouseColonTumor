@@ -1,0 +1,41 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ABCB1	ATP binding cassette subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:40]	null	null	4	1.432892918586731	0.10025231	Yes	
+row_1	S100A1	S100 calcium binding protein A1 [Source:HGNC Symbol;Acc:HGNC:10486]	null	null	25	1.0606842041015625	0.17283267	Yes	
+row_2	PROS1	protein S [Source:HGNC Symbol;Acc:HGNC:9456]	null	null	27	1.052240014076233	0.24663799	Yes	
+row_3	ITGB4	integrin subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:6158]	null	null	120	0.7936203479766846	0.2935726	Yes	
+row_4	FAM102A	family with sequence similarity 102 member A [Source:HGNC Symbol;Acc:HGNC:31419]	null	null	126	0.785658061504364	0.34827256	Yes	
+row_5	S100A13	S100 calcium binding protein A13 [Source:HGNC Symbol;Acc:HGNC:10490]	null	null	135	0.7732148766517639	0.40181157	Yes	
+row_6	KRT18	keratin 18 [Source:HGNC Symbol;Acc:HGNC:6430]	null	null	280	0.6201552152633667	0.4315878	Yes	
+row_7	CAPNS1	calpain small subunit 1 [Source:HGNC Symbol;Acc:HGNC:1481]	null	null	283	0.6187402606010437	0.47485185	Yes	
+row_8	WDR45	WD repeat domain 45 [Source:HGNC Symbol;Acc:HGNC:28912]	null	null	315	0.5999857783317566	0.51402384	Yes	
+row_9	FHL2	four and a half LIM domains 2 [Source:HGNC Symbol;Acc:HGNC:3703]	null	null	668	0.457669734954834	0.512486	Yes	
+row_10	MVP	major vault protein [Source:HGNC Symbol;Acc:HGNC:7531]	null	null	787	0.4263484477996826	0.53113854	Yes	
+row_11	ANXA5	annexin A5 [Source:HGNC Symbol;Acc:HGNC:543]	null	null	920	0.3978123664855957	0.54644734	Yes	
+row_12	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	null	null	985	0.38837528228759766	0.56759995	Yes	
+row_13	KRT14	keratin 14 [Source:HGNC Symbol;Acc:HGNC:6416]	null	null	1071	0.3714855909347534	0.5855569	Yes	
+row_14	AQP3	aquaporin 3 (Gill blood group) [Source:HGNC Symbol;Acc:HGNC:636]	null	null	1256	0.34262415766716003	0.5920142	Yes	
+row_15	GALM	galactose mutarotase [Source:HGNC Symbol;Acc:HGNC:24063]	null	null	1379	0.32383838295936584	0.6030845	Yes	
+row_16	CLTB	clathrin light chain B [Source:HGNC Symbol;Acc:HGNC:2091]	null	null	2101	0.23322948813438416	0.5504761	No	
+row_17	CXCL16	C-X-C motif chemokine ligand 16 [Source:HGNC Symbol;Acc:HGNC:16642]	null	null	2156	0.22850169241428375	0.56135726	No	
+row_18	C15orf48	chromosome 15 open reading frame 48 [Source:HGNC Symbol;Acc:HGNC:29898]	null	null	2223	0.22288431227207184	0.5706957	No	
+row_19	BBS7	Bardet-Biedl syndrome 7 [Source:HGNC Symbol;Acc:HGNC:18758]	null	null	2443	0.19962644577026367	0.56376094	No	
+row_20	CCNT1	cyclin T1 [Source:HGNC Symbol;Acc:HGNC:1599]	null	null	2788	0.17288345098495483	0.5429874	No	
+row_21	BMP1	bone morphogenetic protein 1 [Source:HGNC Symbol;Acc:HGNC:1067]	null	null	2826	0.16936759650707245	0.55134207	No	
+row_22	PXDC1	PX domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21361]	null	null	2931	0.15979626774787903	0.55261374	No	
+row_23	SQSTM1	sequestosome 1 [Source:HGNC Symbol;Acc:HGNC:11280]	null	null	3346	0.1272537261247635	0.52193755	No	
+row_24	CHRNB1	cholinergic receptor nicotinic beta 1 subunit [Source:HGNC Symbol;Acc:HGNC:1961]	null	null	3734	0.09978292882442474	0.49191558	No	
+row_25	SLC39A4	solute carrier family 39 member 4 [Source:HGNC Symbol;Acc:HGNC:17129]	null	null	4201	0.06465650349855423	0.4518675	No	
+row_26	ARL4C	ADP ribosylation factor like GTPase 4C [Source:HGNC Symbol;Acc:HGNC:698]	null	null	4585	0.037817515432834625	0.4178763	No	
+row_27	TACSTD2	tumor associated calcium signal transducer 2 [Source:HGNC Symbol;Acc:HGNC:11530]	null	null	4695	0.03275386989116669	0.40974703	No	
+row_28	CLN3	CLN3 lysosomal/endosomal transmembrane protein, battenin [Source:HGNC Symbol;Acc:HGNC:2074]	null	null	4940	0.01681274175643921	0.38758078	No	
+row_29	HSD3B7	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7 [Source:HGNC Symbol;Acc:HGNC:18324]	null	null	5026	0.010894971899688244	0.38021278	No	
+row_30	CLDN4	claudin 4 [Source:HGNC Symbol;Acc:HGNC:2046]	null	null	5100	0.005398403853178024	0.37360692	No	
+row_31	ABHD14B	abhydrolase domain containing 14B [Source:HGNC Symbol;Acc:HGNC:28235]	null	null	5142	0.002396143740043044	0.36985216	No	
+row_32	PTER	phosphotriesterase related [Source:HGNC Symbol;Acc:HGNC:9590]	null	null	5557	-0.02453549951314926	0.3319619	No	
+row_33	CD68	CD68 molecule [Source:HGNC Symbol;Acc:HGNC:1693]	null	null	5662	-0.030155841261148453	0.3241286	No	
+row_34	BBS2	Bardet-Biedl syndrome 2 [Source:HGNC Symbol;Acc:HGNC:967]	null	null	6972	-0.11865704506635666	0.20721096	No	
+row_35	HTRA1	HtrA serine peptidase 1 [Source:HGNC Symbol;Acc:HGNC:9476]	null	null	7476	-0.15724089741706848	0.17012495	No	
+row_36	TBX3	T-box transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:11602]	null	null	8890	-0.28246545791625977	0.0547607	No	
+row_37	ACADVL	acyl-CoA dehydrogenase very long chain [Source:HGNC Symbol;Acc:HGNC:92]	null	null	8975	-0.2906147539615631	0.067133665	No	
+row_38	MROH1	maestro heat like repeat family member 1 [Source:HGNC Symbol;Acc:HGNC:26958]	null	null	10087	-0.5049393773078918	-0.0037090105	No	
+row_39	ENPP5	ectonucleotide pyrophosphatase/phosphodiesterase family member 5 [Source:HGNC Symbol;Acc:HGNC:13717]	null	null	10283	-0.6004979610443115	0.019806707	No	

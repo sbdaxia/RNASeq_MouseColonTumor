@@ -1,0 +1,26 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC7A11	solute carrier family 7 member 11 [Source:HGNC Symbol;Acc:HGNC:11059]	null	null	635	0.46677741408348083	0.023331746	No	
+row_1	STC2	stanniocalcin 2 [Source:HGNC Symbol;Acc:HGNC:11374]	null	null	688	0.4497387111186981	0.09930128	No	
+row_2	DDIT4	DNA damage inducible transcript 4 [Source:HGNC Symbol;Acc:HGNC:24944]	null	null	2804	0.17135244607925415	-0.071943924	No	
+row_3	SLC38A2	solute carrier family 38 member 2 [Source:HGNC Symbol;Acc:HGNC:13448]	null	null	3386	0.12397925555706024	-0.10514487	No	
+row_4	SARS1	seryl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:10537]	null	null	4767	0.027914559468626976	-0.23197672	No	
+row_5	CTH	cystathionine gamma-lyase [Source:HGNC Symbol;Acc:HGNC:2501]	null	null	4988	0.014089440926909447	-0.25046155	No	
+row_6	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	null	null	5226	-0.0018582254415377975	-0.27277187	No	
+row_7	CEBPB	CCAAT enhancer binding protein beta [Source:HGNC Symbol;Acc:HGNC:1834]	null	null	5641	-0.02887609228491783	-0.3071318	No	
+row_8	GADD45A	growth arrest and DNA damage inducible alpha [Source:HGNC Symbol;Acc:HGNC:4095]	null	null	5643	-0.028892405331134796	-0.30202767	No	
+row_9	CCNG2	cyclin G2 [Source:HGNC Symbol;Acc:HGNC:1593]	null	null	5645	-0.029019558802247047	-0.29690066	No	
+row_10	CDKN1A	cyclin dependent kinase inhibitor 1A [Source:HGNC Symbol;Acc:HGNC:1784]	null	null	5685	-0.03187428042292595	-0.2948907	No	
+row_11	PPP1R15A	protein phosphatase 1 regulatory subunit 15A [Source:HGNC Symbol;Acc:HGNC:14375]	null	null	5936	-0.047784946858882904	-0.3101779	No	
+row_12	CLEC7A	C-type lectin domain containing 7A [Source:HGNC Symbol;Acc:HGNC:14558]	null	null	6128	-0.0615030974149704	-0.31735894	No	
+row_13	FYN	FYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:4037]	null	null	6454	-0.08142026513814926	-0.33375895	No	
+row_14	SESN2	sestrin 2 [Source:HGNC Symbol;Acc:HGNC:20746]	null	null	6466	-0.08198989182710648	-0.3200545	No	
+row_15	ATF3	activating transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:785]	null	null	8824	-0.27376824617385864	-0.49599075	Yes	
+row_16	ASNS	asparagine synthetase (glutamine-hydrolyzing) [Source:HGNC Symbol;Acc:HGNC:753]	null	null	8891	-0.28258016705513	-0.45144188	Yes	
+row_17	CARS1	cysteinyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:1493]	null	null	8904	-0.28424176573753357	-0.4014344	Yes	
+row_18	ATF5	activating transcription factor 5 [Source:HGNC Symbol;Acc:HGNC:790]	null	null	9052	-0.3004111647605896	-0.36141586	Yes	
+row_19	TRIB3	tribbles pseudokinase 3 [Source:HGNC Symbol;Acc:HGNC:16228]	null	null	9342	-0.3416755795478821	-0.32753885	Yes	
+row_20	MARS1	methionyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:6898]	null	null	9516	-0.3714722692966461	-0.27721593	Yes	
+row_21	DDIT3	DNA damage inducible transcript 3 [Source:HGNC Symbol;Acc:HGNC:2726]	null	null	9908	-0.4580710232257843	-0.23213744	Yes	
+row_22	PSAT1	phosphoserine aminotransferase 1 [Source:HGNC Symbol;Acc:HGNC:19129]	null	null	9937	-0.4635433554649353	-0.1513904	Yes	
+row_23	WARS1	tryptophanyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:12729]	null	null	10118	-0.5191131234169006	-0.07516587	Yes	
+row_24	ASS1	argininosuccinate synthase 1 [Source:HGNC Symbol;Acc:HGNC:758]	null	null	10303	-0.614635705947876	0.017867368	Yes	

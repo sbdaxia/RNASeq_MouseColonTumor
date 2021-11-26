@@ -1,0 +1,41 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FZD1	frizzled class receptor 1 [Source:HGNC Symbol;Acc:HGNC:4038]	null	null	31	1.0307199954986572	0.07362743	Yes	
+row_1	ITGA2	integrin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6137]	null	null	78	0.8781513571739197	0.13448209	Yes	
+row_2	PMP22	peripheral myelin protein 22 [Source:HGNC Symbol;Acc:HGNC:9118]	null	null	93	0.8509647846221924	0.1963784	Yes	
+row_3	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	null	null	111	0.8118894696235657	0.25508395	Yes	
+row_4	SELENOP	selenoprotein P [Source:HGNC Symbol;Acc:HGNC:10751]	null	null	140	0.7657715082168579	0.3093099	Yes	
+row_5	CX3CL1	C-X3-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:10647]	null	null	174	0.7140886783599854	0.3592168	Yes	
+row_6	ERBB2	erb-b2 receptor tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:3430]	null	null	208	0.6784778237342834	0.40647748	Yes	
+row_7	SPP1	secreted phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11255]	null	null	360	0.5691260099411011	0.4343213	Yes	
+row_8	MYC	MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]	null	null	474	0.5219773054122925	0.46229753	Yes	
+row_9	COL4A1	collagen type IV alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2202]	null	null	857	0.411324143409729	0.45631182	Yes	
+row_10	DDR2	discoidin domain receptor tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:2731]	null	null	860	0.4111883342266083	0.48667622	Yes	
+row_11	TIMP3	TIMP metallopeptidase inhibitor 3 [Source:HGNC Symbol;Acc:HGNC:11822]	null	null	967	0.390253484249115	0.5055337	Yes	
+row_12	COL4A2	collagen type IV alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2203]	null	null	1128	0.36225777864456177	0.51714385	Yes	
+row_13	KLF10	Kruppel like factor 10 [Source:HGNC Symbol;Acc:HGNC:11810]	null	null	1152	0.35775911808013916	0.54152846	Yes	
+row_14	DPEP1	dipeptidase 1 [Source:HGNC Symbol;Acc:HGNC:3002]	null	null	1264	0.34224292635917664	0.5563398	Yes	
+row_15	TGFBR2	transforming growth factor beta receptor 2 [Source:HGNC Symbol;Acc:HGNC:11773]	null	null	1440	0.31412574648857117	0.562938	Yes	
+row_16	SEMA3C	semaphorin 3C [Source:HGNC Symbol;Acc:HGNC:10725]	null	null	1692	0.27997541427612305	0.5597263	Yes	
+row_17	TGFA	transforming growth factor alpha [Source:HGNC Symbol;Acc:HGNC:11765]	null	null	1920	0.25262629985809326	0.5567788	Yes	
+row_18	ALCAM	activated leukocyte cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:400]	null	null	1974	0.24584655463695526	0.56997657	Yes	
+row_19	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	null	null	2278	0.21630680561065674	0.55705804	Yes	
+row_20	ITGAV	integrin subunit alpha V [Source:HGNC Symbol;Acc:HGNC:6150]	null	null	2461	0.19853435456752777	0.5543967	Yes	
+row_21	IGF1R	insulin like growth factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:5465]	null	null	2504	0.19456355273723602	0.56483614	Yes	
+row_22	INHBA	inhibin subunit beta A [Source:HGNC Symbol;Acc:HGNC:6066]	null	null	2546	0.19160056114196777	0.575151	Yes	
+row_23	AGT	angiotensinogen [Source:HGNC Symbol;Acc:HGNC:333]	null	null	2781	0.1733974814414978	0.5656462	Yes	
+row_24	GPC4	glypican 4 [Source:HGNC Symbol;Acc:HGNC:4452]	null	null	2813	0.17048269510269165	0.5753486	Yes	
+row_25	CDH11	cadherin 11 [Source:HGNC Symbol;Acc:HGNC:1750]	null	null	3772	0.09703266620635986	0.49089333	No	
+row_26	RARG	retinoic acid receptor gamma [Source:HGNC Symbol;Acc:HGNC:9866]	null	null	3871	0.08858294785022736	0.48809892	No	
+row_27	THBS1	thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785]	null	null	3884	0.08784814924001694	0.49347878	No	
+row_28	TGFBR3	transforming growth factor beta receptor 3 [Source:HGNC Symbol;Acc:HGNC:11774]	null	null	4509	0.04205048829317093	0.43689638	No	
+row_29	PELO	pelota mRNA surveillance and ribosome rescue factor [Source:HGNC Symbol;Acc:HGNC:8829]	null	null	4660	0.03465443104505539	0.4251189	No	
+row_30	COL5A1	collagen type V alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2209]	null	null	5115	0.0041712429374456406	0.38198802	No	
+row_31	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	null	null	5226	-0.0018582254415377975	0.3716008	No	
+row_32	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	null	null	5361	-0.011864233762025833	0.3596607	No	
+row_33	DAB2	DAB adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:2662]	null	null	5565	-0.02474253810942173	0.34207538	No	
+row_34	IGFBP5	insulin like growth factor binding protein 5 [Source:HGNC Symbol;Acc:HGNC:5474]	null	null	6178	-0.06402748823165894	0.28827432	No	
+row_35	BMP7	bone morphogenetic protein 7 [Source:HGNC Symbol;Acc:HGNC:1074]	null	null	7596	-0.1657624989748001	0.16500714	No	
+row_36	RET	ret proto-oncogene [Source:HGNC Symbol;Acc:HGNC:9967]	null	null	7628	-0.1681165248155594	0.1745338	No	
+row_37	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	null	null	8856	-0.2783355116844177	0.0778121	No	
+row_38	GNG11	G protein subunit gamma 11 [Source:HGNC Symbol;Acc:HGNC:4403]	null	null	9903	-0.4573014974594116	0.011708434	No	
+row_39	DLK1	delta like non-canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:2907]	null	null	10278	-0.5969871282577515	0.020284992	No	

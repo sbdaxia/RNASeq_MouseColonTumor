@@ -1,0 +1,12 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0005509","GO:0005509","calcium ion binding","21/226","297/10337",2.09753348367423e-06,0.000933402400235033,0.000790438933847763,"Capns1/Jag2/Fbln1/Anxa8/Lcp1/Pros1/Dsc2/Anxa1/Pam/Pla2g2f/Plch2/Chp2/Syt8/Anxa2/Calm4/Pla2g4c/Ltbp4/S100a14/S100a1/Dsg3/S100a16",21
+"GO:0004867","GO:0004867","serine-type endopeptidase inhibitor activity","7/226","33/10337",5.72707395176199e-06,0.00127427395426704,0.00107910130248989,"Wfdc2/Crim1/Anxa2/Wfikkn2/Serpinb3a/Serpinb6a/Serpina10",7
+"GO:0008509","GO:0008509","anion transmembrane transporter activity","16/226","227/10337",3.72605221730518e-05,0.00552697745566935,0.00468044453963247,"Slc25a48/Slc7a8/Sidt1/Rbp4/Sfxn3/Slc15a1/Slc9a2/Slc43a1/Slc27a2/Slc16a1/Slco4a1/Abcb1a/Slc39a8/Mfsd4a/Slc35e3/Slc4a11",16
+"GO:0061134","GO:0061134","peptidase regulator activity","10/226","107/10337",0.000112690309315712,0.0103740056016398,0.00878508339535674,"Fbln1/Wfdc2/Crim1/Anxa2/Simc1/Wfikkn2/Serpinb3a/Prss22/Serpinb6a/Serpina10",10
+"GO:0005544","GO:0005544","calcium-dependent phospholipid binding","5/226","23/10337",0.000116561860692582,0.0103740056016398,0.00878508339535674,"Anxa8/Anxa1/Syt8/Anxa2/Pla2g4c",5
+"GO:0030414","GO:0030414","peptidase inhibitor activity","8/226","74/10337",0.000200827353720528,0.0148946954009392,0.0126133671284121,"Wfdc2/Crim1/Anxa2/Simc1/Wfikkn2/Serpinb3a/Serpinb6a/Serpina10",8
+"GO:0004857","GO:0004857","enzyme inhibitor activity","13/226","200/10337",0.000442798624237288,0.0281493411122276,0.0238378808236014,"Apoc2/Wfdc2/Trib2/Crim1/Anxa1/Spred1/Anxa2/Simc1/Wfikkn2/Serpinb3a/Serpinb6a/Serpina10/Cdkn2b",13
+"GO:0004866","GO:0004866","endopeptidase inhibitor activity","7/226","71/10337",0.000881949139348448,0.0467369276459659,0.0395785218149161,"Wfdc2/Crim1/Anxa2/Wfikkn2/Serpinb3a/Serpinb6a/Serpina10",7
+"GO:0048306","GO:0048306","calcium-dependent protein binding","6/226","53/10337",0.000994499158313354,0.0467369276459659,0.0395785218149161,"Anxa1/Syt8/Anxa2/S100a14/S100a1/S100a16",6
+"GO:0044548","GO:0044548","S100 protein binding","3/226","10/10337",0.00110461927478658,0.0467369276459659,0.0395785218149161,"Anxa2/S100a1/Ezr",3
+"GO:0015075","GO:0015075","ion transmembrane transporter activity","19/226","398/10337",0.0011552948406868,0.0467369276459659,0.0395785218149161,"Slc25a48/Slc7a8/Sidt1/Trpm6/Rbp4/Sfxn3/Slc15a1/Slc9a2/Slc43a1/Slc27a2/Cachd1/Anxa2/Slc16a1/Slco4a1/Abcb1a/Slc39a8/Mfsd4a/Slc35e3/Slc4a11",19

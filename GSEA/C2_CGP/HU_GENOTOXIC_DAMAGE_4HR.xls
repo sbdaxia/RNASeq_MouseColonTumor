@@ -1,0 +1,36 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	H2AC19	H2A clustered histone 19 [Source:HGNC Symbol;Acc:HGNC:29668]	null	null	177	0.7100128531455994	0.057197917	No	
+row_1	JUND	JunD proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6206]	null	null	1924	0.2518310546875	-0.08349615	No	
+row_2	COMMD7	COMM domain containing 7 [Source:HGNC Symbol;Acc:HGNC:16223]	null	null	2262	0.2176089882850647	-0.09300788	No	
+row_3	ITGB7	integrin subunit beta 7 [Source:HGNC Symbol;Acc:HGNC:6162]	null	null	2531	0.19250856339931488	-0.09854102	No	
+row_4	SYNCRIP	synaptotagmin binding cytoplasmic RNA interacting protein [Source:HGNC Symbol;Acc:HGNC:16918]	null	null	3166	0.1406310498714447	-0.14449406	No	
+row_5	NCDN	neurochondrin [Source:HGNC Symbol;Acc:HGNC:17597]	null	null	5360	-0.011844155378639698	-0.35299355	No	
+row_6	TIMP2	TIMP metallopeptidase inhibitor 2 [Source:HGNC Symbol;Acc:HGNC:11821]	null	null	5630	-0.028116218745708466	-0.37578505	No	
+row_7	ORC5	origin recognition complex subunit 5 [Source:HGNC Symbol;Acc:HGNC:8491]	null	null	6086	-0.058580201119184494	-0.4131849	No	
+row_8	UCK1	uridine-cytidine kinase 1 [Source:HGNC Symbol;Acc:HGNC:14859]	null	null	6300	-0.07148713618516922	-0.42609265	No	
+row_9	CUL1	cullin 1 [Source:HGNC Symbol;Acc:HGNC:2551]	null	null	6413	-0.07888998091220856	-0.42856804	No	
+row_10	ECT2	epithelial cell transforming 2 [Source:HGNC Symbol;Acc:HGNC:3155]	null	null	6502	-0.08459129184484482	-0.42815283	No	
+row_11	FAM76B	family with sequence similarity 76 member B [Source:HGNC Symbol;Acc:HGNC:28492]	null	null	6558	-0.08934428542852402	-0.42408535	No	
+row_12	ANLN	anillin actin binding protein [Source:HGNC Symbol;Acc:HGNC:14082]	null	null	6619	-0.09305503964424133	-0.42010865	No	
+row_13	MAPRE1	microtubule associated protein RP/EB family member 1 [Source:HGNC Symbol;Acc:HGNC:6890]	null	null	6919	-0.11438225209712982	-0.43676305	No	
+row_14	SMG5	SMG5 nonsense mediated mRNA decay factor [Source:HGNC Symbol;Acc:HGNC:24644]	null	null	7026	-0.12286300957202911	-0.43407378	No	
+row_15	ALAS1	5'-aminolevulinate synthase 1 [Source:HGNC Symbol;Acc:HGNC:396]	null	null	7166	-0.1329350471496582	-0.43348902	No	
+row_16	IFNAR2	interferon alpha and beta receptor subunit 2 [Source:HGNC Symbol;Acc:HGNC:5433]	null	null	7482	-0.15768058598041534	-0.44715327	No	
+row_17	KPNA2	karyopherin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6395]	null	null	7688	-0.1718764305114746	-0.4488152	No	
+row_18	NEK2	NIMA related kinase 2 [Source:HGNC Symbol;Acc:HGNC:7745]	null	null	7760	-0.1778007298707962	-0.43704298	No	
+row_19	CKS2	CDC28 protein kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:2000]	null	null	8231	-0.21199117600917816	-0.4598612	No	
+row_20	HMGN1	high mobility group nucleosome binding domain 1 [Source:HGNC Symbol;Acc:HGNC:4984]	null	null	8320	-0.21909953653812408	-0.44540322	No	
+row_21	H2AX	H2A.X variant histone [Source:HGNC Symbol;Acc:HGNC:4739]	null	null	9152	-0.3124960660934448	-0.49225423	Yes	
+row_22	CDC20	cell division cycle 20 [Source:HGNC Symbol;Acc:HGNC:1723]	null	null	9157	-0.3129817247390747	-0.4599612	Yes	
+row_23	MTHFD2	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase [Source:HGNC Symbol;Acc:HGNC:7434]	null	null	9328	-0.33935680985450745	-0.44079065	Yes	
+row_24	TCF19	transcription factor 19 [Source:HGNC Symbol;Acc:HGNC:11629]	null	null	9527	-0.37312594056129456	-0.42077246	Yes	
+row_25	CDT1	chromatin licensing and DNA replication factor 1 [Source:HGNC Symbol;Acc:HGNC:24576]	null	null	9634	-0.39429813623428345	-0.3897451	Yes	
+row_26	PTTG1	PTTG1 regulator of sister chromatid separation, securin [Source:HGNC Symbol;Acc:HGNC:9690]	null	null	9697	-0.40857017040252686	-0.3530196	Yes	
+row_27	KIF22	kinesin family member 22 [Source:HGNC Symbol;Acc:HGNC:6391]	null	null	9772	-0.42258769273757935	-0.31597832	Yes	
+row_28	AURKA	aurora kinase A [Source:HGNC Symbol;Acc:HGNC:11393]	null	null	9865	-0.445352703332901	-0.27828187	Yes	
+row_29	TRAFD1	TRAF-type zinc finger domain containing 1 [Source:HGNC Symbol;Acc:HGNC:24808]	null	null	9956	-0.4673769474029541	-0.23809479	Yes	
+row_30	BUB1	BUB1 mitotic checkpoint serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1148]	null	null	9981	-0.47359350323677063	-0.19094652	Yes	
+row_31	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	null	null	10001	-0.47795671224594116	-0.14286454	Yes	
+row_32	ZSCAN21	zinc finger and SCAN domain containing 21 [Source:HGNC Symbol;Acc:HGNC:13104]	null	null	10137	-0.528131902217865	-0.10063834	Yes	
+row_33	PRC1	protein regulator of cytokinesis 1 [Source:HGNC Symbol;Acc:HGNC:9341]	null	null	10205	-0.552257776260376	-0.04938992	Yes	
+row_34	CDC25C	cell division cycle 25C [Source:HGNC Symbol;Acc:HGNC:1727]	null	null	10427	-0.7332437038421631	0.0060252086	Yes	

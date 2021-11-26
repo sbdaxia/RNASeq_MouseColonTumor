@@ -1,0 +1,26 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LTBP4	latent transforming growth factor beta binding protein 4 [Source:HGNC Symbol;Acc:HGNC:6717]	null	null	66	0.9001336693763733	0.1115765	Yes	
+row_1	PLEKHH2	pleckstrin homology, MyTH4 and FERM domain containing H2 [Source:HGNC Symbol;Acc:HGNC:30506]	null	null	270	0.6278057098388672	0.17439859	Yes	
+row_2	GAS6	growth arrest specific 6 [Source:HGNC Symbol;Acc:HGNC:4168]	null	null	364	0.5651748776435852	0.23952867	Yes	
+row_3	EHD2	EH domain containing 2 [Source:HGNC Symbol;Acc:HGNC:3243]	null	null	481	0.517669141292572	0.29623976	Yes	
+row_4	PARM1	prostate androgen-regulated mucin-like protein 1 [Source:HGNC Symbol;Acc:HGNC:24536]	null	null	972	0.3899390399456024	0.30048838	Yes	
+row_5	SYNPO2	synaptopodin 2 [Source:HGNC Symbol;Acc:HGNC:17732]	null	null	1142	0.35953596234321594	0.33142614	Yes	
+row_6	NID1	nidogen 1 [Source:HGNC Symbol;Acc:HGNC:7821]	null	null	1352	0.32772472500801086	0.35437596	Yes	
+row_7	OGN	osteoglycin [Source:HGNC Symbol;Acc:HGNC:8126]	null	null	1387	0.3231998383998871	0.393454	Yes	
+row_8	FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	null	null	1492	0.30826082825660706	0.42388728	Yes	
+row_9	FBXO32	F-box protein 32 [Source:HGNC Symbol;Acc:HGNC:16731]	null	null	1645	0.2860676944255829	0.44682783	Yes	
+row_10	CRISPLD2	cysteine rich secretory protein LCCL domain containing 2 [Source:HGNC Symbol;Acc:HGNC:25248]	null	null	1799	0.26845335960388184	0.46736607	Yes	
+row_11	ATP8A2	ATPase phospholipid transporting 8A2 [Source:HGNC Symbol;Acc:HGNC:13533]	null	null	1831	0.26280394196510315	0.49882123	Yes	
+row_12	PAPPA	pappalysin 1 [Source:HGNC Symbol;Acc:HGNC:8602]	null	null	2000	0.24375687539577484	0.51469195	Yes	
+row_13	SCARA5	scavenger receptor class A member 5 [Source:HGNC Symbol;Acc:HGNC:28701]	null	null	2047	0.2393774837255478	0.54164594	Yes	
+row_14	SIN3B	SIN3 transcription regulator family member B [Source:HGNC Symbol;Acc:HGNC:19354]	null	null	2492	0.1960531324148178	0.52489823	Yes	
+row_15	DCN	decorin [Source:HGNC Symbol;Acc:HGNC:2705]	null	null	2588	0.18839320540428162	0.5404934	Yes	
+row_16	EMILIN1	elastin microfibril interfacer 1 [Source:HGNC Symbol;Acc:HGNC:19880]	null	null	2605	0.18761590123176575	0.5635351	Yes	
+row_17	PDGFRA	platelet derived growth factor receptor alpha [Source:HGNC Symbol;Acc:HGNC:8803]	null	null	2753	0.17587636411190033	0.5725226	Yes	
+row_18	COL3A1	collagen type III alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2201]	null	null	2808	0.1709718108177185	0.5897537	Yes	
+row_19	EDNRB	endothelin receptor type B [Source:HGNC Symbol;Acc:HGNC:3180]	null	null	2828	0.16928543150424957	0.61010814	Yes	
+row_20	COX7A1	cytochrome c oxidase subunit 7A1 [Source:HGNC Symbol;Acc:HGNC:2287]	null	null	5358	-0.011697249487042427	0.3700004	No	
+row_21	TMEM132C	transmembrane protein 132C [Source:HGNC Symbol;Acc:HGNC:25436]	null	null	7260	-0.13906458020210266	0.20657669	No	
+row_22	RAMP1	receptor activity modifying protein 1 [Source:HGNC Symbol;Acc:HGNC:9843]	null	null	8113	-0.20422638952732086	0.15191598	No	
+row_23	TBX3	T-box transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:11602]	null	null	8890	-0.28246545791625977	0.114763156	No	
+row_24	XYLT1	xylosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15516]	null	null	8972	-0.2902939021587372	0.14504106	No	

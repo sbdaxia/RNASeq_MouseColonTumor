@@ -1,0 +1,23 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ABCB1	ATP binding cassette subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:40]	null	null	4	1.432892918586731	0.1963068	Yes	
+row_1	LAMB3	laminin subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:6490]	null	null	220	0.660837709903717	0.26648116	Yes	
+row_2	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	null	null	262	0.6327979564666748	0.3494271	Yes	
+row_3	CCND2	cyclin D2 [Source:HGNC Symbol;Acc:HGNC:1583]	null	null	291	0.6158801317214966	0.43129253	Yes	
+row_4	LAMC2	laminin subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:6493]	null	null	328	0.5899582505226135	0.5088356	Yes	
+row_5	LAMA3	laminin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6483]	null	null	349	0.5742809772491455	0.585755	Yes	
+row_6	ESR1	estrogen receptor 1 [Source:HGNC Symbol;Acc:HGNC:3467]	null	null	877	0.40723511576652527	0.5913158	Yes	
+row_7	CDH13	cadherin 13 [Source:HGNC Symbol;Acc:HGNC:1753]	null	null	917	0.3986286520957947	0.64230907	Yes	
+row_8	RASSF1	Ras association domain family member 1 [Source:HGNC Symbol;Acc:HGNC:9882]	null	null	1046	0.37526294589042664	0.6815937	Yes	
+row_9	CAV1	caveolin 1 [Source:HGNC Symbol;Acc:HGNC:1527]	null	null	1865	0.25934457778930664	0.6390577	No	
+row_10	EDNRB	endothelin receptor type B [Source:HGNC Symbol;Acc:HGNC:3180]	null	null	2828	0.16928543150424957	0.57040465	No	
+row_11	PTGS2	prostaglandin-endoperoxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:9605]	null	null	3489	0.1162724420428276	0.52332175	No	
+row_12	VDR	vitamin D receptor [Source:HGNC Symbol;Acc:HGNC:12679]	null	null	4240	0.06199606508016586	0.4601917	No	
+row_13	CXADR	CXADR Ig-like cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:2559]	null	null	4500	0.0425318218767643	0.4412902	No	
+row_14	DAB2IP	DAB2 interacting protein [Source:HGNC Symbol;Acc:HGNC:17294]	null	null	4685	0.03334801644086838	0.4282921	No	
+row_15	PLAU	plasminogen activator, urokinase [Source:HGNC Symbol;Acc:HGNC:9052]	null	null	5306	-0.007920166477560997	0.3701568	No	
+row_16	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	null	null	5361	-0.011864233762025833	0.36662728	No	
+row_17	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	null	null	5512	-0.02152802050113678	0.35525435	No	
+row_18	PXMP4	peroxisomal membrane protein 4 [Source:HGNC Symbol;Acc:HGNC:15920]	null	null	5906	-0.04543660953640938	0.32395187	No	
+row_19	DAPK1	death associated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:2674]	null	null	6278	-0.07031995058059692	0.29816654	No	
+row_20	GSTP1	glutathione S-transferase pi 1 [Source:HGNC Symbol;Acc:HGNC:4638]	null	null	9292	-0.33315572142601013	0.056095712	No	
+row_21	HPSE	heparanase [Source:HGNC Symbol;Acc:HGNC:5164]	null	null	9780	-0.42429572343826294	0.06781921	No	

@@ -1,0 +1,38 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAFB	MAFB	v-maf musculoaponeurotic fibrosarcoma oncogene homolog B (avian)	34	2.4903159141540527	0.11778438	Yes	
+row_1	PAK3	PAK3	p21 (CDKN1A)-activated kinase 3	881	0.9940904974937439	0.11143424	Yes	
+row_2	LMO2	LMO2	LIM domain only 2 (rhombotin-like 1)	954	0.9666435718536377	0.15338367	Yes	
+row_3	ISL1	ISL1	ISL1 transcription factor, LIM/homeodomain, (islet-1)	1227	0.87191241979599	0.17794754	Yes	
+row_4	STXBP1	STXBP1	syntaxin binding protein 1	1616	0.7719953656196594	0.1902613	Yes	
+row_5	SYT13	SYT13	synaptotagmin XIII	1681	0.7559486627578735	0.22257397	Yes	
+row_6	PAX6	PAX6	paired box gene 6 (aniridia, keratitis)	2103	0.6568280458450317	0.22722423	Yes	
+row_7	PCSK2	PCSK2	proprotein convertase subtilisin/kexin type 2	2519	0.5891994833946228	0.22900131	Yes	
+row_8	SRPRB	SRPRB	signal recognition particle receptor, B subunit	3534	0.48165860772132874	0.18719557	No	
+row_9	PDX1	null	null	3660	0.46261852979660034	0.2014671	No	
+row_10	FOXO1	null	null	4465	0.3855820894241333	0.16849639	No	
+row_11	ABCC8	ABCC8	ATP-binding cassette, sub-family C (CFTR/MRP), member 8	4903	0.32937511801719666	0.15634672	No	
+row_12	NKX6-1	NKX6-1	NK6 transcription factor related, locus 1 (Drosophila)	5959	0.20646236836910248	0.098655604	No	
+row_13	GCK	GCK	glucokinase (hexokinase 4, maturity onset diabetes of the young 2)	7275	0.0784313827753067	0.01812814	No	
+row_14	SLC2A2	SLC2A2	solute carrier family 2 (facilitated glucose transporter), member 2	7667	0.04148475453257561	-0.0049407617	No	
+row_15	SRP14	SRP14	signal recognition particle 14kDa (homologous Alu RNA binding protein)	8414	-0.02078600972890854	-0.051766098	No	
+row_16	SCGN	SCGN	secretagogin, EF-hand calcium binding protein	8874	-0.0569293238222599	-0.07845053	No	
+row_17	AKT3	AKT3	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)	9075	-0.07561328262090683	-0.08763023	No	
+row_18	DCX	DCX	doublecortex; lissencephaly, X-linked (doublecortin)	9516	-0.11769437044858932	-0.110169366	No	
+row_19	SRP9	SRP9	signal recognition particle 9kDa	10673	-0.22391116619110107	-0.17349513	No	
+row_20	PKLR	PKLR	pyruvate kinase, liver and RBC	11045	-0.25751927495002747	-0.18487494	No	
+row_21	SST	SST	somatostatin	11099	-0.26274845004081726	-0.17561562	No	
+row_22	IAPP	IAPP	islet amyloid polypeptide	11102	-0.2629990577697754	-0.16307458	No	
+row_23	SEC11A	null	null	11699	-0.32575470209121704	-0.18559228	No	
+row_24	CHGA	CHGA	chromogranin A (parathyroid secretory protein 1)	11787	-0.33492541313171387	-0.1750358	No	
+row_25	HNF1A	null	null	11790	-0.3353135883808136	-0.1590112	No	
+row_26	PAX4	PAX4	paired box gene 4	11877	-0.3438734710216522	-0.14795958	No	
+row_27	DPP4	DPP4	dipeptidyl-peptidase 4 (CD26, adenosine deaminase complexing protein 2)	11911	-0.34771671891212463	-0.13332492	No	
+row_28	INSM1	INSM1	insulinoma-associated 1	11976	-0.35594677925109863	-0.12028126	No	
+row_29	NEUROD1	NEUROD1	neurogenic differentiation 1	13183	-0.4768363833427429	-0.17462857	No	
+row_30	ELP4	ELP4	elongation protein 4 homolog (S. cerevisiae)	14255	-0.6438096761703491	-0.21227746	No	
+row_31	GCG	GCG	glucagon	14433	-0.6854503750801086	-0.19060537	No	
+row_32	PCSK1	PCSK1	proprotein convertase subtilisin/kexin type 1	14956	-0.8509525656700134	-0.18307889	No	
+row_33	VDR	VDR	vitamin D (1,25- dihydroxyvitamin D3) receptor	15144	-0.9278894662857056	-0.15036908	No	
+row_34	NEUROG3	NEUROG3	neurogenin 3	15259	-1.0122617483139038	-0.10891476	No	
+row_35	FOXA2	FOXA2	forkhead box A2	15495	-1.3126939535140991	-0.06074537	No	
+row_36	NKX2-2	NKX2-2	NK2 transcription factor related, locus 2 (Drosophila)	15537	-1.4446592330932617	0.006218588	No	

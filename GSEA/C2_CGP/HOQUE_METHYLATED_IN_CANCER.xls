@@ -1,0 +1,33 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDKN2B	cyclin dependent kinase inhibitor 2B [Source:HGNC Symbol;Acc:HGNC:1788]	null	null	36	1.0220102071762085	0.104126066	Yes	
+row_1	RBP1	retinol binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9919]	null	null	72	0.8883711099624634	0.19428203	Yes	
+row_2	CREBL2	cAMP responsive element binding protein like 2 [Source:HGNC Symbol;Acc:HGNC:2350]	null	null	284	0.6183023452758789	0.23918524	Yes	
+row_3	CCND2	cyclin D2 [Source:HGNC Symbol;Acc:HGNC:1583]	null	null	291	0.6158801317214966	0.30343387	Yes	
+row_4	CADM1	cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5951]	null	null	735	0.43883517384529114	0.30726606	Yes	
+row_5	CDX2	caudal type homeobox 2 [Source:HGNC Symbol;Acc:HGNC:1806]	null	null	764	0.4322192370891571	0.35008064	Yes	
+row_6	ESR1	estrogen receptor 1 [Source:HGNC Symbol;Acc:HGNC:3467]	null	null	877	0.40723511576652527	0.38223425	Yes	
+row_7	CDH13	cadherin 13 [Source:HGNC Symbol;Acc:HGNC:1753]	null	null	917	0.3986286520957947	0.42046165	Yes	
+row_8	TIMP3	TIMP metallopeptidase inhibitor 3 [Source:HGNC Symbol;Acc:HGNC:11822]	null	null	967	0.390253484249115	0.45685145	Yes	
+row_9	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	null	null	985	0.38837528228759766	0.49610314	Yes	
+row_10	RASSF1	Ras association domain family member 1 [Source:HGNC Symbol;Acc:HGNC:9882]	null	null	1046	0.37526294589042664	0.5298634	Yes	
+row_11	BMP2	bone morphogenetic protein 2 [Source:HGNC Symbol;Acc:HGNC:1069]	null	null	1338	0.3307524025440216	0.53685266	Yes	
+row_12	SNRPN	small nuclear ribonucleoprotein polypeptide N [Source:HGNC Symbol;Acc:HGNC:11164]	null	null	1905	0.2542872726917267	0.5095007	No	
+row_13	MLH1	mutL homolog 1 [Source:HGNC Symbol;Acc:HGNC:7127]	null	null	2296	0.21403007209300995	0.49473923	No	
+row_14	GATA5	GATA binding protein 5 [Source:HGNC Symbol;Acc:HGNC:15802]	null	null	2722	0.178793802857399	0.47292268	No	
+row_15	EDNRB	endothelin receptor type B [Source:HGNC Symbol;Acc:HGNC:3180]	null	null	2828	0.16928543150424957	0.48070103	No	
+row_16	PTGS2	prostaglandin-endoperoxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:9605]	null	null	3489	0.1162724420428276	0.42983532	No	
+row_17	BRCA1	BRCA1 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1100]	null	null	4378	0.052018847316503525	0.35040742	No	
+row_18	FOXN2	forkhead box N2 [Source:HGNC Symbol;Acc:HGNC:5281]	null	null	5112	0.004616832360625267	0.28081015	No	
+row_19	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	null	null	5361	-0.011864233762025833	0.25834724	No	
+row_20	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	null	null	5469	-0.018779320642352104	0.25009337	No	
+row_21	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	null	null	5512	-0.02152802050113678	0.24834356	No	
+row_22	DAB2	DAB adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:2662]	null	null	5565	-0.02474253810942173	0.24597596	No	
+row_23	TIMP2	TIMP metallopeptidase inhibitor 2 [Source:HGNC Symbol;Acc:HGNC:11821]	null	null	5630	-0.028116218745708466	0.24281609	No	
+row_24	CHFR	checkpoint with forkhead and ring finger domains [Source:HGNC Symbol;Acc:HGNC:20455]	null	null	6030	-0.054230883717536926	0.21037501	No	
+row_25	SFRP1	secreted frizzled related protein 1 [Source:HGNC Symbol;Acc:HGNC:10776]	null	null	6835	-0.10898371785879135	0.14497411	No	
+row_26	CDX1	caudal type homeobox 1 [Source:HGNC Symbol;Acc:HGNC:1805]	null	null	7278	-0.14054439961910248	0.117506355	No	
+row_27	HOXA5	homeobox A5 [Source:HGNC Symbol;Acc:HGNC:5106]	null	null	7462	-0.1559823602437973	0.11642684	No	
+row_28	SOCS3	suppressor of cytokine signaling 3 [Source:HGNC Symbol;Acc:HGNC:19391]	null	null	7857	-0.18608954548835754	0.09834213	No	
+row_29	GSTP1	glutathione S-transferase pi 1 [Source:HGNC Symbol;Acc:HGNC:4638]	null	null	9292	-0.33315572142601013	-0.0036995437	No	
+row_30	QDPR	quinoid dihydropteridine reductase [Source:HGNC Symbol;Acc:HGNC:9752]	null	null	10155	-0.533433735370636	-0.029971918	No	
+row_31	SOCS1	suppressor of cytokine signaling 1 [Source:HGNC Symbol;Acc:HGNC:19383]	null	null	10263	-0.5881739854812622	0.021703836	No	

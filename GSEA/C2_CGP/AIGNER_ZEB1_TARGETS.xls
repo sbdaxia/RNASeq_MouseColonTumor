@@ -1,0 +1,33 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PPL	periplakin [Source:HGNC Symbol;Acc:HGNC:9273]	null	null	52	0.9498982429504395	0.07422548	Yes	
+row_1	SCEL	sciellin [Source:HGNC Symbol;Acc:HGNC:10573]	null	null	60	0.9215428829193115	0.15038936	Yes	
+row_2	PATJ	PATJ crumbs cell polarity complex component [Source:HGNC Symbol;Acc:HGNC:28881]	null	null	125	0.7856994867324829	0.2097775	Yes	
+row_3	DSC2	desmocollin 2 [Source:HGNC Symbol;Acc:HGNC:3036]	null	null	141	0.7649310827255249	0.27211908	Yes	
+row_4	GJB3	gap junction protein beta 3 [Source:HGNC Symbol;Acc:HGNC:4285]	null	null	147	0.7519599795341492	0.3343353	Yes	
+row_5	PMEPA1	prostate transmembrane protein, androgen induced 1 [Source:HGNC Symbol;Acc:HGNC:14107]	null	null	150	0.7469829320907593	0.39642337	Yes	
+row_6	MPZL2	myelin protein zero like 2 [Source:HGNC Symbol;Acc:HGNC:3496]	null	null	311	0.6018041968345642	0.43130067	Yes	
+row_7	SH3YL1	SH3 and SYLF domain containing 1 [Source:HGNC Symbol;Acc:HGNC:29546]	null	null	548	0.49456605315208435	0.44997054	Yes	
+row_8	TSPAN1	tetraspanin 1 [Source:HGNC Symbol;Acc:HGNC:20657]	null	null	607	0.4742810130119324	0.48396802	Yes	
+row_9	DSP	desmoplakin [Source:HGNC Symbol;Acc:HGNC:3052]	null	null	800	0.4230969548225403	0.5008861	Yes	
+row_10	TMEM30B	transmembrane protein 30B [Source:HGNC Symbol;Acc:HGNC:27254]	null	null	905	0.40098080039024353	0.52437407	Yes	
+row_11	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	null	null	985	0.38837528228759766	0.54920137	Yes	
+row_12	PKP3	plakophilin 3 [Source:HGNC Symbol;Acc:HGNC:9025]	null	null	1008	0.38381442427635193	0.5790982	Yes	
+row_13	MAL2	mal, T cell differentiation protein 2 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:13634]	null	null	1103	0.36551716923713684	0.6005856	Yes	
+row_14	DMKN	dermokine [Source:HGNC Symbol;Acc:HGNC:25063]	null	null	1209	0.35049793124198914	0.619769	Yes	
+row_15	TSPAN15	tetraspanin 15 [Source:HGNC Symbol;Acc:HGNC:23298]	null	null	1281	0.33935680985450745	0.6412743	Yes	
+row_16	EPCAM	epithelial cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:11529]	null	null	1461	0.31221330165863037	0.6501904	Yes	
+row_17	F11R	F11 receptor [Source:HGNC Symbol;Acc:HGNC:14685]	null	null	1917	0.25308889150619507	0.62778836	No	
+row_18	CLDN7	claudin 7 [Source:HGNC Symbol;Acc:HGNC:2049]	null	null	2490	0.19618667662143707	0.5894556	No	
+row_19	MARVELD2	MARVEL domain containing 2 [Source:HGNC Symbol;Acc:HGNC:26401]	null	null	3227	0.13521847128868103	0.5303593	No	
+row_20	CDH11	cadherin 11 [Source:HGNC Symbol;Acc:HGNC:1750]	null	null	3772	0.09703266620635986	0.48643675	No	
+row_21	SHROOM3	shroom family member 3 [Source:HGNC Symbol;Acc:HGNC:30422]	null	null	3912	0.08600340783596039	0.48031726	No	
+row_22	GJB2	gap junction protein beta 2 [Source:HGNC Symbol;Acc:HGNC:4284]	null	null	4475	0.04421867057681084	0.43027034	No	
+row_23	CXADR	CXADR Ig-like cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:2559]	null	null	4500	0.0425318218767643	0.43152174	No	
+row_24	OCLN	occludin [Source:HGNC Symbol;Acc:HGNC:8104]	null	null	4554	0.039439182728528976	0.42974254	No	
+row_25	TACSTD2	tumor associated calcium signal transducer 2 [Source:HGNC Symbol;Acc:HGNC:11530]	null	null	4695	0.03275386989116669	0.4190878	No	
+row_26	SYTL1	synaptotagmin like 1 [Source:HGNC Symbol;Acc:HGNC:15584]	null	null	5011	0.012093618512153625	0.3899785	No	
+row_27	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	null	null	5361	-0.011864233762025833	0.35759926	No	
+row_28	CRB3	crumbs cell polarity complex component 3 [Source:HGNC Symbol;Acc:HGNC:20237]	null	null	5505	-0.021070217713713646	0.34568354	No	
+row_29	PCDH7	protocadherin 7 [Source:HGNC Symbol;Acc:HGNC:8659]	null	null	7133	-0.1299922615289688	0.20096178	No	
+row_30	CD24	CD24 molecule [Source:HGNC Symbol;Acc:HGNC:1645]	null	null	10119	-0.5192188620567322	-0.04114876	No	
+row_31	MUC1	mucin 1, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7508]	null	null	10474	-0.9178465604782104	0.0015297723	No	

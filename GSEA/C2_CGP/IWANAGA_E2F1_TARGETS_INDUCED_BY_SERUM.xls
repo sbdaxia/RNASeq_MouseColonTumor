@@ -1,0 +1,23 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GGH	gamma-glutamyl hydrolase [Source:HGNC Symbol;Acc:HGNC:4248]	null	null	67	0.8993514776229858	0.122403495	No	
+row_1	ADK	adenosine kinase [Source:HGNC Symbol;Acc:HGNC:257]	null	null	2707	0.1798110008239746	-0.1039219	No	
+row_2	GXYLT1	glucoside xylosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:27482]	null	null	3850	0.09028878808021545	-0.20007488	No	
+row_3	MAGI3	membrane associated guanylate kinase, WW and PDZ domain containing 3 [Source:HGNC Symbol;Acc:HGNC:29647]	null	null	3974	0.0822758898139	-0.20004047	No	
+row_4	MTMR2	myotubularin related protein 2 [Source:HGNC Symbol;Acc:HGNC:7450]	null	null	5434	-0.01679844968020916	-0.33699846	No	
+row_5	MMUT	methylmalonyl-CoA mutase [Source:HGNC Symbol;Acc:HGNC:7526]	null	null	5987	-0.05131656676530838	-0.3823761	No	
+row_6	MAPRE1	microtubule associated protein RP/EB family member 1 [Source:HGNC Symbol;Acc:HGNC:6890]	null	null	6919	-0.11438225209712982	-0.45492372	No	
+row_7	FIGNL1	fidgetin like 1 [Source:HGNC Symbol;Acc:HGNC:13286]	null	null	7659	-0.16983942687511444	-0.50118905	No	
+row_8	PGM2L1	phosphoglucomutase 2 like 1 [Source:HGNC Symbol;Acc:HGNC:20898]	null	null	7819	-0.18210196495056152	-0.49029645	No	
+row_9	CEP57	centrosomal protein 57 [Source:HGNC Symbol;Acc:HGNC:30794]	null	null	7985	-0.19459481537342072	-0.47818777	No	
+row_10	HMGB2	high mobility group box 2 [Source:HGNC Symbol;Acc:HGNC:5000]	null	null	8614	-0.2503524422645569	-0.5023194	Yes	
+row_11	PIAS2	protein inhibitor of activated STAT 2 [Source:HGNC Symbol;Acc:HGNC:17311]	null	null	8656	-0.2542761266231537	-0.46981883	Yes	
+row_12	FAM111A	family with sequence similarity 111 member A [Source:HGNC Symbol;Acc:HGNC:24725]	null	null	8949	-0.2883252501487732	-0.45641732	Yes	
+row_13	PCGF5	polycomb group ring finger 5 [Source:HGNC Symbol;Acc:HGNC:28264]	null	null	8971	-0.2901611030101776	-0.41686693	Yes	
+row_14	CLSPN	claspin [Source:HGNC Symbol;Acc:HGNC:19715]	null	null	9491	-0.3684738576412201	-0.4136698	Yes	
+row_15	PSIP1	PC4 and SFRS1 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:9527]	null	null	9520	-0.3718404173851013	-0.3630901	Yes	
+row_16	GEMIN2	gem nuclear organelle associated protein 2 [Source:HGNC Symbol;Acc:HGNC:10884]	null	null	9707	-0.40961381793022156	-0.32219276	Yes	
+row_17	CENPU	centromere protein U [Source:HGNC Symbol;Acc:HGNC:21348]	null	null	9748	-0.41761091351509094	-0.26620415	Yes	
+row_18	TPGS2	tubulin polyglutamylase complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:24561]	null	null	9757	-0.41951754689216614	-0.20688583	Yes	
+row_19	RAD51AP1	RAD51 associated protein 1 [Source:HGNC Symbol;Acc:HGNC:16956]	null	null	9926	-0.460709810256958	-0.15695126	Yes	
+row_20	CENPH	centromere protein H [Source:HGNC Symbol;Acc:HGNC:17268]	null	null	10369	-0.6629822850227356	-0.104220144	Yes	
+row_21	HROB	homologous recombination factor with OB-fold [Source:HGNC Symbol;Acc:HGNC:28460]	null	null	10455	-0.8077365756034851	0.003343084	Yes	

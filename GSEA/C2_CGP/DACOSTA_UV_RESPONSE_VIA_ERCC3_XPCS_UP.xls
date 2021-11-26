@@ -1,0 +1,24 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CASP3	caspase 3 [Source:HGNC Symbol;Acc:HGNC:1504]	null	null	1773	0.27111780643463135	-0.113045365	No	
+row_1	GLS	glutaminase [Source:HGNC Symbol;Acc:HGNC:4331]	null	null	2447	0.19938711822032928	-0.13591148	No	
+row_2	SAT1	spermidine/spermine N1-acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10540]	null	null	3165	0.14064426720142365	-0.17518541	No	
+row_3	CTH	cystathionine gamma-lyase [Source:HGNC Symbol;Acc:HGNC:2501]	null	null	4988	0.014089440926909447	-0.34631243	No	
+row_4	BUD23	BUD23 rRNA methyltransferase and ribosome maturation factor [Source:HGNC Symbol;Acc:HGNC:16405]	null	null	5031	0.010334262624382973	-0.34817758	No	
+row_5	RPUSD2	RNA pseudouridine synthase domain containing 2 [Source:HGNC Symbol;Acc:HGNC:24180]	null	null	5372	-0.012644649483263493	-0.37803045	No	
+row_6	COX6A1	cytochrome c oxidase subunit 6A1 [Source:HGNC Symbol;Acc:HGNC:2277]	null	null	5402	-0.014488637447357178	-0.3777906	No	
+row_7	ADO	2-aminoethanethiol dioxygenase [Source:HGNC Symbol;Acc:HGNC:23506]	null	null	5682	-0.03177730366587639	-0.39784116	No	
+row_8	FRAT2	FRAT regulator of WNT signaling pathway 2 [Source:HGNC Symbol;Acc:HGNC:16048]	null	null	6219	-0.06639119982719421	-0.43525127	No	
+row_9	ZKSCAN1	zinc finger with KRAB and SCAN domains 1 [Source:HGNC Symbol;Acc:HGNC:13101]	null	null	6623	-0.09322650730609894	-0.4543806	No	
+row_10	CDKN1C	cyclin dependent kinase inhibitor 1C [Source:HGNC Symbol;Acc:HGNC:1786]	null	null	7095	-0.1275930404663086	-0.4728659	Yes	
+row_11	PDCL	phosducin like [Source:HGNC Symbol;Acc:HGNC:8770]	null	null	7256	-0.13876686990261078	-0.4593201	Yes	
+row_12	MED6	mediator complex subunit 6 [Source:HGNC Symbol;Acc:HGNC:19970]	null	null	7271	-0.13983024656772614	-0.4316061	Yes	
+row_13	CCNT2	cyclin T2 [Source:HGNC Symbol;Acc:HGNC:1600]	null	null	7639	-0.16857340931892395	-0.4316422	Yes	
+row_14	MPDU1	mannose-P-dolichol utilization defect 1 [Source:HGNC Symbol;Acc:HGNC:7207]	null	null	7731	-0.17470695078372955	-0.4040379	Yes	
+row_15	GSTT2	glutathione S-transferase theta 2 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:4642]	null	null	9073	-0.3029738962650299	-0.46919614	Yes	
+row_16	TP53	tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	null	null	9236	-0.3251023292541504	-0.41712797	Yes	
+row_17	HAUS3	HAUS augmin like complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:28719]	null	null	9247	-0.3265852630138397	-0.35023126	Yes	
+row_18	TERF2	telomeric repeat binding factor 2 [Source:HGNC Symbol;Acc:HGNC:11729]	null	null	9389	-0.351508229970932	-0.29067084	Yes	
+row_19	TRIM21	tripartite motif containing 21 [Source:HGNC Symbol;Acc:HGNC:11312]	null	null	9654	-0.3979540765285492	-0.23321085	Yes	
+row_20	RAD9A	RAD9 checkpoint clamp component A [Source:HGNC Symbol;Acc:HGNC:9827]	null	null	9751	-0.4180571138858795	-0.1555253	Yes	
+row_21	IRF1	interferon regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:6116]	null	null	10052	-0.49332940578460693	-0.08168898	Yes	
+row_22	ALDH1B1	aldehyde dehydrogenase 1 family member B1 [Source:HGNC Symbol;Acc:HGNC:407]	null	null	10271	-0.5941181778907776	0.020920815	Yes	

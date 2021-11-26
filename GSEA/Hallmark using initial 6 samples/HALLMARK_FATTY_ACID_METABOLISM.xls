@@ -1,0 +1,152 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AOC3	AOC3	amine oxidase, copper containing 3 (vascular adhesion protein 1)	751	1.0592035055160522	-0.032761656	No	
+row_1	ME1	ME1	malic enzyme 1, NADP(+)-dependent, cytosolic	1027	0.9386439919471741	-0.036573444	No	
+row_2	BMPR1B	BMPR1B	bone morphogenetic protein receptor, type IB	1141	0.8974037170410156	-0.030535657	No	
+row_3	CEL	CEL	carboxyl ester lipase (bile salt-stimulated lipase)	1377	0.8410325050354004	-0.033214666	No	
+row_4	SERINC1	SERINC1	serine incorporator 1	1435	0.8250117897987366	-0.024636004	No	
+row_5	CIDEA	CIDEA	cell death-inducing DFFA-like effector a	1447	0.8199981451034546	-0.013161041	No	
+row_6	ACSL4	ACSL4	acyl-CoA synthetase long-chain family member 4	1827	0.7178856730461121	-0.026969962	No	
+row_7	DHCR24	DHCR24	24-dehydrocholesterol reductase	1880	0.7063489556312561	-0.019831749	No	
+row_8	ENO2	ENO2	enolase 2 (gamma, neuronal)	1966	0.6888591051101685	-0.015084669	No	
+row_9	LGALS1	LGALS1	lectin, galactoside-binding, soluble, 1 (galectin 1)	2110	0.655216634273529	-0.014583328	No	
+row_10	GAPDHS	GAPDHS	glyceraldehyde-3-phosphate dehydrogenase, spermatogenic	2218	0.6377245783805847	-0.012016943	No	
+row_11	HSD17B7	HSD17B7	hydroxysteroid (17-beta) dehydrogenase 7	2252	0.6320112347602844	-0.0047563314	No	
+row_12	ALDH3A1	ALDH3A1	aldehyde dehydrogenase 3 family, memberA1	2263	0.6305395364761353	0.003967813	No	
+row_13	CD36	CD36	CD36 molecule (thrombospondin receptor)	2295	0.6258822083473206	0.011266511	No	
+row_14	CYP1A1	CYP1A1	cytochrome P450, family 1, subfamily A, polypeptide 1	2412	0.6063114404678345	0.012784844	No	
+row_15	GLUL	GLUL	glutamate-ammonia ligase (glutamine synthetase)	2424	0.6041847467422485	0.021052768	No	
+row_16	MGLL	MGLL	monoglyceride lipase	2647	0.5755575299263	0.015268314	No	
+row_17	HSDL2	HSDL2	hydroxysteroid dehydrogenase like 2	2651	0.5753404498100281	0.023624267	No	
+row_18	EPHX1	EPHX1	epoxide hydrolase 1, microsomal (xenobiotic)	2807	0.5631891489028931	0.021983063	No	
+row_19	ACOX1	ACOX1	acyl-Coenzyme A oxidase 1, palmitoyl	2993	0.5454519391059875	0.018140797	No	
+row_20	CA6	CA6	carbonic anhydrase VI	3094	0.5317301750183105	0.019584158	No	
+row_21	ALDH1A1	ALDH1A1	aldehyde dehydrogenase 1 family, member A1	3136	0.5283706784248352	0.024787983	No	
+row_22	RAP1GDS1	RAP1GDS1	RAP1, GTP-GDP dissociation stimulator 1	3327	0.5057356953620911	0.020032609	No	
+row_23	GABARAPL1	GABARAPL1	GABA(A) receptor-associated protein like 1	3370	0.4989834427833557	0.024735149	No	
+row_24	GPD2	GPD2	glycerol-3-phosphate dehydrogenase 2 (mitochondrial)	3597	0.4721279740333557	0.017155375	No	
+row_25	CA4	CA4	carbonic anhydrase IV	3633	0.46792104840278625	0.0218484	No	
+row_26	FABP2	FABP2	fatty acid binding protein 2, intestinal	3743	0.4490354061126709	0.021481652	No	
+row_27	SMS	SMS	spermine synthase	3932	0.4303581118583679	0.015735313	No	
+row_28	RDH16	RDH16	retinol dehydrogenase 16 (all-trans)	4069	0.4259129464626312	0.013281225	No	
+row_29	ADH7	ADH7	alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide	4224	0.4140683114528656	0.009488632	No	
+row_30	YWHAH	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide	4808	0.3425464928150177	-0.023072813	No	
+row_31	CRAT	CRAT	carnitine acetyltransferase	5037	0.31385451555252075	-0.033133734	No	
+row_32	HSD17B4	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4	5299	0.2813176214694977	-0.045809396	No	
+row_33	LDHA	LDHA	lactate dehydrogenase A	5615	0.2424422949552536	-0.062550224	No	
+row_34	HAO2	HAO2	hydroxyacid oxidase 2 (long chain)	5754	0.22890199720859528	-0.06806111	No	
+row_35	S100A10	S100A10	S100 calcium binding protein A10	5837	0.21887820959091187	-0.070104316	No	
+row_36	ADSL	ADSL	adenylosuccinate lyase	5861	0.2166282832622528	-0.06837057	No	
+row_37	TP53INP2	TP53INP2	tumor protein p53 inducible nuclear protein 2	5966	0.20564338564872742	-0.07203127	No	
+row_38	HCCS	HCCS	holocytochrome c synthase (cytochrome c heme-lyase)	5997	0.20275674760341644	-0.07095574	No	
+row_39	PRDX6	PRDX6	peroxiredoxin 6	6078	0.19514428079128265	-0.073222466	No	
+row_40	ALDOA	ALDOA	aldolase A, fructose-bisphosphate	6198	0.18445907533168793	-0.078166716	No	
+row_41	NSDHL	NSDHL	NAD(P) dependent steroid dehydrogenase-like	6379	0.16585808992385864	-0.08732693	No	
+row_42	ACSL1	ACSL1	acyl-CoA synthetase long-chain family member 1	6416	0.1623190939426422	-0.0872398	No	
+row_43	LTC4S	LTC4S	leukotriene C4 synthase	6430	0.16164444386959076	-0.0856773	No	
+row_44	RDH11	RDH11	retinol dehydrogenase 11 (all-trans/9-cis/11-cis)	6457	0.15987253189086914	-0.08498071	No	
+row_45	HMGCS1	HMGCS1	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)	6499	0.15508438646793365	-0.08532401	No	
+row_46	UGDH	UGDH	UDP-glucose dehydrogenase	6517	0.15287154912948608	-0.08415021	No	
+row_47	RETSAT	RETSAT	retinol saturase (all-trans-retinol 13,14-reductase)	6577	0.14788395166397095	-0.08576301	No	
+row_48	REEP6	REEP6	receptor accessory protein 6	6690	0.13693594932556152	-0.090961374	No	
+row_49	ALAD	ALAD	aminolevulinate, delta-, dehydratase	6908	0.11562106758356094	-0.103257686	No	
+row_50	PTPRG	PTPRG	protein tyrosine phosphatase, receptor type, G	7089	0.09579240530729294	-0.11345909	No	
+row_51	HSP90AA1	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	7451	0.06212593987584114	-0.13585028	No	
+row_52	CD1D	CD1D	CD1d molecule	7587	0.049222566187381744	-0.1438375	No	
+row_53	HSPH1	HSPH1	heat shock 105kDa/110kDa protein 1	7591	0.04844182729721069	-0.14331138	No	
+row_54	ALDH3A2	ALDH3A2	aldehyde dehydrogenase 3 family, member A2	7747	0.03523509204387665	-0.15279812	No	
+row_55	FASN	FASN	fatty acid synthase	7781	0.03175467252731323	-0.15445746	No	
+row_56	ACSL5	ACSL5	acyl-CoA synthetase long-chain family member 5	8004	0.013348470441997051	-0.16859648	No	
+row_57	CYP4A11	CYP4A11	cytochrome P450, family 4, subfamily A, polypeptide 11	8080	0.00857277400791645	-0.1733128	No	
+row_58	ERP29	ERP29	endoplasmic reticulum protein 29	8136	0.0038855334278196096	-0.17680712	No	
+row_59	D2HGDH	D2HGDH	D-2-hydroxyglutarate dehydrogenase	8159	0.0022074636071920395	-0.17819513	No	
+row_60	NBN	NBN	nibrin	8166	0.0012252482119947672	-0.17856441	No	
+row_61	BLVRA	BLVRA	biliverdin reductase A	8479	-0.026295023038983345	-0.1983235	No	
+row_62	ENO3	ENO3	enolase 3 (beta, muscle)	8495	-0.027237603440880775	-0.19888748	No	
+row_63	ADIPOR2	ADIPOR2	adiponectin receptor 2	8548	-0.03117825649678707	-0.20178248	No	
+row_64	METAP1	METAP1	methionyl aminopeptidase 1	8834	-0.05363360419869423	-0.21939157	No	
+row_65	TDO2	TDO2	tryptophan 2,3-dioxygenase	8890	-0.058274295181035995	-0.22207765	No	
+row_66	CPT1A	CPT1A	carnitine palmitoyltransferase 1A (liver)	9116	-0.08002269268035889	-0.23541962	No	
+row_67	CBR3	CBR3	carbonyl reductase 3	9423	-0.11008404940366745	-0.2535461	No	
+row_68	NTHL1	NTHL1	nth endonuclease III-like 1 (E. coli)	9561	-0.12314493209123611	-0.26056397	No	
+row_69	HSD17B11	null	null	9725	-0.1393720507621765	-0.26901984	No	
+row_70	SUCLA2	SUCLA2	succinate-CoA ligase, ADP-forming, beta subunit	9986	-0.1621624380350113	-0.2834016	No	
+row_71	CPT2	CPT2	carnitine palmitoyltransferase II	10022	-0.164764866232872	-0.28321356	No	
+row_72	UBE2L6	UBE2L6	ubiquitin-conjugating enzyme E2L 6	10075	-0.1701412796974182	-0.28404352	No	
+row_73	IDI1	IDI1	isopentenyl-diphosphate delta isomerase 1	10238	-0.18456140160560608	-0.2917633	No	
+row_74	ACADL	ACADL	acyl-Coenzyme A dehydrogenase, long chain	10494	-0.20951925218105316	-0.3051184	No	
+row_75	HADHB	HADHB	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), beta subunit	10680	-0.2247142195701599	-0.31372693	No	
+row_76	IDH1	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble	10684	-0.22476303577423096	-0.31058064	No	
+row_77	FMO1	FMO1	flavin containing monooxygenase 1	10747	-0.23002389073371887	-0.31116655	No	
+row_78	ODC1	ODC1	ornithine decarboxylase 1	10896	-0.24247483909130096	-0.31712157	No	
+row_79	MDH2	MDH2	malate dehydrogenase 2, NAD (mitochondrial)	10912	-0.24408385157585144	-0.31446317	No	
+row_80	AUH	AUH	AU RNA binding protein/enoyl-Coenzyme A hydratase	10916	-0.24450042843818665	-0.3110236	No	
+row_81	UROS	UROS	uroporphyrinogen III synthase (congenital erythropoietic porphyria)	10991	-0.2521851062774658	-0.31205517	No	
+row_82	SLC22A5	SLC22A5	solute carrier family 22 (organic cation transporter), member 5	11166	-0.2700648307800293	-0.31927934	No	
+row_83	AQP7	AQP7	aquaporin 7	11183	-0.27172431349754333	-0.3162748	No	
+row_84	IL4I1	IL4I1	interleukin 4 induced 1	11239	-0.2770655155181885	-0.3157096	No	
+row_85	ETFDH	ETFDH	electron-transferring-flavoprotein dehydrogenase	11308	-0.2837962210178375	-0.31588393	No	
+row_86	CBR1	CBR1	carbonyl reductase 1	11813	-0.3379197418689728	-0.34341207	No	
+row_87	ACAA1	ACAA1	acetyl-Coenzyme A acyltransferase 1 (peroxisomal 3-oxoacyl-Coenzyme A thiolase)	11933	-0.35064899921417236	-0.3458867	Yes	
+row_88	HIBCH	HIBCH	3-hydroxyisobutyryl-Coenzyme A hydrolase	11946	-0.3526335656642914	-0.34142148	Yes	
+row_89	ECH1	ECH1	enoyl Coenzyme A hydratase 1, peroxisomal	11964	-0.3549286127090454	-0.33724505	Yes	
+row_90	ACADM	ACADM	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain	11966	-0.3549920320510864	-0.33203438	Yes	
+row_91	MIF	MIF	macrophage migration inhibitory factor (glycosylation-inhibiting factor)	11970	-0.35531556606292725	-0.32694805	Yes	
+row_92	MDH1	MDH1	malate dehydrogenase 1, NAD (soluble)	12070	-0.36660853028297424	-0.32789385	Yes	
+row_93	ELOVL5	ELOVL5	ELOVL family member 5, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)	12233	-0.38394057750701904	-0.3326508	Yes	
+row_94	BPHL	BPHL	biphenyl hydrolase-like (serine hydrolase; breast epithelial mucin-associated antigen)	12347	-0.39660587906837463	-0.334055	Yes	
+row_95	G0S2	G0S2	G0/G1switch 2	12376	-0.3990868330001831	-0.32993278	Yes	
+row_96	HPGD	HPGD	hydroxyprostaglandin dehydrogenase 15-(NAD)	12476	-0.41248318552970886	-0.3301969	Yes	
+row_97	PSME1	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	12558	-0.4206932783126831	-0.3291765	Yes	
+row_98	ACADS	ACADS	acyl-Coenzyme A dehydrogenase, C-2 to C-3 short chain	12745	-0.4294291138648987	-0.33480746	Yes	
+row_99	PCBD1	PCBD1	pterin-4 alpha-carbinolamine dehydratase/dimerization cofactor of hepatocyte nuclear factor 1 alpha (TCF1)	12772	-0.4323576092720032	-0.33006167	Yes	
+row_100	DLD	DLD	dihydrolipoamide dehydrogenase	12808	-0.43587201833724976	-0.3258449	Yes	
+row_101	CA2	CA2	carbonic anhydrase II	12850	-0.4419959485530853	-0.32192463	Yes	
+row_102	CRYZ	CRYZ	crystallin, zeta (quinone reductase)	13059	-0.46261993050575256	-0.32848322	Yes	
+row_103	DLST	DLST	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)	13141	-0.47297409176826477	-0.3266859	Yes	
+row_104	PDHA1	PDHA1	pyruvate dehydrogenase (lipoamide) alpha 1	13175	-0.47600212693214417	-0.32174364	Yes	
+row_105	CPOX	CPOX	coproporphyrinogen oxidase	13182	-0.47673603892326355	-0.3150467	Yes	
+row_106	SDHC	SDHC	succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa	13253	-0.4871414005756378	-0.31232846	Yes	
+row_107	ACO2	ACO2	aconitase 2, mitochondrial	13321	-0.4943619966506958	-0.30930915	Yes	
+row_108	DECR1	DECR1	2,4-dienoyl CoA reductase 1, mitochondrial	13388	-0.5016927123069763	-0.30611634	Yes	
+row_109	APEX1	APEX1	APEX nuclease (multifunctional DNA repair enzyme) 1	13392	-0.5022647380828857	-0.29884633	Yes	
+row_110	ACAA2	ACAA2	acetyl-Coenzyme A acyltransferase 2 (mitochondrial 3-oxoacyl-Coenzyme A thiolase)	13445	-0.5101959705352783	-0.294623	Yes	
+row_111	PTS	PTS	6-pyruvoyltetrahydropterin synthase	13462	-0.5127837657928467	-0.28803623	Yes	
+row_112	MLYCD	MLYCD	malonyl-CoA decarboxylase	13571	-0.5254786014556885	-0.28720242	Yes	
+row_113	ECI2	null	null	13625	-0.5330345630645752	-0.2827043	Yes	
+row_114	PPARA	PPARA	peroxisome proliferative activated receptor, alpha	13642	-0.5354920625686646	-0.27578008	Yes	
+row_115	CCDC58	CCDC58	coiled-coil domain containing 58	13788	-0.5572540760040283	-0.27686363	Yes	
+row_116	H2AFZ	H2AFZ	H2A histone family, member Z	13843	-0.562899112701416	-0.2719863	Yes	
+row_117	VNN1	VNN1	vanin 1	13881	-0.5705811381340027	-0.2658969	Yes	
+row_118	MCEE	MCEE	methylmalonyl CoA epimerase	13887	-0.5719112157821655	-0.25772107	Yes	
+row_119	ACADVL	ACADVL	acyl-Coenzyme A dehydrogenase, very long chain	13902	-0.5747785568237305	-0.25008386	Yes	
+row_120	HADH	HADH	hydroxyacyl-Coenzyme A dehydrogenase	13913	-0.5764687657356262	-0.24216323	Yes	
+row_121	NCAPH2	NCAPH2	non-SMC condensin II complex, subunit H2	14084	-0.6102425456047058	-0.24407394	Yes	
+row_122	MAOA	MAOA	monoamine oxidase A	14088	-0.6111631989479065	-0.23518565	Yes	
+row_123	ACAT2	ACAT2	acetyl-Coenzyme A acetyltransferase 2 (acetoacetyl Coenzyme A thiolase)	14169	-0.6256771087646484	-0.23105456	Yes	
+row_124	SUCLG2	SUCLG2	succinate-CoA ligase, GDP-forming, beta subunit	14197	-0.6302332282066345	-0.22343287	Yes	
+row_125	UROD	UROD	uroporphyrinogen decarboxylase	14233	-0.6397853493690491	-0.2161859	Yes	
+row_126	HSD17B10	null	null	14263	-0.6450905203819275	-0.2084726	Yes	
+row_127	SDHD	SDHD	succinate dehydrogenase complex, subunit D, integral membrane protein	14319	-0.6613998413085938	-0.20219609	Yes	
+row_128	OSTC	null	null	14414	-0.6825985312461853	-0.19812329	Yes	
+row_129	ECI1	null	null	14469	-0.6952388882637024	-0.19127934	Yes	
+row_130	GSTZ1	GSTZ1	glutathione transferase zeta 1 (maleylacetoacetate isomerase)	14525	-0.7127884030342102	-0.18423918	Yes	
+row_131	ECHS1	ECHS1	enoyl Coenzyme A hydratase, short chain, 1, mitochondrial	14566	-0.7279767990112305	-0.17600457	Yes	
+row_132	ALDH9A1	ALDH9A1	aldehyde dehydrogenase 9 family, member A1	14573	-0.7290656566619873	-0.16555798	Yes	
+row_133	PDHB	PDHB	pyruvate dehydrogenase (lipoamide) beta	14625	-0.7421315312385559	-0.15782344	Yes	
+row_134	SDHA	SDHA	succinate dehydrogenase complex, subunit A, flavoprotein (Fp)	14647	-0.7481541037559509	-0.14806193	Yes	
+row_135	ACSM3	ACSM3	acyl-CoA synthetase medium-chain family member 3	14694	-0.7635205388069153	-0.13968663	Yes	
+row_136	GAD2	GAD2	glutamate decarboxylase 2 (pancreatic islets and brain, 65kDa)	14699	-0.7645158767700195	-0.12858407	Yes	
+row_137	IDH3G	IDH3G	isocitrate dehydrogenase 3 (NAD+) gamma	14760	-0.7847109436988831	-0.12079804	Yes	
+row_138	ACOT8	ACOT8	acyl-CoA thioesterase 8	14773	-0.7884962558746338	-0.10985578	Yes	
+row_139	GPD1	GPD1	glycerol-3-phosphate dehydrogenase 1 (soluble)	14787	-0.7919238209724426	-0.09892718	Yes	
+row_140	ACSS1	ACSS1	acyl-CoA synthetase short-chain family member 1	14812	-0.8016794919967651	-0.08856401	Yes	
+row_141	FH	FH	fumarate hydratase	14906	-0.8312317728996277	-0.082217894	Yes	
+row_142	GRHPR	GRHPR	glyoxylate reductase/hydroxypyruvate reductase	14922	-0.8391748666763306	-0.07071629	Yes	
+row_143	FABP1	FABP1	fatty acid binding protein 1, liver	14960	-0.8511902689933777	-0.06045696	Yes	
+row_144	SUCLG1	SUCLG1	succinate-CoA ligase, GDP-forming, alpha subunit	15009	-0.8663031458854675	-0.050683454	Yes	
+row_145	EHHADH	EHHADH	enoyl-Coenzyme A, hydratase/3-hydroxyacyl Coenzyme A dehydrogenase	15023	-0.8715307712554932	-0.038571868	Yes	
+row_146	BCKDHB	BCKDHB	branched chain keto acid dehydrogenase E1, beta polypeptide (maple syrup urine disease)	15087	-0.8979164958000183	-0.029297324	Yes	
+row_147	IDH3B	IDH3B	isocitrate dehydrogenase 3 (NAD+) beta	15089	-0.8982976078987122	-0.016012983	Yes	
+row_148	HMGCL	HMGCL	3-hydroxymethyl-3-methylglutaryl-Coenzyme A lyase (hydroxymethylglutaricaciduria)	15230	-0.988045334815979	-0.0103719765	Yes	
+row_149	GCDH	GCDH	glutaryl-Coenzyme A dehydrogenase	15425	-1.1985081434249878	-0.005090913	Yes	
+row_150	HMGCS2	HMGCS2	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (mitochondrial)	15458	-1.2465628385543823	0.011366669	Yes	

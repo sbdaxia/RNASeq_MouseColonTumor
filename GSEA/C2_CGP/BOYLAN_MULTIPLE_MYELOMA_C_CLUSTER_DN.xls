@@ -1,0 +1,24 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	B4GALT6	beta-1,4-galactosyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:929]	null	null	18	1.134818434715271	0.16437602	Yes	
+row_1	CCND2	cyclin D2 [Source:HGNC Symbol;Acc:HGNC:1583]	null	null	291	0.6158801317214966	0.22853419	Yes	
+row_2	SPP1	secreted phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11255]	null	null	360	0.5691260099411011	0.30533725	Yes	
+row_3	SERPINB1	serpin family B member 1 [Source:HGNC Symbol;Acc:HGNC:3311]	null	null	451	0.5279015898704529	0.3740049	Yes	
+row_4	SLC7A11	solute carrier family 7 member 11 [Source:HGNC Symbol;Acc:HGNC:11059]	null	null	635	0.46677741408348083	0.42484206	Yes	
+row_5	EGLN3	egl-9 family hypoxia inducible factor 3 [Source:HGNC Symbol;Acc:HGNC:14661]	null	null	851	0.412262499332428	0.46464327	Yes	
+row_6	RRAS2	RAS related 2 [Source:HGNC Symbol;Acc:HGNC:17271]	null	null	1480	0.309442937374115	0.44994193	Yes	
+row_7	KLF6	Kruppel like factor 6 [Source:HGNC Symbol;Acc:HGNC:2235]	null	null	1708	0.27833014726638794	0.46899408	Yes	
+row_8	AIG1	androgen induced 1 [Source:HGNC Symbol;Acc:HGNC:21607]	null	null	2169	0.22781549394130707	0.4583944	Yes	
+row_9	IRS2	insulin receptor substrate 2 [Source:HGNC Symbol;Acc:HGNC:6126]	null	null	2171	0.22778452932834625	0.49163812	Yes	
+row_10	CTSV	cathepsin V [Source:HGNC Symbol;Acc:HGNC:2538]	null	null	2289	0.2147667109966278	0.5118951	Yes	
+row_11	RGS1	regulator of G protein signaling 1 [Source:HGNC Symbol;Acc:HGNC:9991]	null	null	2473	0.19724521040916443	0.5232827	Yes	
+row_12	RAB20	RAB20, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:18260]	null	null	2600	0.1878361999988556	0.5387383	Yes	
+row_13	RNF125	ring finger protein 125 [Source:HGNC Symbol;Acc:HGNC:21150]	null	null	2627	0.18647469580173492	0.56354755	Yes	
+row_14	SOAT1	sterol O-acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:11177]	null	null	3144	0.14224591851234436	0.535074	No	
+row_15	SAT1	spermidine/spermine N1-acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10540]	null	null	3165	0.14064426720142365	0.55374855	No	
+row_16	NRIP1	nuclear receptor interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:8001]	null	null	3337	0.1277722418308258	0.5561142	No	
+row_17	ZBTB20	zinc finger and BTB domain containing 20 [Source:HGNC Symbol;Acc:HGNC:13503]	null	null	4572	0.038460105657577515	0.44386026	No	
+row_18	KLF7	Kruppel like factor 7 [Source:HGNC Symbol;Acc:HGNC:6350]	null	null	5749	-0.03597342222929001	0.33678305	No	
+row_19	ZBTB10	zinc finger and BTB domain containing 10 [Source:HGNC Symbol;Acc:HGNC:30953]	null	null	6691	-0.0979352742433548	0.26122415	No	
+row_20	HS1BP3	HCLS1 binding protein 3 [Source:HGNC Symbol;Acc:HGNC:24979]	null	null	7031	-0.12320636212825775	0.24687262	No	
+row_21	SARAF	store-operated calcium entry associated regulatory factor [Source:HGNC Symbol;Acc:HGNC:28789]	null	null	8164	-0.2076777219772339	0.16912988	No	
+row_22	TRIM34	tripartite motif containing 34 [Source:HGNC Symbol;Acc:HGNC:10063]	null	null	9462	-0.3619455397129059	0.09820393	No	

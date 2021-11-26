@@ -1,0 +1,17 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CXCL12	C-X-C motif chemokine ligand 12 [Source:HGNC Symbol;Acc:HGNC:10672]	null	null	3915	0.08593863993883133	-0.35057956	No	
+row_1	TXN	thioredoxin [Source:HGNC Symbol;Acc:HGNC:12435]	null	null	4402	0.04989973083138466	-0.38352373	No	
+row_2	CARMIL1	capping protein regulator and myosin 1 linker 1 [Source:HGNC Symbol;Acc:HGNC:21581]	null	null	4670	0.03403196111321449	-0.3998386	No	
+row_3	KIF14	kinesin family member 14 [Source:HGNC Symbol;Acc:HGNC:19181]	null	null	4835	0.023217933252453804	-0.4092358	No	
+row_4	CCNL1	cyclin L1 [Source:HGNC Symbol;Acc:HGNC:20569]	null	null	6177	-0.06396517902612686	-0.52001107	No	
+row_5	KIAA0586	KIAA0586 [Source:HGNC Symbol;Acc:HGNC:19960]	null	null	7976	-0.19390858709812164	-0.63938373	Yes	
+row_6	CENPA	centromere protein A [Source:HGNC Symbol;Acc:HGNC:1851]	null	null	8041	-0.19895271956920624	-0.5918596	Yes	
+row_7	SUGP2	SURP and G-patch domain containing 2 [Source:HGNC Symbol;Acc:HGNC:18641]	null	null	8080	-0.20138759911060333	-0.54119694	Yes	
+row_8	PRPF4B	pre-mRNA processing factor 4B [Source:HGNC Symbol;Acc:HGNC:17346]	null	null	8700	-0.2591085433959961	-0.53043926	Yes	
+row_9	RSRP1	arginine and serine rich protein 1 [Source:HGNC Symbol;Acc:HGNC:25234]	null	null	8868	-0.2801697850227356	-0.47085342	Yes	
+row_10	HMMR	hyaluronan mediated motility receptor [Source:HGNC Symbol;Acc:HGNC:5012]	null	null	9184	-0.31772223114967346	-0.41527307	Yes	
+row_11	SPC25	SPC25 component of NDC80 kinetochore complex [Source:HGNC Symbol;Acc:HGNC:24031]	null	null	9401	-0.35328128933906555	-0.34065557	Yes	
+row_12	NFYB	nuclear transcription factor Y subunit beta [Source:HGNC Symbol;Acc:HGNC:7805]	null	null	9402	-0.3533371388912201	-0.24540249	Yes	
+row_13	KIF23	kinesin family member 23 [Source:HGNC Symbol;Acc:HGNC:6392]	null	null	9526	-0.3730476200580597	-0.15657808	Yes	
+row_14	SMC4	structural maintenance of chromosomes 4 [Source:HGNC Symbol;Acc:HGNC:14013]	null	null	9904	-0.4574538767337799	-0.06924754	Yes	
+row_15	CDCA3	cell division cycle associated 3 [Source:HGNC Symbol;Acc:HGNC:14624]	null	null	9940	-0.464033305644989	0.052505873	Yes	

@@ -1,0 +1,28 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TRIM29	tripartite motif containing 29 [Source:HGNC Symbol;Acc:HGNC:17274]	null	null	33	1.0290249586105347	0.10105046	Yes	
+row_1	PPL	periplakin [Source:HGNC Symbol;Acc:HGNC:9273]	null	null	52	0.9498982429504395	0.19552164	Yes	
+row_2	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	null	null	157	0.7393895387649536	0.260457	Yes	
+row_3	EMP1	epithelial membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:3333]	null	null	197	0.6880738139152527	0.32640767	Yes	
+row_4	MAL	mal, T cell differentiation protein [Source:HGNC Symbol;Acc:HGNC:6817]	null	null	209	0.6782418489456177	0.39403856	Yes	
+row_5	CDA	cytidine deaminase [Source:HGNC Symbol;Acc:HGNC:1712]	null	null	352	0.5723159313201904	0.43842375	Yes	
+row_6	ST3GAL4	ST3 beta-galactoside alpha-2,3-sialyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:10864]	null	null	874	0.40775564312934875	0.42992532	Yes	
+row_7	VAT1	vesicle amine transport 1 [Source:HGNC Symbol;Acc:HGNC:16919]	null	null	932	0.3963513970375061	0.46461457	Yes	
+row_8	CSTA	cystatin A [Source:HGNC Symbol;Acc:HGNC:2481]	null	null	937	0.3954062759876251	0.5042731	Yes	
+row_9	ECM1	extracellular matrix protein 1 [Source:HGNC Symbol;Acc:HGNC:3153]	null	null	961	0.39107546210289	0.5416773	Yes	
+row_10	NEDD9	neural precursor cell expressed, developmentally down-regulated 9 [Source:HGNC Symbol;Acc:HGNC:7733]	null	null	977	0.3892134130001068	0.5796575	Yes	
+row_11	KRT4	keratin 4 [Source:HGNC Symbol;Acc:HGNC:6441]	null	null	1180	0.3535946309566498	0.59615993	Yes	
+row_12	SERPINB3	serpin family B member 3 [Source:HGNC Symbol;Acc:HGNC:10569]	null	null	1182	0.3533012270927429	0.63184136	Yes	
+row_13	KRT1	keratin 1 [Source:HGNC Symbol;Acc:HGNC:6412]	null	null	1185	0.3531495928764343	0.6674119	Yes	
+row_14	LGALS7	galectin 7 [Source:HGNC Symbol;Acc:HGNC:6568]	null	null	1205	0.3511982262134552	0.7011602	Yes	
+row_15	KRT6A	keratin 6A [Source:HGNC Symbol;Acc:HGNC:6443]	null	null	1280	0.3394602835178375	0.72846377	Yes	
+row_16	GPX3	glutathione peroxidase 3 [Source:HGNC Symbol;Acc:HGNC:4555]	null	null	1433	0.31490060687065125	0.7458262	Yes	
+row_17	TPD52L2	TPD52 like 2 [Source:HGNC Symbol;Acc:HGNC:12007]	null	null	2221	0.22318731248378754	0.693217	No	
+row_18	CSTB	cystatin B [Source:HGNC Symbol;Acc:HGNC:2482]	null	null	2378	0.2064945250749588	0.69921935	No	
+row_19	SULT2B1	sulfotransferase family 2B member 1 [Source:HGNC Symbol;Acc:HGNC:11459]	null	null	3206	0.137266606092453	0.6340868	No	
+row_20	RARG	retinoic acid receptor gamma [Source:HGNC Symbol;Acc:HGNC:9866]	null	null	3871	0.08858294785022736	0.57960147	No	
+row_21	PGD	phosphogluconate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:8891]	null	null	4026	0.0778878927230835	0.5727716	No	
+row_22	NFRKB	nuclear factor related to kappaB binding protein [Source:HGNC Symbol;Acc:HGNC:7802]	null	null	4594	0.037270139902830124	0.52236	No	
+row_23	FDXR	ferredoxin reductase [Source:HGNC Symbol;Acc:HGNC:3642]	null	null	5537	-0.02329489216208458	0.43469602	No	
+row_24	CBR3	carbonyl reductase 3 [Source:HGNC Symbol;Acc:HGNC:1549]	null	null	5743	-0.035623062402009964	0.4187124	No	
+row_25	ALOX12	arachidonate 12-lipoxygenase, 12S type [Source:HGNC Symbol;Acc:HGNC:429]	null	null	6870	-0.11134665459394455	0.32238087	No	
+row_26	MAFG	MAF bZIP transcription factor G [Source:HGNC Symbol;Acc:HGNC:6781]	null	null	8449	-0.23178261518478394	0.19504957	No	

@@ -1,0 +1,49 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LMNA	lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]	null	null	113	0.8080447912216187	0.053826932	Yes	
+row_1	HYI	hydroxypyruvate isomerase (putative) [Source:HGNC Symbol;Acc:HGNC:26948]	null	null	325	0.5916193127632141	0.08095448	Yes	
+row_2	PHF1	PHD finger protein 1 [Source:HGNC Symbol;Acc:HGNC:8919]	null	null	483	0.5173133611679077	0.10730811	Yes	
+row_3	SLC6A8	solute carrier family 6 member 8 [Source:HGNC Symbol;Acc:HGNC:11055]	null	null	506	0.5098664164543152	0.14599328	Yes	
+row_4	PDGFB	platelet derived growth factor subunit B [Source:HGNC Symbol;Acc:HGNC:8800]	null	null	510	0.5084474682807922	0.1863843	Yes	
+row_5	PINK1	PTEN induced kinase 1 [Source:HGNC Symbol;Acc:HGNC:14581]	null	null	545	0.49593743681907654	0.22280599	Yes	
+row_6	MAP2K3	mitogen-activated protein kinase kinase 3 [Source:HGNC Symbol;Acc:HGNC:6843]	null	null	571	0.4880997836589813	0.25946245	Yes	
+row_7	DDR1	discoidin domain receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:2730]	null	null	722	0.44259917736053467	0.28050888	Yes	
+row_8	DSP	desmoplakin [Source:HGNC Symbol;Acc:HGNC:3052]	null	null	800	0.4230969548225403	0.30698535	Yes	
+row_9	CEP170B	centrosomal protein 170B [Source:HGNC Symbol;Acc:HGNC:20362]	null	null	926	0.3971713185310364	0.3267913	Yes	
+row_10	GNA11	G protein subunit alpha 11 [Source:HGNC Symbol;Acc:HGNC:4379]	null	null	957	0.3918607234954834	0.35526934	Yes	
+row_11	B4GALT1	beta-1,4-galactosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:924]	null	null	970	0.3900734484195709	0.38532805	Yes	
+row_12	SNTA1	syntrophin alpha 1 [Source:HGNC Symbol;Acc:HGNC:11167]	null	null	1021	0.3811771869659424	0.41103622	Yes	
+row_13	MOB3A	MOB kinase activator 3A [Source:HGNC Symbol;Acc:HGNC:29802]	null	null	1039	0.376810759305954	0.43955505	Yes	
+row_14	NPEPL1	aminopeptidase like 1 [Source:HGNC Symbol;Acc:HGNC:16244]	null	null	1474	0.3103519380092621	0.4228258	No	
+row_15	PTBP3	polypyrimidine tract binding protein 3 [Source:HGNC Symbol;Acc:HGNC:10253]	null	null	1760	0.27242645621299744	0.41733027	No	
+row_16	PLAUR	plasminogen activator, urokinase receptor [Source:HGNC Symbol;Acc:HGNC:9053]	null	null	2067	0.236484557390213	0.40694827	No	
+row_17	PLXNA1	plexin A1 [Source:HGNC Symbol;Acc:HGNC:9099]	null	null	2084	0.23501458764076233	0.42421848	No	
+row_18	SASH1	SAM and SH3 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:19182]	null	null	2251	0.21888810396194458	0.42583477	No	
+row_19	POFUT2	protein O-fucosyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:14683]	null	null	2294	0.21434783935546875	0.43896183	No	
+row_20	RPL37A	ribosomal protein L37a [Source:HGNC Symbol;Acc:HGNC:10348]	null	null	2724	0.17867834866046906	0.41217685	No	
+row_21	HMCES	5-hydroxymethylcytosine binding, ES cell specific [Source:HGNC Symbol;Acc:HGNC:24446]	null	null	2942	0.15901559591293335	0.4041194	No	
+row_22	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	null	null	2980	0.15593859553337097	0.4130522	No	
+row_23	GGTA1P	glycoprotein alpha-galactosyltransferase 1, pseudogene [Source:HGNC Symbol;Acc:HGNC:4253]	null	null	3014	0.1530095636844635	0.4221337	No	
+row_24	RAB11B	RAB11B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9761]	null	null	3473	0.11734841763973236	0.38766506	No	
+row_25	EPHB4	EPH receptor B4 [Source:HGNC Symbol;Acc:HGNC:3395]	null	null	3820	0.09244459122419357	0.36192882	No	
+row_26	PYGL	glycogen phosphorylase L [Source:HGNC Symbol;Acc:HGNC:9725]	null	null	3946	0.08417404443025589	0.35669342	No	
+row_27	GIT1	GIT ArfGAP 1 [Source:HGNC Symbol;Acc:HGNC:4272]	null	null	4367	0.052677176892757416	0.32068953	No	
+row_28	PRX	periaxin [Source:HGNC Symbol;Acc:HGNC:13797]	null	null	5104	0.005203879438340664	0.25062802	No	
+row_29	RAB11FIP1	RAB11 family interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:30265]	null	null	5325	-0.009291519410908222	0.23030466	No	
+row_30	MRC2	mannose receptor C type 2 [Source:HGNC Symbol;Acc:HGNC:16875]	null	null	5343	-0.010388169437646866	0.22950788	No	
+row_31	NOXA1	NADPH oxidase activator 1 [Source:HGNC Symbol;Acc:HGNC:10668]	null	null	5480	-0.019784484058618546	0.21806766	No	
+row_32	TUBB2B	tubulin beta 2B class IIb [Source:HGNC Symbol;Acc:HGNC:30829]	null	null	6149	-0.062183402478694916	0.15907635	No	
+row_33	NAP1L1	nucleosome assembly protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:7637]	null	null	6305	-0.07186660915613174	0.14998356	No	
+row_34	EPHB6	EPH receptor B6 [Source:HGNC Symbol;Acc:HGNC:3396]	null	null	6339	-0.07411784678697586	0.15275334	No	
+row_35	KHSRP	KH-type splicing regulatory protein [Source:HGNC Symbol;Acc:HGNC:6316]	null	null	6453	-0.08124449849128723	0.14843266	No	
+row_36	GABBR1	gamma-aminobutyric acid type B receptor subunit 1 [Source:HGNC Symbol;Acc:HGNC:4070]	null	null	6589	-0.09097416698932648	0.14278372	No	
+row_37	MBP	myelin basic protein [Source:HGNC Symbol;Acc:HGNC:6925]	null	null	6850	-0.10966843366622925	0.12666067	No	
+row_38	CDKN1C	cyclin dependent kinase inhibitor 1C [Source:HGNC Symbol;Acc:HGNC:1786]	null	null	7095	-0.1275930404663086	0.113503814	No	
+row_39	STYK1	serine/threonine/tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:18889]	null	null	7535	-0.1609945446252823	0.08434644	No	
+row_40	AKAP7	A-kinase anchoring protein 7 [Source:HGNC Symbol;Acc:HGNC:377]	null	null	7706	-0.17278949916362762	0.08189161	No	
+row_41	PICK1	protein interacting with PRKCA 1 [Source:HGNC Symbol;Acc:HGNC:9394]	null	null	8193	-0.20933960378170013	0.05210146	No	
+row_42	SNN	stannin [Source:HGNC Symbol;Acc:HGNC:11149]	null	null	8360	-0.2225421518087387	0.054010116	No	
+row_43	GNAQ	G protein subunit alpha q [Source:HGNC Symbol;Acc:HGNC:4390]	null	null	8500	-0.23753565549850464	0.05970379	No	
+row_44	TRIOBP	TRIO and F-actin binding protein [Source:HGNC Symbol;Acc:HGNC:17009]	null	null	8799	-0.2710041105747223	0.0528496	No	
+row_45	CTRB2	chymotrypsinogen B2 [Source:HGNC Symbol;Acc:HGNC:2522]	null	null	9409	-0.3550480604171753	0.022938622	No	
+row_46	DDIT3	DNA damage inducible transcript 3 [Source:HGNC Symbol;Acc:HGNC:2726]	null	null	9908	-0.4580710232257843	0.011899121	No	
+row_47	CXCL1	C-X-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:4602]	null	null	10193	-0.5466660857200623	0.028439859	No	

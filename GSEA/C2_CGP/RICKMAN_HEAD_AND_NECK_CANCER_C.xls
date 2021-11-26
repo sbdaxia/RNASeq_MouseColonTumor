@@ -1,0 +1,37 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FLRT3	fibronectin leucine rich transmembrane protein 3 [Source:HGNC Symbol;Acc:HGNC:3762]	null	null	10	1.2296634912490845	0.105453745	Yes	
+row_1	DSC2	desmocollin 2 [Source:HGNC Symbol;Acc:HGNC:3036]	null	null	141	0.7649310827255249	0.15921362	Yes	
+row_2	CWH43	cell wall biogenesis 43 C-terminal homolog [Source:HGNC Symbol;Acc:HGNC:26133]	null	null	184	0.7017253637313843	0.21592095	Yes	
+row_3	HSD17B2	hydroxysteroid 17-beta dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:5211]	null	null	345	0.5761804580688477	0.25047764	Yes	
+row_4	CDA	cytidine deaminase [Source:HGNC Symbol;Acc:HGNC:1712]	null	null	352	0.5723159313201904	0.29942974	Yes	
+row_5	GPR39	G protein-coupled receptor 39 [Source:HGNC Symbol;Acc:HGNC:4496]	null	null	407	0.5456175804138184	0.34148034	Yes	
+row_6	PAQR5	progestin and adipoQ receptor family member 5 [Source:HGNC Symbol;Acc:HGNC:29645]	null	null	812	0.4213156998157501	0.33929753	Yes	
+row_7	EREG	epiregulin [Source:HGNC Symbol;Acc:HGNC:3443]	null	null	882	0.40571945905685425	0.36780718	Yes	
+row_8	STEAP4	STEAP4 metalloreductase [Source:HGNC Symbol;Acc:HGNC:21923]	null	null	946	0.39357876777648926	0.3958401	Yes	
+row_9	ARL14	ADP ribosylation factor like GTPase 14 [Source:HGNC Symbol;Acc:HGNC:22974]	null	null	1005	0.3844100534915924	0.42355785	Yes	
+row_10	KRTDAP	keratinocyte differentiation associated protein [Source:HGNC Symbol;Acc:HGNC:16313]	null	null	1183	0.35328036546707153	0.43719965	Yes	
+row_11	KRT1	keratin 1 [Source:HGNC Symbol;Acc:HGNC:6412]	null	null	1185	0.3531495928764343	0.46766418	Yes	
+row_12	SLC2A1	solute carrier family 2 member 1 [Source:HGNC Symbol;Acc:HGNC:11005]	null	null	1222	0.3481156826019287	0.4943454	Yes	
+row_13	MMP28	matrix metallopeptidase 28 [Source:HGNC Symbol;Acc:HGNC:14366]	null	null	1307	0.33559614419937134	0.51535213	Yes	
+row_14	AMFR	autocrine motility factor receptor [Source:HGNC Symbol;Acc:HGNC:463]	null	null	1317	0.33457809686660767	0.5434444	Yes	
+row_15	KLK10	kallikrein related peptidase 10 [Source:HGNC Symbol;Acc:HGNC:6358]	null	null	1337	0.33109867572784424	0.57027906	Yes	
+row_16	HMGA2	high mobility group AT-hook 2 [Source:HGNC Symbol;Acc:HGNC:5009]	null	null	2094	0.23437227308750153	0.51825076	No	
+row_17	SLC6A14	solute carrier family 6 member 14 [Source:HGNC Symbol;Acc:HGNC:11047]	null	null	2124	0.23170782625675201	0.53552806	No	
+row_18	KHDC1L	KH domain containing 1 like [Source:HGNC Symbol;Acc:HGNC:37274]	null	null	2134	0.2309580147266388	0.55465347	No	
+row_19	FABP4	fatty acid binding protein 4 [Source:HGNC Symbol;Acc:HGNC:3559]	null	null	2510	0.19420748949050903	0.53559136	No	
+row_20	SERPINA3	serpin family A member 3 [Source:HGNC Symbol;Acc:HGNC:16]	null	null	2850	0.16772060096263885	0.5176806	No	
+row_21	RNF128	ring finger protein 128 [Source:HGNC Symbol;Acc:HGNC:21153]	null	null	3470	0.11743740737438202	0.46863705	No	
+row_22	PTGS2	prostaglandin-endoperoxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:9605]	null	null	3489	0.1162724420428276	0.47697714	No	
+row_23	CPT1A	carnitine palmitoyltransferase 1A [Source:HGNC Symbol;Acc:HGNC:2328]	null	null	3568	0.11110054701566696	0.47913077	No	
+row_24	HOXA9	homeobox A9 [Source:HGNC Symbol;Acc:HGNC:5109]	null	null	4069	0.0743693858385086	0.4377424	No	
+row_25	TNC	tenascin C [Source:HGNC Symbol;Acc:HGNC:5318]	null	null	4224	0.06296124309301376	0.42846105	No	
+row_26	SOD2	superoxide dismutase 2 [Source:HGNC Symbol;Acc:HGNC:11180]	null	null	5014	0.0118842339143157	0.35402316	No	
+row_27	AIM2	absent in melanoma 2 [Source:HGNC Symbol;Acc:HGNC:357]	null	null	5454	-0.017482535913586617	0.31354657	No	
+row_28	CXCL11	C-X-C motif chemokine ligand 11 [Source:HGNC Symbol;Acc:HGNC:10638]	null	null	7059	-0.12505468726158142	0.17094888	No	
+row_29	PCDH7	protocadherin 7 [Source:HGNC Symbol;Acc:HGNC:8659]	null	null	7133	-0.1299922615289688	0.1752156	No	
+row_30	ASPRV1	aspartic peptidase retroviral like 1 [Source:HGNC Symbol;Acc:HGNC:26321]	null	null	7292	-0.1413782238960266	0.17233753	No	
+row_31	IL1RL1	interleukin 1 receptor like 1 [Source:HGNC Symbol;Acc:HGNC:5998]	null	null	7308	-0.14294731616973877	0.1832729	No	
+row_32	MGST1	microsomal glutathione S-transferase 1 [Source:HGNC Symbol;Acc:HGNC:7061]	null	null	8075	-0.20055356621742249	0.12736164	No	
+row_33	MMP13	matrix metallopeptidase 13 [Source:HGNC Symbol;Acc:HGNC:7159]	null	null	8937	-0.28710150718688965	0.06985333	No	
+row_34	NANOS1	nanos C2HC-type zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:23044]	null	null	9185	-0.31775468587875366	0.07372551	No	
+row_35	PSPH	phosphoserine phosphatase [Source:HGNC Symbol;Acc:HGNC:9577]	null	null	10265	-0.5893430113792419	0.02152072	No	

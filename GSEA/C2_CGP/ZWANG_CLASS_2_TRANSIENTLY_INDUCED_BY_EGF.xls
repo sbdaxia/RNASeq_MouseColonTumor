@@ -1,0 +1,33 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RGCC	regulator of cell cycle [Source:HGNC Symbol;Acc:HGNC:20369]	null	null	30	1.0330567359924316	0.11058715	Yes	
+row_1	HS3ST1	heparan sulfate-glucosamine 3-sulfotransferase 1 [Source:HGNC Symbol;Acc:HGNC:5194]	null	null	105	0.8200250864028931	0.19357118	Yes	
+row_2	IL7	interleukin 7 [Source:HGNC Symbol;Acc:HGNC:6023]	null	null	151	0.7434671521186829	0.27091998	Yes	
+row_3	FHDC1	FH2 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:29363]	null	null	502	0.5108972787857056	0.29356527	Yes	
+row_4	CCN2	cellular communication network factor 2 [Source:HGNC Symbol;Acc:HGNC:2500]	null	null	685	0.44996142387390137	0.325581	Yes	
+row_5	F3	coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]	null	null	732	0.43982136249542236	0.36948627	Yes	
+row_6	ARL14	ADP ribosylation factor like GTPase 14 [Source:HGNC Symbol;Acc:HGNC:22974]	null	null	1005	0.3844100534915924	0.3856978	Yes	
+row_7	KLF10	Kruppel like factor 10 [Source:HGNC Symbol;Acc:HGNC:11810]	null	null	1152	0.35775911808013916	0.41102946	Yes	
+row_8	CHIC2	cysteine rich hydrophobic domain 2 [Source:HGNC Symbol;Acc:HGNC:1935]	null	null	1188	0.3530188798904419	0.44645336	Yes	
+row_9	RNF24	ring finger protein 24 [Source:HGNC Symbol;Acc:HGNC:13779]	null	null	1199	0.35216978192329407	0.4841743	Yes	
+row_10	KLF5	Kruppel like factor 5 [Source:HGNC Symbol;Acc:HGNC:6349]	null	null	1242	0.3449048101902008	0.5180378	Yes	
+row_11	HSPA8	heat shock protein family A (Hsp70) member 8 [Source:HGNC Symbol;Acc:HGNC:5241]	null	null	1266	0.3419239819049835	0.55339056	Yes	
+row_12	TAGLN	transgelin [Source:HGNC Symbol;Acc:HGNC:11553]	null	null	1303	0.3360881209373474	0.5868594	Yes	
+row_13	SMAP1	small ArfGAP 1 [Source:HGNC Symbol;Acc:HGNC:19651]	null	null	1685	0.28085750341415405	0.58127666	No	
+row_14	ERRFI1	ERBB receptor feedback inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:18185]	null	null	2288	0.21479330956935883	0.54730827	No	
+row_15	GLS	glutaminase [Source:HGNC Symbol;Acc:HGNC:4331]	null	null	2447	0.19938711822032928	0.5540993	No	
+row_16	INHBA	inhibin subunit beta A [Source:HGNC Symbol;Acc:HGNC:6066]	null	null	2546	0.19160056114196777	0.56577194	No	
+row_17	SPHK1	sphingosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:11240]	null	null	2647	0.1848795861005783	0.5765152	No	
+row_18	FSTL1	follistatin like 1 [Source:HGNC Symbol;Acc:HGNC:3972]	null	null	2806	0.1712084263563156	0.5802116	No	
+row_19	PXDC1	PX domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21361]	null	null	2931	0.15979626774787903	0.5859054	No	
+row_20	ENC1	ectodermal-neural cortex 1 [Source:HGNC Symbol;Acc:HGNC:3345]	null	null	3539	0.1128186360001564	0.54025954	No	
+row_21	CDC42EP2	CDC42 effector protein 2 [Source:HGNC Symbol;Acc:HGNC:16263]	null	null	3635	0.10615997761487961	0.5428355	No	
+row_22	PRXL2C	peroxiredoxin like 2C [Source:HGNC Symbol;Acc:HGNC:16881]	null	null	3817	0.09275883436203003	0.53571707	No	
+row_23	CITED2	Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 2 [Source:HGNC Symbol;Acc:HGNC:1987]	null	null	4347	0.05377253517508507	0.4910442	No	
+row_24	GLIPR1	GLI pathogenesis related 1 [Source:HGNC Symbol;Acc:HGNC:17001]	null	null	4709	0.0315287783741951	0.4599911	No	
+row_25	CLK1	CDC like kinase 1 [Source:HGNC Symbol;Acc:HGNC:2068]	null	null	5425	-0.016072547063231468	0.3933941	No	
+row_26	LIFR	LIF receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:6597]	null	null	6031	-0.05428115651011467	0.34151062	No	
+row_27	NAB2	NGFI-A binding protein 2 [Source:HGNC Symbol;Acc:HGNC:7627]	null	null	6312	-0.07245215773582458	0.32269648	No	
+row_28	JAM2	junctional adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:14686]	null	null	6476	-0.08249363303184509	0.31617168	No	
+row_29	EGR1	early growth response 1 [Source:HGNC Symbol;Acc:HGNC:3238]	null	null	7636	-0.16850003600120544	0.22386354	No	
+row_30	TAF1D	TATA-box binding protein associated factor, RNA polymerase I subunit D [Source:HGNC Symbol;Acc:HGNC:28759]	null	null	8271	-0.21559128165245056	0.1869232	No	
+row_31	CCNJ	cyclin J [Source:HGNC Symbol;Acc:HGNC:23434]	null	null	8422	-0.22893576323986053	0.19772436	No	

@@ -1,0 +1,16 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SDHD	succinate dehydrogenase complex subunit D [Source:HGNC Symbol;Acc:HGNC:10683]	null	null	4520	0.041241806000471115	-0.4168581	No	
+row_1	SUCLA2	succinate-CoA ligase ADP-forming subunit beta [Source:HGNC Symbol;Acc:HGNC:11448]	null	null	5211	-0.0010945904068648815	-0.48233533	No	
+row_2	FH	fumarate hydratase [Source:HGNC Symbol;Acc:HGNC:3700]	null	null	5613	-0.027312466874718666	-0.51094157	No	
+row_3	IDH3G	isocitrate dehydrogenase (NAD(+)) 3 non-catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:5386]	null	null	5711	-0.03374272957444191	-0.5082521	No	
+row_4	SDHC	succinate dehydrogenase complex subunit C [Source:HGNC Symbol;Acc:HGNC:10682]	null	null	7147	-0.13114356994628906	-0.5987922	Yes	
+row_5	OGDH	oxoglutarate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:8124]	null	null	7376	-0.14919640123844147	-0.5677238	Yes	
+row_6	SDHB	succinate dehydrogenase complex iron sulfur subunit B [Source:HGNC Symbol;Acc:HGNC:10681]	null	null	7413	-0.15123359858989716	-0.5176064	Yes	
+row_7	MDH2	malate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6971]	null	null	7561	-0.16322201490402222	-0.47383937	Yes	
+row_8	ACO2	aconitase 2 [Source:HGNC Symbol;Acc:HGNC:118]	null	null	7983	-0.19440318644046783	-0.44518572	Yes	
+row_9	CS	citrate synthase [Source:HGNC Symbol;Acc:HGNC:2422]	null	null	8190	-0.2091459184885025	-0.39078835	Yes	
+row_10	IDH3B	isocitrate dehydrogenase (NAD(+)) 3 non-catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:5385]	null	null	8228	-0.21185517311096191	-0.31929952	Yes	
+row_11	SUCLG1	succinate-CoA ligase GDP/ADP-forming subunit alpha [Source:HGNC Symbol;Acc:HGNC:11449]	null	null	8254	-0.21435357630252838	-0.24578047	Yes	
+row_12	IDH3A	isocitrate dehydrogenase (NAD(+)) 3 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:5384]	null	null	9015	-0.29581940174102783	-0.21357366	Yes	
+row_13	SDHA	succinate dehydrogenase complex flavoprotein subunit A [Source:HGNC Symbol;Acc:HGNC:10680]	null	null	9787	-0.42657899856567383	-0.13611317	Yes	
+row_14	IDH2	isocitrate dehydrogenase (NADP(+)) 2 [Source:HGNC Symbol;Acc:HGNC:5383]	null	null	10246	-0.5736116766929626	0.023291368	Yes	

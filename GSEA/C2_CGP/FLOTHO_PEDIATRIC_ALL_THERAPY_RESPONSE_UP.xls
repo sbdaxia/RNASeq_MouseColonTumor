@@ -1,0 +1,46 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EMP1	epithelial membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:3333]	null	null	197	0.6880738139152527	0.065238155	Yes	
+row_1	STAM	signal transducing adaptor molecule [Source:HGNC Symbol;Acc:HGNC:11357]	null	null	542	0.49785807728767395	0.09315559	Yes	
+row_2	TBC1D15	TBC1 domain family member 15 [Source:HGNC Symbol;Acc:HGNC:25694]	null	null	865	0.4097948968410492	0.112415925	Yes	
+row_3	TPT1	tumor protein, translationally-controlled 1 [Source:HGNC Symbol;Acc:HGNC:12022]	null	null	1090	0.3681943416595459	0.13597338	Yes	
+row_4	RAB14	RAB14, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:16524]	null	null	1122	0.3629628121852875	0.1773674	Yes	
+row_5	KLF10	Kruppel like factor 10 [Source:HGNC Symbol;Acc:HGNC:11810]	null	null	1152	0.35775911808013916	0.21831688	Yes	
+row_6	CTDSPL	CTD small phosphatase like [Source:HGNC Symbol;Acc:HGNC:16890]	null	null	1153	0.35762453079223633	0.2620261	Yes	
+row_7	NDRG1	N-myc downstream regulated 1 [Source:HGNC Symbol;Acc:HGNC:7679]	null	null	1641	0.2866569459438324	0.25044087	Yes	
+row_8	EIF4B	eukaryotic translation initiation factor 4B [Source:HGNC Symbol;Acc:HGNC:3285]	null	null	1683	0.2812149226665497	0.2808863	Yes	
+row_9	TOMM20	translocase of outer mitochondrial membrane 20 [Source:HGNC Symbol;Acc:HGNC:20947]	null	null	1907	0.2542225122451782	0.29060975	Yes	
+row_10	RPL7	ribosomal protein L7 [Source:HGNC Symbol;Acc:HGNC:10363]	null	null	1908	0.2539026737213135	0.32164195	Yes	
+row_11	RPL5	ribosomal protein L5 [Source:HGNC Symbol;Acc:HGNC:10360]	null	null	2037	0.24062193930149078	0.3387975	Yes	
+row_12	EEF2	eukaryotic translation elongation factor 2 [Source:HGNC Symbol;Acc:HGNC:3214]	null	null	2452	0.19923728704452515	0.3235161	Yes	
+row_13	SYPL1	synaptophysin like 1 [Source:HGNC Symbol;Acc:HGNC:11507]	null	null	2458	0.1988534927368164	0.3473415	Yes	
+row_14	RPS6	ribosomal protein S6 [Source:HGNC Symbol;Acc:HGNC:10429]	null	null	2498	0.1948588490486145	0.36742386	Yes	
+row_15	RSL24D1	ribosomal L24 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:18479]	null	null	2592	0.18821915984153748	0.38152528	Yes	
+row_16	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	null	null	2697	0.18036586046218872	0.3936138	Yes	
+row_17	RPL37A	ribosomal protein L37a [Source:HGNC Symbol;Acc:HGNC:10348]	null	null	2724	0.17867834866046906	0.41296303	Yes	
+row_18	RPL22	ribosomal protein L22 [Source:HGNC Symbol;Acc:HGNC:10315]	null	null	2779	0.17403465509414673	0.42906427	Yes	
+row_19	RAB1A	RAB1A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9758]	null	null	2792	0.17242516577243805	0.44898948	Yes	
+row_20	RPS5	ribosomal protein S5 [Source:HGNC Symbol;Acc:HGNC:10426]	null	null	3254	0.1339256912469864	0.4212263	Yes	
+row_21	RPS19	ribosomal protein S19 [Source:HGNC Symbol;Acc:HGNC:10402]	null	null	3322	0.128993958234787	0.4305781	Yes	
+row_22	SLC38A2	solute carrier family 38 member 2 [Source:HGNC Symbol;Acc:HGNC:13448]	null	null	3386	0.12397925555706024	0.43969998	Yes	
+row_23	FAU	FAU ubiquitin like and ribosomal protein S30 fusion [Source:HGNC Symbol;Acc:HGNC:3597]	null	null	3565	0.11135917901992798	0.4362704	Yes	
+row_24	RPLP0	ribosomal protein lateral stalk subunit P0 [Source:HGNC Symbol;Acc:HGNC:10371]	null	null	3644	0.10582979768514633	0.44173804	Yes	
+row_25	VAMP3	vesicle associated membrane protein 3 [Source:HGNC Symbol;Acc:HGNC:12644]	null	null	3645	0.10582587867975235	0.4546722	Yes	
+row_26	RPS28	ribosomal protein S28 [Source:HGNC Symbol;Acc:HGNC:10418]	null	null	3668	0.10438065230846405	0.4653236	Yes	
+row_27	MACO1	macoilin 1 [Source:HGNC Symbol;Acc:HGNC:25572]	null	null	3693	0.1025967001914978	0.47556555	Yes	
+row_28	CD34	CD34 molecule [Source:HGNC Symbol;Acc:HGNC:1662]	null	null	3739	0.09951204806566238	0.48342013	Yes	
+row_29	CDC42EP3	CDC42 effector protein 3 [Source:HGNC Symbol;Acc:HGNC:16943]	null	null	3792	0.09530498087406158	0.49009043	Yes	
+row_30	RPS16	ribosomal protein S16 [Source:HGNC Symbol;Acc:HGNC:10396]	null	null	3892	0.08737842738628387	0.4912926	Yes	
+row_31	AKAP13	A-kinase anchoring protein 13 [Source:HGNC Symbol;Acc:HGNC:371]	null	null	4005	0.0795183852314949	0.4902896	No	
+row_32	ITGA6	integrin subunit alpha 6 [Source:HGNC Symbol;Acc:HGNC:6142]	null	null	4164	0.06724811345338821	0.48338333	No	
+row_33	RPL27	ribosomal protein L27 [Source:HGNC Symbol;Acc:HGNC:10328]	null	null	4243	0.06173565983772278	0.48346174	No	
+row_34	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	null	null	4730	0.03070581704378128	0.44068965	No	
+row_35	EIF3L	eukaryotic translation initiation factor 3 subunit L [Source:HGNC Symbol;Acc:HGNC:18138]	null	null	5049	0.009442423470318317	0.41140142	No	
+row_36	FXYD5	FXYD domain containing ion transport regulator 5 [Source:HGNC Symbol;Acc:HGNC:4029]	null	null	5144	0.0023560926783829927	0.40269074	No	
+row_37	RNF139	ring finger protein 139 [Source:HGNC Symbol;Acc:HGNC:17023]	null	null	5847	-0.04210798442363739	0.34063447	No	
+row_38	RPS20	ribosomal protein S20 [Source:HGNC Symbol;Acc:HGNC:10405]	null	null	5865	-0.043119728565216064	0.34427717	No	
+row_39	TMEM87A	transmembrane protein 87A [Source:HGNC Symbol;Acc:HGNC:24522]	null	null	5992	-0.05146633833646774	0.33850542	No	
+row_40	RPL13A	ribosomal protein L13a [Source:HGNC Symbol;Acc:HGNC:10304]	null	null	6814	-0.10675813257694244	0.27295882	No	
+row_41	TMED2	transmembrane p24 trafficking protein 2 [Source:HGNC Symbol;Acc:HGNC:16996]	null	null	6980	-0.11939692497253418	0.2717561	No	
+row_42	EIF3D	eukaryotic translation initiation factor 3 subunit D [Source:HGNC Symbol;Acc:HGNC:3278]	null	null	6993	-0.1207105815410614	0.2853607	No	
+row_43	EEF1G	eukaryotic translation elongation factor 1 gamma [Source:HGNC Symbol;Acc:HGNC:3213]	null	null	7821	-0.1822243183851242	0.22846328	No	
+row_44	MXRA7	matrix remodeling associated 7 [Source:HGNC Symbol;Acc:HGNC:7541]	null	null	8329	-0.22046589851379395	0.2068735	No	

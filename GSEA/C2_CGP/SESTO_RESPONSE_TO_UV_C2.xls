@@ -1,0 +1,51 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EMP1	epithelial membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:3333]	null	null	197	0.6880738139152527	0.039760314	Yes	
+row_1	JAG1	jagged canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:6188]	null	null	377	0.5583756566047668	0.0701935	Yes	
+row_2	CTPS1	CTP synthase 1 [Source:HGNC Symbol;Acc:HGNC:2519]	null	null	409	0.5449960231781006	0.11366154	Yes	
+row_3	F3	coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]	null	null	732	0.43982136249542236	0.12029714	Yes	
+row_4	NR3C1	nuclear receptor subfamily 3 group C member 1 [Source:HGNC Symbol;Acc:HGNC:7978]	null	null	761	0.4326993227005005	0.15448412	Yes	
+row_5	ANXA3	annexin A3 [Source:HGNC Symbol;Acc:HGNC:541]	null	null	814	0.42129552364349365	0.1854008	Yes	
+row_6	UGCG	UDP-glucose ceramide glucosyltransferase [Source:HGNC Symbol;Acc:HGNC:12524]	null	null	949	0.39321890473365784	0.20607151	Yes	
+row_7	ELL2	elongation factor for RNA polymerase II 2 [Source:HGNC Symbol;Acc:HGNC:17064]	null	null	1341	0.3299856185913086	0.19673985	Yes	
+row_8	STXBP3	syntaxin binding protein 3 [Source:HGNC Symbol;Acc:HGNC:11446]	null	null	1459	0.3122602105140686	0.21214058	Yes	
+row_9	PTPN12	protein tyrosine phosphatase non-receptor type 12 [Source:HGNC Symbol;Acc:HGNC:9645]	null	null	1470	0.3105822205543518	0.23764639	Yes	
+row_10	WIPF2	WAS/WASL interacting protein family member 2 [Source:HGNC Symbol;Acc:HGNC:30923]	null	null	1519	0.303960382938385	0.25894848	Yes	
+row_11	YY1	YY1 transcription factor [Source:HGNC Symbol;Acc:HGNC:12856]	null	null	1535	0.30115559697151184	0.2831722	Yes	
+row_12	MORC3	MORC family CW-type zinc finger 3 [Source:HGNC Symbol;Acc:HGNC:23572]	null	null	1559	0.29786017537117004	0.3063489	Yes	
+row_13	IFNGR2	interferon gamma receptor 2 [Source:HGNC Symbol;Acc:HGNC:5440]	null	null	1696	0.27942904829978943	0.31713244	Yes	
+row_14	ATP13A3	ATPase 13A3 [Source:HGNC Symbol;Acc:HGNC:24113]	null	null	1761	0.2722509503364563	0.33420026	Yes	
+row_15	CTDSP2	CTD small phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:17077]	null	null	1893	0.2565707564353943	0.34351504	Yes	
+row_16	UBE2H	ubiquitin conjugating enzyme E2 H [Source:HGNC Symbol;Acc:HGNC:12484]	null	null	1967	0.24663831293582916	0.3575385	Yes	
+row_17	CUL3	cullin 3 [Source:HGNC Symbol;Acc:HGNC:2553]	null	null	2004	0.2431885153055191	0.37481177	Yes	
+row_18	TJP1	tight junction protein 1 [Source:HGNC Symbol;Acc:HGNC:11827]	null	null	2122	0.23192273080348969	0.3833672	Yes	
+row_19	SLC6A14	solute carrier family 6 member 14 [Source:HGNC Symbol;Acc:HGNC:11047]	null	null	2124	0.23170782625675201	0.40301442	Yes	
+row_20	ZNF185	zinc finger protein 185 with LIM domain [Source:HGNC Symbol;Acc:HGNC:12976]	null	null	2138	0.23057596385478973	0.42141587	Yes	
+row_21	ERBB3	erb-b2 receptor tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3431]	null	null	2144	0.22993957996368408	0.4405293	Yes	
+row_22	GCLC	glutamate-cysteine ligase catalytic subunit [Source:HGNC Symbol;Acc:HGNC:4311]	null	null	2271	0.21693862974643707	0.446946	Yes	
+row_23	HIF1A	hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910]	null	null	2521	0.19358021020889282	0.43959197	Yes	
+row_24	PCMT1	protein-L-isoaspartate (D-aspartate) O-methyltransferase [Source:HGNC Symbol;Acc:HGNC:8728]	null	null	2540	0.19199082255363464	0.45422682	Yes	
+row_25	FNTA	farnesyltransferase, CAAX box, alpha [Source:HGNC Symbol;Acc:HGNC:3782]	null	null	3061	0.14921064674854279	0.41713688	No	
+row_26	NRIP1	nuclear receptor interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:8001]	null	null	3337	0.1277722418308258	0.4016854	No	
+row_27	CCNG1	cyclin G1 [Source:HGNC Symbol;Acc:HGNC:1592]	null	null	3839	0.09117689728736877	0.36147034	No	
+row_28	PLSCR1	phospholipid scramblase 1 [Source:HGNC Symbol;Acc:HGNC:9092]	null	null	4120	0.0698055699467659	0.34060085	No	
+row_29	TSTA3	tissue specific transplantation antigen P35B [Source:HGNC Symbol;Acc:HGNC:12390]	null	null	4345	0.053848933428525925	0.32373524	No	
+row_30	KANK1	KN motif and ankyrin repeat domains 1 [Source:HGNC Symbol;Acc:HGNC:19309]	null	null	4406	0.0495712086558342	0.32221243	No	
+row_31	CXADR	CXADR Ig-like cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:2559]	null	null	4500	0.0425318218767643	0.31692922	No	
+row_32	KIF5B	kinesin family member 5B [Source:HGNC Symbol;Acc:HGNC:6324]	null	null	5068	0.007141979411244392	0.26323262	No	
+row_33	PSMD14	proteasome 26S subunit, non-ATPase 14 [Source:HGNC Symbol;Acc:HGNC:16889]	null	null	5586	-0.025930002331733704	0.2159257	No	
+row_34	HNRNPK	heterogeneous nuclear ribonucleoprotein K [Source:HGNC Symbol;Acc:HGNC:5044]	null	null	5670	-0.03098667599260807	0.21061653	No	
+row_35	TIAL1	TIA1 cytotoxic granule associated RNA binding protein like 1 [Source:HGNC Symbol;Acc:HGNC:11804]	null	null	5998	-0.05175190046429634	0.18370728	No	
+row_36	ZNF146	zinc finger protein 146 [Source:HGNC Symbol;Acc:HGNC:12931]	null	null	6352	-0.07502945512533188	0.15629123	No	
+row_37	FAT1	FAT atypical cadherin 1 [Source:HGNC Symbol;Acc:HGNC:3595]	null	null	6500	-0.08430218696594238	0.14939521	No	
+row_38	ZKSCAN1	zinc finger with KRAB and SCAN domains 1 [Source:HGNC Symbol;Acc:HGNC:13101]	null	null	6623	-0.09322650730609894	0.145654	No	
+row_39	DUSP4	dual specificity phosphatase 4 [Source:HGNC Symbol;Acc:HGNC:3070]	null	null	6775	-0.1041087955236435	0.1400625	No	
+row_40	TOP1	DNA topoisomerase I [Source:HGNC Symbol;Acc:HGNC:11986]	null	null	6969	-0.11836005002260208	0.13166271	No	
+row_41	RAD21	RAD21 cohesin complex component [Source:HGNC Symbol;Acc:HGNC:9811]	null	null	7183	-0.13380052149295807	0.12266301	No	
+row_42	KAT6A	lysine acetyltransferase 6A [Source:HGNC Symbol;Acc:HGNC:13013]	null	null	7302	-0.14271646738052368	0.12352175	No	
+row_43	SRSF4	serine and arginine rich splicing factor 4 [Source:HGNC Symbol;Acc:HGNC:10786]	null	null	7594	-0.16545820236206055	0.109748945	No	
+row_44	RAF1	Raf-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:9829]	null	null	7884	-0.18783918023109436	0.09807469	No	
+row_45	USP11	ubiquitin specific peptidase 11 [Source:HGNC Symbol;Acc:HGNC:12609]	null	null	8107	-0.20378516614437103	0.09417614	No	
+row_46	HNRNPU	heterogeneous nuclear ribonucleoprotein U [Source:HGNC Symbol;Acc:HGNC:5048]	null	null	8613	-0.250279039144516	0.067134485	No	
+row_47	PSME4	proteasome activator subunit 4 [Source:HGNC Symbol;Acc:HGNC:20635]	null	null	9369	-0.34695175290107727	0.024385884	No	
+row_48	XPO1	exportin 1 [Source:HGNC Symbol;Acc:HGNC:12825]	null	null	9979	-0.473348468542099	0.0063904184	No	
+row_49	OAS1	2'-5'-oligoadenylate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:8086]	null	null	10068	-0.4982646107673645	0.0404174	No	

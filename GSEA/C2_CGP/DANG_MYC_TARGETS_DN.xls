@@ -1,0 +1,28 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDKN2B	cyclin dependent kinase inhibitor 2B [Source:HGNC Symbol;Acc:HGNC:1788]	null	null	36	1.0220102071762085	0.10114547	Yes	
+row_1	SFXN3	sideroflexin 3 [Source:HGNC Symbol;Acc:HGNC:16087]	null	null	70	0.8953291773796082	0.18961392	Yes	
+row_2	ERBB2	erb-b2 receptor tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:3430]	null	null	208	0.6784778237342834	0.2459524	Yes	
+row_3	TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	null	null	257	0.635176420211792	0.30636504	Yes	
+row_4	MSN	moesin [Source:HGNC Symbol;Acc:HGNC:7373]	null	null	305	0.6052303314208984	0.36380875	Yes	
+row_5	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	null	null	340	0.5806160569190979	0.41997597	Yes	
+row_6	CEBPA	CCAAT enhancer binding protein alpha [Source:HGNC Symbol;Acc:HGNC:1833]	null	null	385	0.5564447641372681	0.47271398	Yes	
+row_7	MYC	MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]	null	null	474	0.5219773054122925	0.5177199	Yes	
+row_8	PDGFB	platelet derived growth factor subunit B [Source:HGNC Symbol;Acc:HGNC:8800]	null	null	510	0.5084474682807922	0.5664063	Yes	
+row_9	RARA	retinoic acid receptor alpha [Source:HGNC Symbol;Acc:HGNC:9864]	null	null	575	0.48498791456222534	0.6099206	Yes	
+row_10	NDRG1	N-myc downstream regulated 1 [Source:HGNC Symbol;Acc:HGNC:7679]	null	null	1641	0.2866569459438324	0.5374777	No	
+row_11	LAMP1	lysosomal associated membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:6499]	null	null	2023	0.2417038232088089	0.52580154	No	
+row_12	LAMC1	laminin subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:6492]	null	null	2216	0.22398541867733002	0.5303741	No	
+row_13	SERPINE1	serpin family E member 1 [Source:HGNC Symbol;Acc:HGNC:8583]	null	null	3276	0.13195498287677765	0.44267336	No	
+row_14	ZFP36L1	ZFP36 ring finger protein like 1 [Source:HGNC Symbol;Acc:HGNC:1107]	null	null	4012	0.07899250090122223	0.3805161	No	
+row_15	ACP5	acid phosphatase 5, tartrate resistant [Source:HGNC Symbol;Acc:HGNC:124]	null	null	5393	-0.013770555146038532	0.25004455	No	
+row_16	ILK	integrin linked kinase [Source:HGNC Symbol;Acc:HGNC:6040]	null	null	5907	-0.0455445758998394	0.20568007	No	
+row_17	HMOX1	heme oxygenase 1 [Source:HGNC Symbol;Acc:HGNC:5013]	null	null	6669	-0.09628383815288544	0.14280759	No	
+row_18	ID3	inhibitor of DNA binding 3, HLH protein [Source:HGNC Symbol;Acc:HGNC:5362]	null	null	6801	-0.10582548379898071	0.14111796	No	
+row_19	PTPN1	protein tyrosine phosphatase non-receptor type 1 [Source:HGNC Symbol;Acc:HGNC:9642]	null	null	7609	-0.16679821908473969	0.08106543	No	
+row_20	VHL	von Hippel-Lindau tumor suppressor [Source:HGNC Symbol;Acc:HGNC:12687]	null	null	7610	-0.1668674498796463	0.09814156	No	
+row_21	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	null	null	7666	-0.17030508816242218	0.11031335	No	
+row_22	PTPA	protein phosphatase 2 phosphatase activator [Source:HGNC Symbol;Acc:HGNC:9308]	null	null	7713	-0.17322108149528503	0.12364364	No	
+row_23	TMEM126A	transmembrane protein 126A [Source:HGNC Symbol;Acc:HGNC:25382]	null	null	8739	-0.2633351981639862	0.05263674	No	
+row_24	CDKN1B	cyclin dependent kinase inhibitor 1B [Source:HGNC Symbol;Acc:HGNC:1785]	null	null	8907	-0.2846466600894928	0.065806136	No	
+row_25	CSDE1	cold shock domain containing E1 [Source:HGNC Symbol;Acc:HGNC:29905]	null	null	9507	-0.3699108064174652	0.0464165	No	
+row_26	ALDH9A1	aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412]	null	null	9936	-0.46347537636756897	0.052943394	No	

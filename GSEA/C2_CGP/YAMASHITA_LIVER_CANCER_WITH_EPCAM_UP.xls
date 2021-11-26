@@ -1,0 +1,44 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BAMBI	BMP and activin membrane bound inhibitor [Source:HGNC Symbol;Acc:HGNC:30251]	null	null	5	1.3871490955352783	0.14651574	Yes	
+row_1	MPZL2	myelin protein zero like 2 [Source:HGNC Symbol;Acc:HGNC:3496]	null	null	311	0.6018041968345642	0.18109593	Yes	
+row_2	RPS7	ribosomal protein S7 [Source:HGNC Symbol;Acc:HGNC:10440]	null	null	339	0.5819074511528015	0.24017565	Yes	
+row_3	POLR2E	RNA polymerase II subunit E [Source:HGNC Symbol;Acc:HGNC:9192]	null	null	815	0.42059168219566345	0.23928192	Yes	
+row_4	DSG2	desmoglein 2 [Source:HGNC Symbol;Acc:HGNC:3049]	null	null	847	0.4129043519496918	0.28006977	Yes	
+row_5	RPS3A	ribosomal protein S3A [Source:HGNC Symbol;Acc:HGNC:10421]	null	null	1173	0.3544790744781494	0.286527	Yes	
+row_6	EPCAM	epithelial cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:11529]	null	null	1461	0.31221330165863037	0.29214245	Yes	
+row_7	PTPN12	protein tyrosine phosphatase non-receptor type 12 [Source:HGNC Symbol;Acc:HGNC:9645]	null	null	1470	0.3105822205543518	0.32428873	Yes	
+row_8	XK	X-linked Kx blood group [Source:HGNC Symbol;Acc:HGNC:12811]	null	null	1648	0.28581398725509644	0.337635	Yes	
+row_9	RPL31	ribosomal protein L31 [Source:HGNC Symbol;Acc:HGNC:10334]	null	null	1654	0.2848816514015198	0.36734495	Yes	
+row_10	TOMM20	translocase of outer mitochondrial membrane 20 [Source:HGNC Symbol;Acc:HGNC:20947]	null	null	1907	0.2542225122451782	0.3701651	Yes	
+row_11	RPL29	ribosomal protein L29 [Source:HGNC Symbol;Acc:HGNC:10331]	null	null	1958	0.24739372730255127	0.39159548	Yes	
+row_12	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	null	null	2195	0.22584238648414612	0.39293966	Yes	
+row_13	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	null	null	2196	0.2258330136537552	0.41687086	Yes	
+row_14	RPL35	ribosomal protein L35 [Source:HGNC Symbol;Acc:HGNC:10344]	null	null	2648	0.18440872430801392	0.39324623	Yes	
+row_15	SPTBN1	spectrin beta, non-erythrocytic 1 [Source:HGNC Symbol;Acc:HGNC:11275]	null	null	2686	0.18116748332977295	0.40890297	Yes	
+row_16	RPS3	ribosomal protein S3 [Source:HGNC Symbol;Acc:HGNC:10420]	null	null	2690	0.18103544414043427	0.4277999	Yes	
+row_17	RPS4X	ribosomal protein S4 X-linked [Source:HGNC Symbol;Acc:HGNC:10424]	null	null	2741	0.17683501541614532	0.44175327	Yes	
+row_18	RPL9	ribosomal protein L9 [Source:HGNC Symbol;Acc:HGNC:10369]	null	null	2782	0.17338873445987701	0.45629856	Yes	
+row_19	VIL1	villin 1 [Source:HGNC Symbol;Acc:HGNC:12690]	null	null	3015	0.15297572314739227	0.45030397	Yes	
+row_20	RPS24	ribosomal protein S24 [Source:HGNC Symbol;Acc:HGNC:10411]	null	null	3076	0.14775164425373077	0.4602183	Yes	
+row_21	RPS10	ribosomal protein S10 [Source:HGNC Symbol;Acc:HGNC:10383]	null	null	3286	0.1314314901828766	0.4541421	Yes	
+row_22	GNAS	GNAS complex locus [Source:HGNC Symbol;Acc:HGNC:4392]	null	null	3299	0.13066169619560242	0.46683958	Yes	
+row_23	EIF3F	eukaryotic translation initiation factor 3 subunit F [Source:HGNC Symbol;Acc:HGNC:3275]	null	null	3512	0.11449147015810013	0.4586811	No	
+row_24	RPLP0	ribosomal protein lateral stalk subunit P0 [Source:HGNC Symbol;Acc:HGNC:10371]	null	null	3644	0.10582979768514633	0.45735747	No	
+row_25	SCARB2	scavenger receptor class B member 2 [Source:HGNC Symbol;Acc:HGNC:1665]	null	null	4049	0.07618250697851181	0.42676273	No	
+row_26	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	null	null	4105	0.0707952231168747	0.42900065	No	
+row_27	MRPL3	mitochondrial ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10379]	null	null	4447	0.046484462916851044	0.40128872	No	
+row_28	XPO7	exportin 7 [Source:HGNC Symbol;Acc:HGNC:14108]	null	null	4571	0.03863198310136795	0.3936099	No	
+row_29	RPSA	ribosomal protein SA [Source:HGNC Symbol;Acc:HGNC:6502]	null	null	4711	0.031387995928525925	0.38363206	No	
+row_30	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	null	null	4730	0.03070581704378128	0.3851631	No	
+row_31	AHCY	adenosylhomocysteinase [Source:HGNC Symbol;Acc:HGNC:343]	null	null	5432	-0.01647130772471428	0.31981435	No	
+row_32	SRPK1	SRSF protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:11305]	null	null	5569	-0.024840326979756355	0.30942982	No	
+row_33	GNPAT	glyceronephosphate O-acyltransferase [Source:HGNC Symbol;Acc:HGNC:4416]	null	null	5840	-0.041545454412698746	0.28799006	No	
+row_34	PHF20	PHD finger protein 20 [Source:HGNC Symbol;Acc:HGNC:16098]	null	null	5972	-0.05063006281852722	0.28081697	No	
+row_35	RPL28	ribosomal protein L28 [Source:HGNC Symbol;Acc:HGNC:10330]	null	null	5996	-0.05168559402227402	0.28409266	No	
+row_36	RPL13A	ribosomal protein L13a [Source:HGNC Symbol;Acc:HGNC:10304]	null	null	6814	-0.10675813257694244	0.21720888	No	
+row_37	TRIM24	tripartite motif containing 24 [Source:HGNC Symbol;Acc:HGNC:11812]	null	null	7458	-0.15512455999851227	0.17210434	No	
+row_38	NREP	neuronal regeneration related protein [Source:HGNC Symbol;Acc:HGNC:16834]	null	null	7756	-0.17759180068969727	0.162497	No	
+row_39	CPOX	coproporphyrinogen oxidase [Source:HGNC Symbol;Acc:HGNC:2321]	null	null	7996	-0.19565299153327942	0.1603549	No	
+row_40	HNRNPA1	heterogeneous nuclear ribonucleoprotein A1 [Source:HGNC Symbol;Acc:HGNC:5031]	null	null	8070	-0.20043699443340302	0.17460795	No	
+row_41	TAF1D	TATA-box binding protein associated factor, RNA polymerase I subunit D [Source:HGNC Symbol;Acc:HGNC:28759]	null	null	8271	-0.21559128165245056	0.17831144	No	
+row_42	TTK	TTK protein kinase [Source:HGNC Symbol;Acc:HGNC:12401]	null	null	9213	-0.32064294815063477	0.12222445	No	

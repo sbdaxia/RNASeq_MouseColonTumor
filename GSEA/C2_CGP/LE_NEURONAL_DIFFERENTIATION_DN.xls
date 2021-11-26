@@ -1,0 +1,19 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CCNT1	cyclin T1 [Source:HGNC Symbol;Acc:HGNC:1599]	null	null	2788	0.17288345098495483	-0.2276665	No	
+row_1	SEMA5A	semaphorin 5A [Source:HGNC Symbol;Acc:HGNC:10736]	null	null	3147	0.14174513518810272	-0.23024963	No	
+row_2	EIF4EBP2	eukaryotic translation initiation factor 4E binding protein 2 [Source:HGNC Symbol;Acc:HGNC:3289]	null	null	3584	0.11003614962100983	-0.24734953	No	
+row_3	E2F7	E2F transcription factor 7 [Source:HGNC Symbol;Acc:HGNC:23820]	null	null	5760	-0.036601532250642776	-0.44686663	No	
+row_4	MRPL11	mitochondrial ribosomal protein L11 [Source:HGNC Symbol;Acc:HGNC:14042]	null	null	5923	-0.04674656689167023	-0.4519135	No	
+row_5	SFXN2	sideroflexin 2 [Source:HGNC Symbol;Acc:HGNC:16086]	null	null	6554	-0.08878941833972931	-0.4922739	No	
+row_6	RGS12	regulator of G protein signaling 12 [Source:HGNC Symbol;Acc:HGNC:9994]	null	null	6798	-0.10539448261260986	-0.49198025	No	
+row_7	PKMYT1	protein kinase, membrane associated tyrosine/threonine 1 [Source:HGNC Symbol;Acc:HGNC:29650]	null	null	7220	-0.13696548342704773	-0.50164443	No	
+row_8	CKS2	CDC28 protein kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:2000]	null	null	8231	-0.21199117600917816	-0.55082256	Yes	
+row_9	SUV39H1	suppressor of variegation 3-9 homolog 1 [Source:HGNC Symbol;Acc:HGNC:11479]	null	null	8764	-0.2667255401611328	-0.5421573	Yes	
+row_10	E2F2	E2F transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:3114]	null	null	9056	-0.3008091151714325	-0.502882	Yes	
+row_11	MSI1	musashi RNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:7330]	null	null	9079	-0.30378690361976624	-0.4372578	Yes	
+row_12	CDC20	cell division cycle 20 [Source:HGNC Symbol;Acc:HGNC:1723]	null	null	9157	-0.3129817247390747	-0.37483534	Yes	
+row_13	UBE2C	ubiquitin conjugating enzyme E2 C [Source:HGNC Symbol;Acc:HGNC:15937]	null	null	9241	-0.3258945643901825	-0.31010705	Yes	
+row_14	KIF23	kinesin family member 23 [Source:HGNC Symbol;Acc:HGNC:6392]	null	null	9526	-0.3730476200580597	-0.2540589	Yes	
+row_15	CDK4	cyclin dependent kinase 4 [Source:HGNC Symbol;Acc:HGNC:1773]	null	null	9699	-0.40871939063072205	-0.17936406	Yes	
+row_16	CCNB2	cyclin B2 [Source:HGNC Symbol;Acc:HGNC:1580]	null	null	9704	-0.40924298763275146	-0.08851124	Yes	
+row_17	CDC25C	cell division cycle 25C [Source:HGNC Symbol;Acc:HGNC:1727]	null	null	10427	-0.7332437038421631	0.00601554	Yes	

@@ -1,0 +1,44 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PPL	periplakin [Source:HGNC Symbol;Acc:HGNC:9273]	null	null	52	0.9498982429504395	0.06256388	Yes	
+row_1	SCEL	sciellin [Source:HGNC Symbol;Acc:HGNC:10573]	null	null	60	0.9215428829193115	0.12741865	Yes	
+row_2	MAL	mal, T cell differentiation protein [Source:HGNC Symbol;Acc:HGNC:6817]	null	null	209	0.6782418489456177	0.1614785	Yes	
+row_3	KRT18	keratin 18 [Source:HGNC Symbol;Acc:HGNC:6430]	null	null	280	0.6201552152633667	0.19887374	Yes	
+row_4	PTPN3	protein tyrosine phosphatase non-receptor type 3 [Source:HGNC Symbol;Acc:HGNC:9655]	null	null	330	0.5887503623962402	0.23604596	Yes	
+row_5	SPNS2	sphingolipid transporter 2 [Source:HGNC Symbol;Acc:HGNC:26992]	null	null	444	0.5323503017425537	0.26308236	Yes	
+row_6	RDH10	retinol dehydrogenase 10 [Source:HGNC Symbol;Acc:HGNC:19975]	null	null	566	0.4890371263027191	0.28627336	Yes	
+row_7	GPRC5A	G protein-coupled receptor class C group 5 member A [Source:HGNC Symbol;Acc:HGNC:9836]	null	null	691	0.449472039937973	0.306364	Yes	
+row_8	F3	coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]	null	null	732	0.43982136249542236	0.33380827	Yes	
+row_9	PSCA	prostate stem cell antigen [Source:HGNC Symbol;Acc:HGNC:9500]	null	null	875	0.4074695110321045	0.34918958	Yes	
+row_10	TGM3	transglutaminase 3 [Source:HGNC Symbol;Acc:HGNC:11779]	null	null	884	0.4052305817604065	0.37723714	Yes	
+row_11	ECM1	extracellular matrix protein 1 [Source:HGNC Symbol;Acc:HGNC:3153]	null	null	961	0.39107546210289	0.39776978	Yes	
+row_12	NDRG2	NDRG family member 2 [Source:HGNC Symbol;Acc:HGNC:14460]	null	null	1035	0.3779417872428894	0.4176557	Yes	
+row_13	KRT13	keratin 13 [Source:HGNC Symbol;Acc:HGNC:6415]	null	null	1112	0.3643505871295929	0.43628812	Yes	
+row_14	KRT4	keratin 4 [Source:HGNC Symbol;Acc:HGNC:6441]	null	null	1180	0.3535946309566498	0.45501715	Yes	
+row_15	TMPRSS11A	transmembrane serine protease 11A [Source:HGNC Symbol;Acc:HGNC:27954]	null	null	1191	0.35293054580688477	0.47915456	Yes	
+row_16	SPRR3	small proline rich protein 3 [Source:HGNC Symbol;Acc:HGNC:11268]	null	null	1195	0.3526742458343506	0.50394374	Yes	
+row_17	TRIM16	tripartite motif containing 16 [Source:HGNC Symbol;Acc:HGNC:17241]	null	null	1282	0.3391125500202179	0.5198245	Yes	
+row_18	KRT16	keratin 16 [Source:HGNC Symbol;Acc:HGNC:6423]	null	null	1309	0.33545321226119995	0.5411878	Yes	
+row_19	SPINK5	serine peptidase inhibitor Kazal type 5 [Source:HGNC Symbol;Acc:HGNC:15464]	null	null	1332	0.3319481611251831	0.5626848	Yes	
+row_20	CLCA4	chloride channel accessory 4 [Source:HGNC Symbol;Acc:HGNC:2018]	null	null	1997	0.2439836859703064	0.51648	No	
+row_21	SLC6A14	solute carrier family 6 member 14 [Source:HGNC Symbol;Acc:HGNC:11047]	null	null	2124	0.23170782625675201	0.5208955	No	
+row_22	CLDN7	claudin 7 [Source:HGNC Symbol;Acc:HGNC:2049]	null	null	2490	0.19618667662143707	0.4999101	No	
+row_23	ELF3	E74 like ETS transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:3318]	null	null	2755	0.17565852403640747	0.48713198	No	
+row_24	FAM3D	FAM3 metabolism regulating signaling molecule D [Source:HGNC Symbol;Acc:HGNC:18665]	null	null	3093	0.14585372805595398	0.4652477	No	
+row_25	SPRR1A	small proline rich protein 1A [Source:HGNC Symbol;Acc:HGNC:11259]	null	null	3233	0.13507337868213654	0.46154788	No	
+row_26	PARD6B	par-6 family cell polarity regulator beta [Source:HGNC Symbol;Acc:HGNC:16245]	null	null	3705	0.10188990831375122	0.4237122	No	
+row_27	KRT17	keratin 17 [Source:HGNC Symbol;Acc:HGNC:6427]	null	null	4182	0.06586536020040512	0.38283646	No	
+row_28	ADGRF1	adhesion G protein-coupled receptor F1 [Source:HGNC Symbol;Acc:HGNC:18990]	null	null	4473	0.044277239590883255	0.35822824	No	
+row_29	SPRR2A	small proline rich protein 2A [Source:HGNC Symbol;Acc:HGNC:11261]	null	null	4616	0.0364343486726284	0.34722772	No	
+row_30	TACSTD2	tumor associated calcium signal transducer 2 [Source:HGNC Symbol;Acc:HGNC:11530]	null	null	4695	0.03275386989116669	0.34209108	No	
+row_31	HSPB8	heat shock protein family B (small) member 8 [Source:HGNC Symbol;Acc:HGNC:30171]	null	null	4725	0.030885254964232445	0.34151146	No	
+row_32	TSPAN6	tetraspanin 6 [Source:HGNC Symbol;Acc:HGNC:11858]	null	null	4799	0.026252122595906258	0.3363911	No	
+row_33	LMO7	LIM domain 7 [Source:HGNC Symbol;Acc:HGNC:6646]	null	null	4921	0.017571816220879555	0.32605934	No	
+row_34	IGKC	immunoglobulin kappa constant [Source:HGNC Symbol;Acc:HGNC:5716]	null	null	5345	-0.0107047064229846	0.28633428	No	
+row_35	TMPRSS4	transmembrane serine protease 4 [Source:HGNC Symbol;Acc:HGNC:11878]	null	null	6005	-0.05240801349282265	0.22698638	No	
+row_36	EMP2	epithelial membrane protein 2 [Source:HGNC Symbol;Acc:HGNC:3334]	null	null	6682	-0.09717845171689987	0.16919471	No	
+row_37	TMPRSS2	transmembrane serine protease 2 [Source:HGNC Symbol;Acc:HGNC:11876]	null	null	7385	-0.14974023401737213	0.11265184	No	
+row_38	IGHM	immunoglobulin heavy constant mu [Source:HGNC Symbol;Acc:HGNC:5541]	null	null	8066	-0.20034119486808777	0.06181253	No	
+row_39	DUOX2	dual oxidase 2 [Source:HGNC Symbol;Acc:HGNC:13273]	null	null	8821	-0.2731529176235199	0.009067686	No	
+row_40	LCN2	lipocalin 2 [Source:HGNC Symbol;Acc:HGNC:6526]	null	null	10140	-0.5292033553123474	-0.07945275	No	
+row_41	MUC4	mucin 4, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7514]	null	null	10374	-0.6680208444595337	-0.054255176	No	
+row_42	MUC1	mucin 1, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7508]	null	null	10474	-0.9178465604782104	0.0015312545	No	

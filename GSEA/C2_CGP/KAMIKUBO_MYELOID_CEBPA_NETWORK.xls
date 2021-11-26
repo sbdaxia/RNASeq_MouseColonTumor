@@ -1,0 +1,27 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GLRX	glutaredoxin [Source:HGNC Symbol;Acc:HGNC:4330]	null	null	68	0.8992370367050171	0.087295905	Yes	
+row_1	IL18	interleukin 18 [Source:HGNC Symbol;Acc:HGNC:5986]	null	null	87	0.8576562404632568	0.17503262	Yes	
+row_2	RAB31	RAB31, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9771]	null	null	116	0.7973453402519226	0.2555231	Yes	
+row_3	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	null	null	157	0.7393895387649536	0.3288219	Yes	
+row_4	CEBPA	CCAAT enhancer binding protein alpha [Source:HGNC Symbol;Acc:HGNC:1833]	null	null	385	0.5564447641372681	0.3651698	Yes	
+row_5	DGAT2	diacylglycerol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:16940]	null	null	441	0.533017098903656	0.41550985	Yes	
+row_6	SERPINB1	serpin family B member 1 [Source:HGNC Symbol;Acc:HGNC:3311]	null	null	451	0.5279015898704529	0.46971193	Yes	
+row_7	ALDH2	aldehyde dehydrogenase 2 family member [Source:HGNC Symbol;Acc:HGNC:404]	null	null	475	0.5217308402061462	0.5219326	Yes	
+row_8	SPINT2	serine peptidase inhibitor, Kunitz type 2 [Source:HGNC Symbol;Acc:HGNC:11247]	null	null	952	0.39298108220100403	0.51743704	No	
+row_9	LGALS1	galectin 1 [Source:HGNC Symbol;Acc:HGNC:6561]	null	null	2356	0.2084251195192337	0.4051106	No	
+row_10	LBP	lipopolysaccharide binding protein [Source:HGNC Symbol;Acc:HGNC:6517]	null	null	3190	0.13861621916294098	0.33997014	No	
+row_11	CYBB	cytochrome b-245 beta chain [Source:HGNC Symbol;Acc:HGNC:2578]	null	null	3943	0.08429144322872162	0.27690348	No	
+row_12	PGD	phosphogluconate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:8891]	null	null	4026	0.0778878927230835	0.27719182	No	
+row_13	S100A9	S100 calcium binding protein A9 [Source:HGNC Symbol;Acc:HGNC:10499]	null	null	4090	0.07264044135808945	0.27874842	No	
+row_14	ADGRE1	adhesion G protein-coupled receptor E1 [Source:HGNC Symbol;Acc:HGNC:3336]	null	null	4574	0.038260918110609055	0.23658533	No	
+row_15	S100A8	S100 calcium binding protein A8 [Source:HGNC Symbol;Acc:HGNC:10498]	null	null	4753	0.029082464054226875	0.22260967	No	
+row_16	ITGAM	integrin subunit alpha M [Source:HGNC Symbol;Acc:HGNC:6149]	null	null	6148	-0.06214944273233414	0.09588616	No	
+row_17	CSF2RA	colony stimulating factor 2 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:2435]	null	null	7030	-0.12319046258926392	0.02455001	No	
+row_18	LTF	lactotransferrin [Source:HGNC Symbol;Acc:HGNC:6720]	null	null	7233	-0.13725923001766205	0.019564219	No	
+row_19	HP	haptoglobin [Source:HGNC Symbol;Acc:HGNC:5141]	null	null	7587	-0.16511240601539612	0.0030545709	No	
+row_20	CASD1	CAS1 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:16014]	null	null	9191	-0.3184351921081543	-0.116908714	No	
+row_21	HDC	histidine decarboxylase [Source:HGNC Symbol;Acc:HGNC:4855]	null	null	9607	-0.38896945118904114	-0.11599375	No	
+row_22	IRF8	interferon regulatory factor 8 [Source:HGNC Symbol;Acc:HGNC:5358]	null	null	9791	-0.42748114466667175	-0.08889274	No	
+row_23	LYZ	lysozyme [Source:HGNC Symbol;Acc:HGNC:6740]	null	null	9944	-0.4643612205982208	-0.05498275	No	
+row_24	CD177	CD177 molecule [Source:HGNC Symbol;Acc:HGNC:30072]	null	null	10060	-0.4963165521621704	-0.014204106	No	
+row_25	LCN2	lipocalin 2 [Source:HGNC Symbol;Acc:HGNC:6526]	null	null	10140	-0.5292033553123474	0.033444792	No	

@@ -1,0 +1,192 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MGST3	microsomal glutathione S-transferase 3 [Source:HGNC Symbol;Acc:HGNC:7064]	null	null	198	0.6877843737602234	-6.3165714E-4	No	
+row_1	POR	cytochrome p450 oxidoreductase [Source:HGNC Symbol;Acc:HGNC:9208]	null	null	425	0.5364882946014404	-0.0080714775	No	
+row_2	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]	null	null	476	0.519587516784668	0.0011192325	No	
+row_3	GLUD1	glutamate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:4335]	null	null	601	0.4771048426628113	0.0019771184	No	
+row_4	SLC25A20	solute carrier family 25 member 20 [Source:HGNC Symbol;Acc:HGNC:1421]	null	null	736	0.43823665380477905	8.1347686E-4	No	
+row_5	IDH1	isocitrate dehydrogenase (NADP(+)) 1 [Source:HGNC Symbol;Acc:HGNC:5382]	null	null	1041	0.37660256028175354	-0.018521065	No	
+row_6	VDAC2	voltage dependent anion channel 2 [Source:HGNC Symbol;Acc:HGNC:12672]	null	null	1057	0.373787522315979	-0.009873446	No	
+row_7	ACADM	acyl-CoA dehydrogenase medium chain [Source:HGNC Symbol;Acc:HGNC:89]	null	null	1106	0.3649181127548218	-0.004669462	No	
+row_8	GPX4	glutathione peroxidase 4 [Source:HGNC Symbol;Acc:HGNC:4556]	null	null	1267	0.34187981486320496	-0.010962018	No	
+row_9	RETSAT	retinol saturase [Source:HGNC Symbol;Acc:HGNC:25991]	null	null	1427	0.3158365488052368	-0.017861467	No	
+row_10	PDP1	pyruvate dehyrogenase phosphatase catalytic subunit 1 [Source:HGNC Symbol;Acc:HGNC:9279]	null	null	1486	0.3089972734451294	-0.015139964	No	
+row_11	VDAC1	voltage dependent anion channel 1 [Source:HGNC Symbol;Acc:HGNC:12669]	null	null	1515	0.30451375246047974	-0.009627036	No	
+row_12	SURF1	SURF1 cytochrome c oxidase assembly factor [Source:HGNC Symbol;Acc:HGNC:11474]	null	null	1583	0.29407602548599243	-0.008182659	No	
+row_13	ALDH6A1	aldehyde dehydrogenase 6 family member A1 [Source:HGNC Symbol;Acc:HGNC:7179]	null	null	1644	0.2861705422401428	-0.006272366	No	
+row_14	TIMM8B	translocase of inner mitochondrial membrane 8 homolog B [Source:HGNC Symbol;Acc:HGNC:11818]	null	null	1841	0.26182860136032104	-0.018223949	No	
+row_15	DECR1	2,4-dienoyl-CoA reductase 1 [Source:HGNC Symbol;Acc:HGNC:2753]	null	null	1889	0.25739043951034546	-0.015829481	No	
+row_16	ISCU	iron-sulfur cluster assembly enzyme [Source:HGNC Symbol;Acc:HGNC:29882]	null	null	1985	0.24508224427700043	-0.018427912	No	
+row_17	RHOT1	ras homolog family member T1 [Source:HGNC Symbol;Acc:HGNC:21168]	null	null	2053	0.23831741511821747	-0.018490758	No	
+row_18	ETFDH	electron transfer flavoprotein dehydrogenase [Source:HGNC Symbol;Acc:HGNC:3483]	null	null	2079	0.23549118638038635	-0.0145523315	No	
+row_19	ATP6V1E1	ATPase H+ transporting V1 subunit E1 [Source:HGNC Symbol;Acc:HGNC:857]	null	null	2106	0.2327151894569397	-0.0107860295	No	
+row_20	AFG3L2	AFG3 like matrix AAA peptidase subunit 2 [Source:HGNC Symbol;Acc:HGNC:315]	null	null	2316	0.21170902252197266	-0.025354542	No	
+row_21	BCKDHA	branched chain keto acid dehydrogenase E1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:986]	null	null	2386	0.20586730539798737	-0.026488729	No	
+row_22	MPC1	mitochondrial pyruvate carrier 1 [Source:HGNC Symbol;Acc:HGNC:21606]	null	null	2403	0.20403103530406952	-0.022526922	No	
+row_23	ATP6V1G1	ATPase H+ transporting V1 subunit G1 [Source:HGNC Symbol;Acc:HGNC:864]	null	null	2469	0.19764085114002228	-0.023495128	No	
+row_24	TIMM9	translocase of inner mitochondrial membrane 9 [Source:HGNC Symbol;Acc:HGNC:11819]	null	null	2565	0.1900787502527237	-0.027580371	No	
+row_25	COX7A2L	cytochrome c oxidase subunit 7A2 like [Source:HGNC Symbol;Acc:HGNC:2289]	null	null	2786	0.17294415831565857	-0.044264704	No	
+row_26	VDAC3	voltage dependent anion channel 3 [Source:HGNC Symbol;Acc:HGNC:12674]	null	null	2811	0.17057138681411743	-0.04198405	No	
+row_27	NDUFA7	NADH:ubiquinone oxidoreductase subunit A7 [Source:HGNC Symbol;Acc:HGNC:7691]	null	null	2829	0.16924405097961426	-0.039059665	No	
+row_28	PDHA1	pyruvate dehydrogenase E1 subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:8806]	null	null	2876	0.1655600666999817	-0.039050397	No	
+row_29	DLAT	dihydrolipoamide S-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:2896]	null	null	2885	0.16471056640148163	-0.035374768	No	
+row_30	NDUFA6	NADH:ubiquinone oxidoreductase subunit A6 [Source:HGNC Symbol;Acc:HGNC:7690]	null	null	2903	0.16263577342033386	-0.032629013	No	
+row_31	ECHS1	enoyl-CoA hydratase, short chain 1 [Source:HGNC Symbol;Acc:HGNC:3151]	null	null	3065	0.14863188564777374	-0.044242382	No	
+row_32	COX7C	cytochrome c oxidase subunit 7C [Source:HGNC Symbol;Acc:HGNC:2292]	null	null	3125	0.14344292879104614	-0.046093103	No	
+row_33	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]	null	null	3149	0.14164945483207703	-0.044497155	No	
+row_34	MAOB	monoamine oxidase B [Source:HGNC Symbol;Acc:HGNC:6834]	null	null	3175	0.14005222916603088	-0.043138556	No	
+row_35	MTRR	5-methyltetrahydrofolate-homocysteine methyltransferase reductase [Source:HGNC Symbol;Acc:HGNC:7473]	null	null	3257	0.1336698830127716	-0.047389377	No	
+row_36	PHB2	prohibitin 2 [Source:HGNC Symbol;Acc:HGNC:30306]	null	null	3397	0.12337911874055862	-0.057549436	No	
+row_37	POLR2F	RNA polymerase II subunit F [Source:HGNC Symbol;Acc:HGNC:9193]	null	null	3403	0.12286001443862915	-0.05471382	No	
+row_38	ECH1	enoyl-CoA hydratase 1 [Source:HGNC Symbol;Acc:HGNC:3149]	null	null	3415	0.12228003889322281	-0.052476402	No	
+row_39	GPI	glucose-6-phosphate isomerase [Source:HGNC Symbol;Acc:HGNC:4458]	null	null	3564	0.11142630130052567	-0.06383335	No	
+row_40	CPT1A	carnitine palmitoyltransferase 1A [Source:HGNC Symbol;Acc:HGNC:2328]	null	null	3568	0.11110054701566696	-0.061121427	No	
+row_41	MRPL15	mitochondrial ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:14054]	null	null	3771	0.09703611582517624	-0.07811008	No	
+row_42	BAX	BCL2 associated X, apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:959]	null	null	3861	0.08936484158039093	-0.08433521	No	
+row_43	MRPS11	mitochondrial ribosomal protein S11 [Source:HGNC Symbol;Acc:HGNC:14050]	null	null	3864	0.08927368372678757	-0.08211621	No	
+row_44	RHOT2	ras homolog family member T2 [Source:HGNC Symbol;Acc:HGNC:21169]	null	null	3992	0.08054459095001221	-0.09226909	No	
+row_45	ATP6V1H	ATPase H+ transporting V1 subunit H [Source:HGNC Symbol;Acc:HGNC:18303]	null	null	4162	0.0674227774143219	-0.106854334	No	
+row_46	HCCS	holocytochrome c synthase [Source:HGNC Symbol;Acc:HGNC:4837]	null	null	4359	0.053272612392902374	-0.12444344	No	
+row_47	MRPL34	mitochondrial ribosomal protein L34 [Source:HGNC Symbol;Acc:HGNC:14488]	null	null	4391	0.05106167867779732	-0.12607288	No	
+row_48	HADHB	hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit beta [Source:HGNC Symbol;Acc:HGNC:4803]	null	null	4432	0.04777076467871666	-0.12866509	No	
+row_49	ATP5F1E	ATP synthase F1 subunit epsilon [Source:HGNC Symbol;Acc:HGNC:838]	null	null	4448	0.046390336006879807	-0.1288674	No	
+row_50	ATP6V0E1	ATPase H+ transporting V0 subunit e1 [Source:HGNC Symbol;Acc:HGNC:863]	null	null	4491	0.043263547122478485	-0.13177562	No	
+row_51	ATP6AP1	ATPase H+ transporting accessory protein 1 [Source:HGNC Symbol;Acc:HGNC:868]	null	null	4495	0.0429762527346611	-0.13090518	No	
+row_52	ACAA1	acetyl-CoA acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:82]	null	null	4496	0.0429505780339241	-0.12974417	No	
+row_53	SDHD	succinate dehydrogenase complex subunit D [Source:HGNC Symbol;Acc:HGNC:10683]	null	null	4520	0.041241806000471115	-0.13086236	No	
+row_54	COX7B	cytochrome c oxidase subunit 7B [Source:HGNC Symbol;Acc:HGNC:2291]	null	null	4619	0.03632880002260208	-0.13939491	No	
+row_55	NDUFA1	NADH:ubiquinone oxidoreductase subunit A1 [Source:HGNC Symbol;Acc:HGNC:7683]	null	null	4624	0.03606436774134636	-0.1388084	No	
+row_56	COX6C	cytochrome c oxidase subunit 6C [Source:HGNC Symbol;Acc:HGNC:2285]	null	null	4671	0.03400753065943718	-0.14235516	No	
+row_57	TOMM70	translocase of outer mitochondrial membrane 70 [Source:HGNC Symbol;Acc:HGNC:11985]	null	null	4727	0.03081752546131611	-0.14686193	No	
+row_58	NDUFA2	NADH:ubiquinone oxidoreductase subunit A2 [Source:HGNC Symbol;Acc:HGNC:7685]	null	null	4729	0.03075873665511608	-0.14612757	No	
+row_59	NQO2	N-ribosyldihydronicotinamide:quinone reductase 2 [Source:HGNC Symbol;Acc:HGNC:7856]	null	null	4768	0.027875889092683792	-0.14906336	No	
+row_60	COX11	cytochrome c oxidase copper chaperone COX11 [Source:HGNC Symbol;Acc:HGNC:2261]	null	null	4809	0.02527485229074955	-0.15226366	No	
+row_61	NDUFB3	NADH:ubiquinone oxidoreductase subunit B3 [Source:HGNC Symbol;Acc:HGNC:7698]	null	null	4815	0.02502303197979927	-0.15207268	No	
+row_62	PMPCA	peptidase, mitochondrial processing subunit alpha [Source:HGNC Symbol;Acc:HGNC:18667]	null	null	4839	0.022881362587213516	-0.1536872	No	
+row_63	COX4I1	cytochrome c oxidase subunit 4I1 [Source:HGNC Symbol;Acc:HGNC:2265]	null	null	4869	0.021143468096852303	-0.15593119	No	
+row_64	UQCRH	ubiquinol-cytochrome c reductase hinge protein [Source:HGNC Symbol;Acc:HGNC:12590]	null	null	4911	0.018185492604970932	-0.15942019	No	
+row_65	MRPS12	mitochondrial ribosomal protein S12 [Source:HGNC Symbol;Acc:HGNC:10380]	null	null	5037	0.010188860818743706	-0.1712807	No	
+row_66	SLC25A5	solute carrier family 25 member 5 [Source:HGNC Symbol;Acc:HGNC:10991]	null	null	5046	0.009730203077197075	-0.17179438	No	
+row_67	HSD17B10	hydroxysteroid 17-beta dehydrogenase 10 [Source:HGNC Symbol;Acc:HGNC:4800]	null	null	5161	0.001530465087853372	-0.18282098	No	
+row_68	SUCLA2	succinate-CoA ligase ADP-forming subunit beta [Source:HGNC Symbol;Acc:HGNC:11448]	null	null	5211	-0.0010945904068648815	-0.18754867	No	
+row_69	ATP6V1C1	ATPase H+ transporting V1 subunit C1 [Source:HGNC Symbol;Acc:HGNC:856]	null	null	5336	-0.01017597783356905	-0.19931243	No	
+row_70	OPA1	OPA1 mitochondrial dynamin like GTPase [Source:HGNC Symbol;Acc:HGNC:8140]	null	null	5371	-0.012604289688169956	-0.2022727	No	
+row_71	COX6A1	cytochrome c oxidase subunit 6A1 [Source:HGNC Symbol;Acc:HGNC:2277]	null	null	5402	-0.014488637447357178	-0.20479366	No	
+row_72	TOMM22	translocase of outer mitochondrial membrane 22 [Source:HGNC Symbol;Acc:HGNC:18002]	null	null	5419	-0.015302948653697968	-0.2059334	No	
+row_73	ATP1B1	ATPase Na+/K+ transporting subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:804]	null	null	5435	-0.01683712750673294	-0.20693459	No	
+row_74	OAT	ornithine aminotransferase [Source:HGNC Symbol;Acc:HGNC:8091]	null	null	5466	-0.018461503088474274	-0.20934817	No	
+row_75	FH	fumarate hydratase [Source:HGNC Symbol;Acc:HGNC:3700]	null	null	5613	-0.027312466874718666	-0.22278464	No	
+row_76	IDH3G	isocitrate dehydrogenase (NAD(+)) 3 non-catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:5386]	null	null	5711	-0.03374272957444191	-0.23129001	No	
+row_77	SUPV3L1	Suv3 like RNA helicase [Source:HGNC Symbol;Acc:HGNC:11471]	null	null	5744	-0.035663336515426636	-0.23343278	No	
+row_78	SLC25A4	solute carrier family 25 member 4 [Source:HGNC Symbol;Acc:HGNC:10990]	null	null	5758	-0.036438364535570145	-0.23370995	No	
+row_79	SLC25A11	solute carrier family 25 member 11 [Source:HGNC Symbol;Acc:HGNC:10981]	null	null	5779	-0.037965867668390274	-0.23462543	No	
+row_80	LRPPRC	leucine rich pentatricopeptide repeat containing [Source:HGNC Symbol;Acc:HGNC:15714]	null	null	5886	-0.04441574588418007	-0.24371609	No	
+row_81	MRPL11	mitochondrial ribosomal protein L11 [Source:HGNC Symbol;Acc:HGNC:14042]	null	null	5923	-0.04674656689167023	-0.24594761	No	
+row_82	NDUFA8	NADH:ubiquinone oxidoreductase subunit A8 [Source:HGNC Symbol;Acc:HGNC:7692]	null	null	6008	-0.05267889052629471	-0.252679	No	
+row_83	PRDX3	peroxiredoxin 3 [Source:HGNC Symbol;Acc:HGNC:9354]	null	null	6014	-0.05323838070034981	-0.25172532	No	
+row_84	MRPS30	mitochondrial ribosomal protein S30 [Source:HGNC Symbol;Acc:HGNC:8769]	null	null	6063	-0.05693797022104263	-0.25484642	No	
+row_85	ACADSB	acyl-CoA dehydrogenase short/branched chain [Source:HGNC Symbol;Acc:HGNC:91]	null	null	6074	-0.0577707402408123	-0.25425568	No	
+row_86	ISCA1	iron-sulfur cluster assembly 1 [Source:HGNC Symbol;Acc:HGNC:28660]	null	null	6122	-0.061234235763549805	-0.25716355	No	
+row_87	FDX1	ferredoxin 1 [Source:HGNC Symbol;Acc:HGNC:3638]	null	null	6166	-0.06316173076629639	-0.25963095	No	
+row_88	TIMM10	translocase of inner mitochondrial membrane 10 [Source:HGNC Symbol;Acc:HGNC:11814]	null	null	6273	-0.06992089003324509	-0.2680322	No	
+row_89	ATP6V0B	ATPase H+ transporting V0 subunit b [Source:HGNC Symbol;Acc:HGNC:861]	null	null	6303	-0.07172974944114685	-0.26890877	No	
+row_90	SLC25A3	solute carrier family 25 member 3 [Source:HGNC Symbol;Acc:HGNC:10989]	null	null	6323	-0.07283726334571838	-0.26878455	No	
+row_91	ATP6V1D	ATPase H+ transporting V1 subunit D [Source:HGNC Symbol;Acc:HGNC:13527]	null	null	6353	-0.07507245987653732	-0.2695708	No	
+row_92	UQCRB	ubiquinol-cytochrome c reductase binding protein [Source:HGNC Symbol;Acc:HGNC:12582]	null	null	6425	-0.07951121777296066	-0.2743147	No	
+row_93	NDUFB4	NADH:ubiquinone oxidoreductase subunit B4 [Source:HGNC Symbol;Acc:HGNC:7699]	null	null	6459	-0.08164790272712708	-0.27531156	No	
+row_94	UQCRC2	ubiquinol-cytochrome c reductase core protein 2 [Source:HGNC Symbol;Acc:HGNC:12586]	null	null	6481	-0.08285649120807648	-0.27511066	No	
+row_95	ATP5MC2	ATP synthase membrane subunit c locus 2 [Source:HGNC Symbol;Acc:HGNC:842]	null	null	6517	-0.08544956147670746	-0.27619892	No	
+row_96	ATP5F1A	ATP synthase F1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:823]	null	null	6664	-0.096036896109581	-0.2877777	No	
+row_97	ATP6V1F	ATPase H+ transporting V1 subunit F [Source:HGNC Symbol;Acc:HGNC:16832]	null	null	6672	-0.09663882851600647	-0.28584504	No	
+row_98	ACAA2	acetyl-CoA acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:83]	null	null	6705	-0.09904402494430542	-0.28627455	No	
+row_99	ATP5F1D	ATP synthase F1 subunit delta [Source:HGNC Symbol;Acc:HGNC:837]	null	null	6770	-0.10390838980674744	-0.28967938	No	
+row_100	TIMM17A	translocase of inner mitochondrial membrane 17A [Source:HGNC Symbol;Acc:HGNC:17315]	null	null	6773	-0.10402067005634308	-0.28706175	No	
+row_101	UQCR10	ubiquinol-cytochrome c reductase, complex III subunit X [Source:HGNC Symbol;Acc:HGNC:30863]	null	null	6823	-0.10774942487478256	-0.28890643	No	
+row_102	ACAT1	acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93]	null	null	6843	-0.10930679738521576	-0.2877964	No	
+row_103	ABCB7	ATP binding cassette subfamily B member 7 [Source:HGNC Symbol;Acc:HGNC:48]	null	null	6867	-0.1109604611992836	-0.28703	No	
+row_104	IMMT	inner membrane mitochondrial protein [Source:HGNC Symbol;Acc:HGNC:6047]	null	null	6881	-0.11197703331708908	-0.28526527	No	
+row_105	NDUFB7	NADH:ubiquinone oxidoreductase subunit B7 [Source:HGNC Symbol;Acc:HGNC:7702]	null	null	6917	-0.11412873864173889	-0.28557828	No	
+row_106	NDUFB5	NADH:ubiquinone oxidoreductase subunit B5 [Source:HGNC Symbol;Acc:HGNC:7700]	null	null	6964	-0.11810234934091568	-0.28685185	No	
+row_107	NDUFS2	NADH:ubiquinone oxidoreductase core subunit S2 [Source:HGNC Symbol;Acc:HGNC:7708]	null	null	6970	-0.11864946782588959	-0.28413007	No	
+row_108	ATP5F1C	ATP synthase F1 subunit gamma [Source:HGNC Symbol;Acc:HGNC:833]	null	null	6976	-0.1190284714102745	-0.281398	No	
+row_109	ATP5PF	ATP synthase peripheral stalk subunit F6 [Source:HGNC Symbol;Acc:HGNC:847]	null	null	7122	-0.12927795946598053	-0.29198113	Yes	
+row_110	GOT2	glutamic-oxaloacetic transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4433]	null	null	7126	-0.12972953915596008	-0.28876567	Yes	
+row_111	UQCR11	ubiquinol-cytochrome c reductase, complex III subunit XI [Source:HGNC Symbol;Acc:HGNC:30862]	null	null	7130	-0.12992271780967712	-0.28554496	Yes	
+row_112	HSPA9	heat shock protein family A (Hsp70) member 9 [Source:HGNC Symbol;Acc:HGNC:5244]	null	null	7131	-0.129924938082695	-0.28203294	Yes	
+row_113	SDHC	succinate dehydrogenase complex subunit C [Source:HGNC Symbol;Acc:HGNC:10682]	null	null	7147	-0.13114356994628906	-0.27994427	Yes	
+row_114	PDK4	pyruvate dehydrogenase kinase 4 [Source:HGNC Symbol;Acc:HGNC:8812]	null	null	7156	-0.13183681666851044	-0.27715725	Yes	
+row_115	ALAS1	5'-aminolevulinate synthase 1 [Source:HGNC Symbol;Acc:HGNC:396]	null	null	7166	-0.1329350471496582	-0.27443764	Yes	
+row_116	ATP5MG	ATP synthase membrane subunit g [Source:HGNC Symbol;Acc:HGNC:14247]	null	null	7167	-0.13301418721675873	-0.2708421	Yes	
+row_117	UQCRC1	ubiquinol-cytochrome c reductase core protein 1 [Source:HGNC Symbol;Acc:HGNC:12585]	null	null	7280	-0.14058248698711395	-0.27791578	Yes	
+row_118	GRPEL1	GrpE like 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:19696]	null	null	7291	-0.1412748098373413	-0.27506784	Yes	
+row_119	NDUFV2	NADH:ubiquinone oxidoreductase core subunit V2 [Source:HGNC Symbol;Acc:HGNC:7717]	null	null	7329	-0.14508700370788574	-0.2747382	Yes	
+row_120	COX5A	cytochrome c oxidase subunit 5A [Source:HGNC Symbol;Acc:HGNC:2267]	null	null	7355	-0.14748571813106537	-0.27317867	Yes	
+row_121	TIMM13	translocase of inner mitochondrial membrane 13 [Source:HGNC Symbol;Acc:HGNC:11816]	null	null	7360	-0.1480008214712143	-0.26956636	Yes	
+row_122	OGDH	oxoglutarate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:8124]	null	null	7376	-0.14919640123844147	-0.2669897	Yes	
+row_123	SDHB	succinate dehydrogenase complex iron sulfur subunit B [Source:HGNC Symbol;Acc:HGNC:10681]	null	null	7413	-0.15123359858989716	-0.26639682	Yes	
+row_124	ATP5F1B	ATP synthase F1 subunit beta [Source:HGNC Symbol;Acc:HGNC:830]	null	null	7492	-0.15834574401378632	-0.26968938	Yes	
+row_125	ATP5PD	ATP synthase peripheral stalk subunit d [Source:HGNC Symbol;Acc:HGNC:845]	null	null	7513	-0.1598457545042038	-0.2673103	Yes	
+row_126	NDUFB8	NADH:ubiquinone oxidoreductase subunit B8 [Source:HGNC Symbol;Acc:HGNC:7703]	null	null	7545	-0.16194622218608856	-0.2659424	Yes	
+row_127	MDH2	malate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6971]	null	null	7561	-0.16322201490402222	-0.26298663	Yes	
+row_128	CYCS	cytochrome c, somatic [Source:HGNC Symbol;Acc:HGNC:19986]	null	null	7619	-0.16753363609313965	-0.26399195	Yes	
+row_129	ATP5PO	ATP synthase peripheral stalk subunit OSCP [Source:HGNC Symbol;Acc:HGNC:850]	null	null	7719	-0.17369559407234192	-0.2689084	Yes	
+row_130	ATP5MC3	ATP synthase membrane subunit c locus 3 [Source:HGNC Symbol;Acc:HGNC:843]	null	null	7724	-0.17415766417980194	-0.26458907	Yes	
+row_131	COX8A	cytochrome c oxidase subunit 8A [Source:HGNC Symbol;Acc:HGNC:2294]	null	null	7735	-0.17523162066936493	-0.26082322	Yes	
+row_132	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	null	null	7761	-0.1778041422367096	-0.25844413	Yes	
+row_133	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:12587]	null	null	7799	-0.1801016628742218	-0.25716802	Yes	
+row_134	NDUFA3	NADH:ubiquinone oxidoreductase subunit A3 [Source:HGNC Symbol;Acc:HGNC:7686]	null	null	7804	-0.18045136332511902	-0.25267854	Yes	
+row_135	NDUFS6	NADH:ubiquinone oxidoreductase subunit S6 [Source:HGNC Symbol;Acc:HGNC:7713]	null	null	7828	-0.18260779976844788	-0.24997544	Yes	
+row_136	ETFA	electron transfer flavoprotein subunit alpha [Source:HGNC Symbol;Acc:HGNC:3481]	null	null	7847	-0.18512551486492157	-0.24671885	Yes	
+row_137	MRPS22	mitochondrial ribosomal protein S22 [Source:HGNC Symbol;Acc:HGNC:14508]	null	null	7867	-0.18672659993171692	-0.24351606	Yes	
+row_138	ACO2	aconitase 2 [Source:HGNC Symbol;Acc:HGNC:118]	null	null	7983	-0.19440318644046783	-0.24942616	Yes	
+row_139	COX5B	cytochrome c oxidase subunit 5B [Source:HGNC Symbol;Acc:HGNC:2269]	null	null	7998	-0.1957416832447052	-0.24549425	Yes	
+row_140	COX17	cytochrome c oxidase copper chaperone COX17 [Source:HGNC Symbol;Acc:HGNC:2264]	null	null	8019	-0.19707763195037842	-0.24210875	Yes	
+row_141	TIMM50	translocase of inner mitochondrial membrane 50 [Source:HGNC Symbol;Acc:HGNC:23656]	null	null	8156	-0.20714153349399567	-0.24971335	Yes	
+row_142	MTX2	metaxin 2 [Source:HGNC Symbol;Acc:HGNC:7506]	null	null	8187	-0.20897915959358215	-0.246977	Yes	
+row_143	CS	citrate synthase [Source:HGNC Symbol;Acc:HGNC:2422]	null	null	8190	-0.2091459184885025	-0.24151771	Yes	
+row_144	IDH3B	isocitrate dehydrogenase (NAD(+)) 3 non-catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:5385]	null	null	8228	-0.21185517311096191	-0.23938325	Yes	
+row_145	SUCLG1	succinate-CoA ligase GDP/ADP-forming subunit alpha [Source:HGNC Symbol;Acc:HGNC:11449]	null	null	8254	-0.21435357630252838	-0.2360162	Yes	
+row_146	CYB5A	cytochrome b5 type A [Source:HGNC Symbol;Acc:HGNC:2570]	null	null	8282	-0.2164752036333084	-0.23278597	Yes	
+row_147	MRPL35	mitochondrial ribosomal protein L35 [Source:HGNC Symbol;Acc:HGNC:14489]	null	null	8332	-0.22061419486999512	-0.23157978	Yes	
+row_148	NDUFS1	NADH:ubiquinone oxidoreductase core subunit S1 [Source:HGNC Symbol;Acc:HGNC:7707]	null	null	8333	-0.22062914073467255	-0.2256159	Yes	
+row_149	COX7A2	cytochrome c oxidase subunit 7A2 [Source:HGNC Symbol;Acc:HGNC:2288]	null	null	8337	-0.22080758213996887	-0.21993847	Yes	
+row_150	DLST	dihydrolipoamide S-succinyltransferase [Source:HGNC Symbol;Acc:HGNC:2911]	null	null	8345	-0.22152574360370636	-0.21462998	Yes	
+row_151	FXN	frataxin [Source:HGNC Symbol;Acc:HGNC:3951]	null	null	8460	-0.23284250497817993	-0.21940392	Yes	
+row_152	ATP6V0C	ATPase H+ transporting V0 subunit c [Source:HGNC Symbol;Acc:HGNC:855]	null	null	8580	-0.2467123121023178	-0.22428839	Yes	
+row_153	MFN2	mitofusin 2 [Source:HGNC Symbol;Acc:HGNC:16877]	null	null	8669	-0.25616300106048584	-0.22590768	Yes	
+row_154	NDUFS3	NADH:ubiquinone oxidoreductase core subunit S3 [Source:HGNC Symbol;Acc:HGNC:7710]	null	null	8674	-0.25664055347442627	-0.21935873	Yes	
+row_155	ATP5MF	ATP synthase membrane subunit f [Source:HGNC Symbol;Acc:HGNC:848]	null	null	8690	-0.2583654820919037	-0.21383111	Yes	
+row_156	ATP5PB	ATP synthase peripheral stalk-membrane subunit b [Source:HGNC Symbol;Acc:HGNC:840]	null	null	8699	-0.2589474618434906	-0.20760815	Yes	
+row_157	OXA1L	OXA1L mitochondrial inner membrane protein [Source:HGNC Symbol;Acc:HGNC:8526]	null	null	8738	-0.2633325457572937	-0.20417926	Yes	
+row_158	MDH1	malate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:6970]	null	null	8749	-0.2642449140548706	-0.19800729	Yes	
+row_159	CASP7	caspase 7 [Source:HGNC Symbol;Acc:HGNC:1508]	null	null	8966	-0.2898580729961395	-0.21114294	Yes	
+row_160	ACADVL	acyl-CoA dehydrogenase very long chain [Source:HGNC Symbol;Acc:HGNC:92]	null	null	8975	-0.2906147539615631	-0.20406397	Yes	
+row_161	SLC25A12	solute carrier family 25 member 12 [Source:HGNC Symbol;Acc:HGNC:10982]	null	null	8990	-0.29184573888778687	-0.19753425	Yes	
+row_162	CYC1	cytochrome c1 [Source:HGNC Symbol;Acc:HGNC:2579]	null	null	8994	-0.292835533618927	-0.18990982	Yes	
+row_163	IDH3A	isocitrate dehydrogenase (NAD(+)) 3 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:5384]	null	null	9015	-0.29581940174102783	-0.1838552	Yes	
+row_164	NDUFS7	NADH:ubiquinone oxidoreductase core subunit S7 [Source:HGNC Symbol;Acc:HGNC:7714]	null	null	9035	-0.2976551651954651	-0.17765388	Yes	
+row_165	HADHA	hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha [Source:HGNC Symbol;Acc:HGNC:4801]	null	null	9067	-0.30171987414360046	-0.17250773	Yes	
+row_166	ECI1	enoyl-CoA delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:2703]	null	null	9104	-0.3062996566295624	-0.16772324	Yes	
+row_167	NDUFB6	NADH:ubiquinone oxidoreductase subunit B6 [Source:HGNC Symbol;Acc:HGNC:7701]	null	null	9107	-0.3069173991680145	-0.15962106	Yes	
+row_168	NDUFB2	NADH:ubiquinone oxidoreductase subunit B2 [Source:HGNC Symbol;Acc:HGNC:7697]	null	null	9138	-0.31114262342453003	-0.15412311	Yes	
+row_169	NDUFV1	NADH:ubiquinone oxidoreductase core subunit V1 [Source:HGNC Symbol;Acc:HGNC:7716]	null	null	9255	-0.327642023563385	-0.1565287	Yes	
+row_170	PDHX	pyruvate dehydrogenase complex component X [Source:HGNC Symbol;Acc:HGNC:21350]	null	null	9285	-0.3324594497680664	-0.15035744	Yes	
+row_171	ATP5ME	ATP synthase membrane subunit e [Source:HGNC Symbol;Acc:HGNC:846]	null	null	9346	-0.34210076928138733	-0.1469353	Yes	
+row_172	COX10	cytochrome c oxidase assembly factor heme A:farnesyltransferase COX10 [Source:HGNC Symbol;Acc:HGNC:2260]	null	null	9363	-0.34543225169181824	-0.13915123	Yes	
+row_173	ATP5MC1	ATP synthase membrane subunit c locus 1 [Source:HGNC Symbol;Acc:HGNC:841]	null	null	9485	-0.3665740191936493	-0.14098987	Yes	
+row_174	NDUFA9	NADH:ubiquinone oxidoreductase subunit A9 [Source:HGNC Symbol;Acc:HGNC:7693]	null	null	9487	-0.3670506775379181	-0.13116513	Yes	
+row_175	NDUFC2	NADH:ubiquinone oxidoreductase subunit C2 [Source:HGNC Symbol;Acc:HGNC:7706]	null	null	9532	-0.37371572852134705	-0.125335	Yes	
+row_176	PDHB	pyruvate dehydrogenase E1 subunit beta [Source:HGNC Symbol;Acc:HGNC:8808]	null	null	9633	-0.39398056268692017	-0.124393955	Yes	
+row_177	COX15	cytochrome c oxidase assembly homolog COX15 [Source:HGNC Symbol;Acc:HGNC:2263]	null	null	9639	-0.395050048828125	-0.11420071	Yes	
+row_178	HTRA2	HtrA serine peptidase 2 [Source:HGNC Symbol;Acc:HGNC:14348]	null	null	9776	-0.4236222803592682	-0.11595357	Yes	
+row_179	SDHA	succinate dehydrogenase complex flavoprotein subunit A [Source:HGNC Symbol;Acc:HGNC:10680]	null	null	9787	-0.42657899856567383	-0.1053935	Yes	
+row_180	LDHB	lactate dehydrogenase B [Source:HGNC Symbol;Acc:HGNC:6541]	null	null	9823	-0.43604663014411926	-0.0970047	Yes	
+row_181	NDUFS8	NADH:ubiquinone oxidoreductase core subunit S8 [Source:HGNC Symbol;Acc:HGNC:7715]	null	null	9829	-0.43690457940101624	-0.08568007	Yes	
+row_182	NDUFC1	NADH:ubiquinone oxidoreductase subunit C1 [Source:HGNC Symbol;Acc:HGNC:7705]	null	null	9902	-0.45641079545021057	-0.080333024	Yes	
+row_183	UQCRQ	ubiquinol-cytochrome c reductase complex III subunit VII [Source:HGNC Symbol;Acc:HGNC:29594]	null	null	9918	-0.45975619554519653	-0.06936157	Yes	
+row_184	MRPS15	mitochondrial ribosomal protein S15 [Source:HGNC Symbol;Acc:HGNC:14504]	null	null	9991	-0.4754418730735779	-0.06350009	Yes	
+row_185	NDUFAB1	NADH:ubiquinone oxidoreductase subunit AB1 [Source:HGNC Symbol;Acc:HGNC:7694]	null	null	10031	-0.4864424169063568	-0.05413737	Yes	
+row_186	NDUFA5	NADH:ubiquinone oxidoreductase subunit A5 [Source:HGNC Symbol;Acc:HGNC:7688]	null	null	10084	-0.5044008493423462	-0.045551352	Yes	
+row_187	IDH2	isocitrate dehydrogenase (NADP(+)) 2 [Source:HGNC Symbol;Acc:HGNC:5383]	null	null	10246	-0.5736116766929626	-0.045677003	Yes	
+row_188	MTRF1	mitochondrial translation release factor 1 [Source:HGNC Symbol;Acc:HGNC:7469]	null	null	10330	-0.634128987789154	-0.03659398	Yes	
+row_189	TCIRG1	T cell immune regulator 1, ATPase H+ transporting V0 subunit a3 [Source:HGNC Symbol;Acc:HGNC:11647]	null	null	10441	-0.7659603953361511	-0.026568756	Yes	
+row_190	PHYH	phytanoyl-CoA 2-hydroxylase [Source:HGNC Symbol;Acc:HGNC:8940]	null	null	10485	-1.155289888381958	4.853695E-4	Yes	

@@ -1,0 +1,36 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FGFR4	fibroblast growth factor receptor 4 [Source:HGNC Symbol;Acc:HGNC:3691]	null	null	9	1.2586735486984253	0.17443348	Yes	
+row_1	CEBPA	CCAAT enhancer binding protein alpha [Source:HGNC Symbol;Acc:HGNC:1833]	null	null	385	0.5564447641372681	0.21606442	Yes	
+row_2	LPGAT1	lysophosphatidylglycerol acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:28985]	null	null	532	0.5010431408882141	0.27188092	Yes	
+row_3	RAP2A	RAP2A, member of RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9861]	null	null	553	0.4936027526855469	0.33871174	Yes	
+row_4	PIGC	phosphatidylinositol glycan anchor biosynthesis class C [Source:HGNC Symbol;Acc:HGNC:8960]	null	null	621	0.4698995351791382	0.39774635	Yes	
+row_5	SYNJ2	synaptojanin 2 [Source:HGNC Symbol;Acc:HGNC:11504]	null	null	741	0.4373493790626526	0.44727457	Yes	
+row_6	RCOR3	REST corepressor 3 [Source:HGNC Symbol;Acc:HGNC:25594]	null	null	830	0.4177010953426361	0.49703115	Yes	
+row_7	EFNA1	ephrin A1 [Source:HGNC Symbol;Acc:HGNC:3221]	null	null	2182	0.22691524028778076	0.39942533	No	
+row_8	ZNF281	zinc finger protein 281 [Source:HGNC Symbol;Acc:HGNC:13075]	null	null	2265	0.21741387248039246	0.42186195	No	
+row_9	CREB3L2	cAMP responsive element binding protein 3 like 2 [Source:HGNC Symbol;Acc:HGNC:23720]	null	null	3184	0.13881345093250275	0.35339788	No	
+row_10	RBM34	RNA binding motif protein 34 [Source:HGNC Symbol;Acc:HGNC:28965]	null	null	3231	0.13509498536586761	0.36781302	No	
+row_11	CAMSAP2	calmodulin regulated spectrin associated protein family member 2 [Source:HGNC Symbol;Acc:HGNC:29188]	null	null	3526	0.11369504779577255	0.3555294	No	
+row_12	TMEM183A	transmembrane protein 183A [Source:HGNC Symbol;Acc:HGNC:20173]	null	null	3648	0.10565000027418137	0.35867086	No	
+row_13	UXS1	UDP-glucuronate decarboxylase 1 [Source:HGNC Symbol;Acc:HGNC:17729]	null	null	3670	0.10418476164340973	0.37117216	No	
+row_14	ATRN	attractin [Source:HGNC Symbol;Acc:HGNC:885]	null	null	3719	0.10094419866800308	0.3806399	No	
+row_15	RPS6KC1	ribosomal protein S6 kinase C1 [Source:HGNC Symbol;Acc:HGNC:10439]	null	null	3730	0.1000450924038887	0.39361668	No	
+row_16	NCK2	NCK adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:7665]	null	null	4063	0.07521697133779526	0.37234	No	
+row_17	SLC29A1	solute carrier family 29 member 1 (Augustine blood group) [Source:HGNC Symbol;Acc:HGNC:11003]	null	null	4091	0.07262257486581802	0.37987182	No	
+row_18	TMEM260	transmembrane protein 260 [Source:HGNC Symbol;Acc:HGNC:20185]	null	null	4099	0.0712391585111618	0.38912374	No	
+row_19	GORASP2	golgi reassembly stacking protein 2 [Source:HGNC Symbol;Acc:HGNC:17500]	null	null	4566	0.03882616013288498	0.3499633	No	
+row_20	FBXW2	F-box and WD repeat domain containing 2 [Source:HGNC Symbol;Acc:HGNC:13608]	null	null	4628	0.03585271164774895	0.3491225	No	
+row_21	SMYD3	SET and MYND domain containing 3 [Source:HGNC Symbol;Acc:HGNC:15513]	null	null	4930	0.017291586846113205	0.3227434	No	
+row_22	MFF	mitochondrial fission factor [Source:HGNC Symbol;Acc:HGNC:24858]	null	null	4974	0.015136884525418282	0.32073903	No	
+row_23	TTC13	tetratricopeptide repeat domain 13 [Source:HGNC Symbol;Acc:HGNC:26204]	null	null	5228	-0.002067247172817588	0.2968303	No	
+row_24	TMEM106B	transmembrane protein 106B [Source:HGNC Symbol;Acc:HGNC:22407]	null	null	5389	-0.013466652482748032	0.28340355	No	
+row_25	ARF1	ADP ribosylation factor 1 [Source:HGNC Symbol;Acc:HGNC:652]	null	null	5547	-0.023783603683114052	0.27170056	No	
+row_26	SUN1	Sad1 and UNC84 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:18587]	null	null	5683	-0.03185705468058586	0.26322603	No	
+row_27	H1-0	H1.0 linker histone [Source:HGNC Symbol;Acc:HGNC:4714]	null	null	6546	-0.08810430765151978	0.19305553	No	
+row_28	NUAK1	NUAK family kinase 1 [Source:HGNC Symbol;Acc:HGNC:14311]	null	null	6579	-0.09048376977443695	0.20259666	No	
+row_29	CHKA	choline kinase alpha [Source:HGNC Symbol;Acc:HGNC:1937]	null	null	6803	-0.10597282648086548	0.19602793	No	
+row_30	WDR26	WD repeat domain 26 [Source:HGNC Symbol;Acc:HGNC:21208]	null	null	7072	-0.12574218213558197	0.18790871	No	
+row_31	SCAMP3	secretory carrier membrane protein 3 [Source:HGNC Symbol;Acc:HGNC:10565]	null	null	7241	-0.13786393404006958	0.19104154	No	
+row_32	MKKS	McKusick-Kaufman syndrome [Source:HGNC Symbol;Acc:HGNC:7108]	null	null	7449	-0.15362536907196045	0.19263956	No	
+row_33	PRCC	proline rich mitotic checkpoint control factor [Source:HGNC Symbol;Acc:HGNC:9343]	null	null	8670	-0.2562251687049866	0.111644365	No	
+row_34	TOR3A	torsin family 3 member A [Source:HGNC Symbol;Acc:HGNC:11997]	null	null	9873	-0.44749975204467773	0.059009295	No	

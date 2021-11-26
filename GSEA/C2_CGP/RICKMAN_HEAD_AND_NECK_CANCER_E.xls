@@ -1,0 +1,32 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MFSD4A	major facilitator superfamily domain containing 4A [Source:HGNC Symbol;Acc:HGNC:25433]	null	null	24	1.0676027536392212	0.08654342	Yes	
+row_1	GSTA1	glutathione S-transferase alpha 1 [Source:HGNC Symbol;Acc:HGNC:4626]	null	null	29	1.0403056144714355	0.17272744	Yes	
+row_2	SCEL	sciellin [Source:HGNC Symbol;Acc:HGNC:10573]	null	null	60	0.9215428829193115	0.24654323	Yes	
+row_3	GDA	guanine deaminase [Source:HGNC Symbol;Acc:HGNC:4212]	null	null	74	0.8860654830932617	0.3190321	Yes	
+row_4	MAL	mal, T cell differentiation protein [Source:HGNC Symbol;Acc:HGNC:6817]	null	null	209	0.6782418489456177	0.3626596	Yes	
+row_5	MSLN	mesothelin [Source:HGNC Symbol;Acc:HGNC:7371]	null	null	304	0.6057071685791016	0.40407538	Yes	
+row_6	IL1RN	interleukin 1 receptor antagonist [Source:HGNC Symbol;Acc:HGNC:6000]	null	null	423	0.5375111103057861	0.43752193	Yes	
+row_7	SLC7A11	solute carrier family 7 member 11 [Source:HGNC Symbol;Acc:HGNC:11059]	null	null	635	0.46677741408348083	0.45619157	Yes	
+row_8	SOCS2	suppressor of cytokine signaling 2 [Source:HGNC Symbol;Acc:HGNC:19382]	null	null	673	0.45551997423171997	0.49055925	Yes	
+row_9	TMEM45B	transmembrane protein 45B [Source:HGNC Symbol;Acc:HGNC:25194]	null	null	862	0.41050204634666443	0.5067449	Yes	
+row_10	TGM3	transglutaminase 3 [Source:HGNC Symbol;Acc:HGNC:11779]	null	null	884	0.4052305817604065	0.5384575	Yes	
+row_11	KRT4	keratin 4 [Source:HGNC Symbol;Acc:HGNC:6441]	null	null	1180	0.3535946309566498	0.53967834	Yes	
+row_12	RPTN	repetin [Source:HGNC Symbol;Acc:HGNC:26809]	null	null	1262	0.34233447909355164	0.56042105	Yes	
+row_13	C10orf99	chromosome 10 open reading frame 99 [Source:HGNC Symbol;Acc:HGNC:31428]	null	null	1673	0.2824956476688385	0.54473126	Yes	
+row_14	FMO2	flavin containing dimethylaniline monoxygenase 2 [Source:HGNC Symbol;Acc:HGNC:3770]	null	null	1832	0.26278501749038696	0.5514931	Yes	
+row_15	CLCA4	chloride channel accessory 4 [Source:HGNC Symbol;Acc:HGNC:2018]	null	null	1997	0.2439836859703064	0.5561168	Yes	
+row_16	ALDH1A1	aldehyde dehydrogenase 1 family member A1 [Source:HGNC Symbol;Acc:HGNC:402]	null	null	2015	0.24222595989704132	0.5746478	Yes	
+row_17	POF1B	POF1B actin binding protein [Source:HGNC Symbol;Acc:HGNC:13711]	null	null	2152	0.2288975715637207	0.580693	Yes	
+row_18	VTCN1	V-set domain containing T cell activation inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:28873]	null	null	4397	0.05082095041871071	0.3703904	No	
+row_19	ADGRF1	adhesion G protein-coupled receptor F1 [Source:HGNC Symbol;Acc:HGNC:18990]	null	null	4473	0.044277239590883255	0.36690465	No	
+row_20	CYP2C18	cytochrome P450 family 2 subfamily C member 18 [Source:HGNC Symbol;Acc:HGNC:2620]	null	null	4706	0.031760863959789276	0.34736782	No	
+row_21	FAM3B	FAM3 metabolism regulating signaling molecule B [Source:HGNC Symbol;Acc:HGNC:1253]	null	null	5086	0.0060433982871472836	0.31163743	No	
+row_22	UGT1A10	UDP glucuronosyltransferase family 1 member A10 [Source:HGNC Symbol;Acc:HGNC:12531]	null	null	5489	-0.020201245322823524	0.2748863	No	
+row_23	CP	ceruloplasmin [Source:HGNC Symbol;Acc:HGNC:2295]	null	null	5960	-0.05017874017357826	0.23412873	No	
+row_24	ALOX12	arachidonate 12-lipoxygenase, 12S type [Source:HGNC Symbol;Acc:HGNC:429]	null	null	6870	-0.11134665459394455	0.15649168	No	
+row_25	TMPRSS2	transmembrane serine protease 2 [Source:HGNC Symbol;Acc:HGNC:11876]	null	null	7385	-0.14974023401737213	0.119812354	No	
+row_26	FAM83C	family with sequence similarity 83 member C [Source:HGNC Symbol;Acc:HGNC:16121]	null	null	8732	-0.26283276081085205	0.013002635	No	
+row_27	DUOX2	dual oxidase 2 [Source:HGNC Symbol;Acc:HGNC:13273]	null	null	8821	-0.2731529176235199	0.027319368	No	
+row_28	GBP6	guanylate binding protein family member 6 [Source:HGNC Symbol;Acc:HGNC:25395]	null	null	9766	-0.4214112162590027	-0.02786252	No	
+row_29	CD177	CD177 molecule [Source:HGNC Symbol;Acc:HGNC:30072]	null	null	10060	-0.4963165521621704	-0.014574259	No	
+row_30	MUC4	mucin 4, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7514]	null	null	10374	-0.6680208444595337	0.0110899	No	

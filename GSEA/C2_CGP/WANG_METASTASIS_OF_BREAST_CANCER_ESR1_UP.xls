@@ -1,0 +1,19 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PGAP6	post-glycosylphosphatidylinositol attachment to proteins 6 [Source:HGNC Symbol;Acc:HGNC:17205]	null	null	1022	0.3810647130012512	-0.0125245135	No	
+row_1	GTSE1	G2 and S-phase expressed 1 [Source:HGNC Symbol;Acc:HGNC:13698]	null	null	3552	0.11214207857847214	-0.22897069	No	
+row_2	YIF1A	Yip1 interacting factor homolog A, membrane trafficking protein [Source:HGNC Symbol;Acc:HGNC:16688]	null	null	4096	0.07197441160678864	-0.26475245	No	
+row_3	CCNE2	cyclin E2 [Source:HGNC Symbol;Acc:HGNC:1590]	null	null	5894	-0.04486548900604248	-0.42632183	No	
+row_4	PPP1CC	protein phosphatase 1 catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9283]	null	null	5957	-0.049840327352285385	-0.42111665	No	
+row_5	UCKL1	uridine-cytidine kinase 1 like 1 [Source:HGNC Symbol;Acc:HGNC:15938]	null	null	6372	-0.07620275765657425	-0.4436372	No	
+row_6	KPNA2	karyopherin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6395]	null	null	7688	-0.1718764305114746	-0.5308326	Yes	
+row_7	POLQ	DNA polymerase theta [Source:HGNC Symbol;Acc:HGNC:9186]	null	null	7869	-0.1869468092918396	-0.50629014	Yes	
+row_8	CBX3	chromobox 3 [Source:HGNC Symbol;Acc:HGNC:1553]	null	null	8126	-0.2050597369670868	-0.4849613	Yes	
+row_9	ATAD2	ATPase family AAA domain containing 2 [Source:HGNC Symbol;Acc:HGNC:30123]	null	null	8310	-0.21831758320331573	-0.4537028	Yes	
+row_10	NCAPG2	non-SMC condensin II complex subunit G2 [Source:HGNC Symbol;Acc:HGNC:21904]	null	null	8417	-0.22859203815460205	-0.41279867	Yes	
+row_11	PSMC2	proteasome 26S subunit, ATPase 2 [Source:HGNC Symbol;Acc:HGNC:9548]	null	null	8574	-0.24618090689182281	-0.3727426	Yes	
+row_12	SUPT16H	SPT16 homolog, facilitates chromatin remodeling subunit [Source:HGNC Symbol;Acc:HGNC:11465]	null	null	8657	-0.2545013427734375	-0.3237635	Yes	
+row_13	FEN1	flap structure-specific endonuclease 1 [Source:HGNC Symbol;Acc:HGNC:3650]	null	null	9398	-0.3530087471008301	-0.31562415	Yes	
+row_14	ZCCHC8	zinc finger CCHC-type containing 8 [Source:HGNC Symbol;Acc:HGNC:25265]	null	null	9724	-0.4113904535770416	-0.25482738	Yes	
+row_15	CENPU	centromere protein U [Source:HGNC Symbol;Acc:HGNC:21348]	null	null	9748	-0.41761091351509094	-0.16380607	Yes	
+row_16	SMC4	structural maintenance of chromosomes 4 [Source:HGNC Symbol;Acc:HGNC:14013]	null	null	9904	-0.4574538767337799	-0.07649499	Yes	
+row_17	PLK1	polo like kinase 1 [Source:HGNC Symbol;Acc:HGNC:9077]	null	null	10270	-0.592936635017395	0.021006437	Yes	

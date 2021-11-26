@@ -1,0 +1,31 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC9A2	solute carrier family 9 member A2 [Source:HGNC Symbol;Acc:HGNC:11072]	null	null	92	0.8519458770751953	0.10529663	Yes	
+row_1	KLHL2	kelch like family member 2 [Source:HGNC Symbol;Acc:HGNC:6353]	null	null	182	0.7048404216766357	0.1911799	Yes	
+row_2	CA2	carbonic anhydrase 2 [Source:HGNC Symbol;Acc:HGNC:1373]	null	null	412	0.5434306859970093	0.24206442	Yes	
+row_3	CTSK	cathepsin K [Source:HGNC Symbol;Acc:HGNC:2536]	null	null	430	0.5359593629837036	0.31221414	Yes	
+row_4	MID1IP1	MID1 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:20715]	null	null	620	0.4701751470565796	0.3571121	Yes	
+row_5	PIGT	phosphatidylinositol glycan anchor biosynthesis class T [Source:HGNC Symbol;Acc:HGNC:14938]	null	null	938	0.3950570225715637	0.37971446	Yes	
+row_6	NEURL1B	neuralized E3 ubiquitin protein ligase 1B [Source:HGNC Symbol;Acc:HGNC:35422]	null	null	1033	0.3786686956882477	0.4214394	Yes	
+row_7	GOLM1	golgi membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:15451]	null	null	1259	0.34245675802230835	0.4457922	Yes	
+row_8	TPPP3	tubulin polymerization promoting protein family member 3 [Source:HGNC Symbol;Acc:HGNC:24162]	null	null	1588	0.29321423172950745	0.45370442	Yes	
+row_9	FAM110C	family with sequence similarity 110 member C [Source:HGNC Symbol;Acc:HGNC:33340]	null	null	1597	0.29260358214378357	0.49212465	Yes	
+row_10	SCAMP1	secretory carrier membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:10563]	null	null	1707	0.27847930788993835	0.5189985	Yes	
+row_11	KIAA0100	KIAA0100 [Source:HGNC Symbol;Acc:HGNC:28960]	null	null	1775	0.2708003520965576	0.5488589	Yes	
+row_12	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	null	null	2195	0.22584238648414612	0.5390498	No	
+row_13	UNC119	unc-119 lipid binding chaperone [Source:HGNC Symbol;Acc:HGNC:12565]	null	null	3249	0.13441862165927887	0.45639133	No	
+row_14	BMPR2	bone morphogenetic protein receptor type 2 [Source:HGNC Symbol;Acc:HGNC:1078]	null	null	3278	0.13182109594345093	0.47136799	No	
+row_15	ANKRD50	ankyrin repeat domain 50 [Source:HGNC Symbol;Acc:HGNC:29223]	null	null	3472	0.11735019087791443	0.46863386	No	
+row_16	APPL2	adaptor protein, phosphotyrosine interacting with PH domain and leucine zipper 2 [Source:HGNC Symbol;Acc:HGNC:18242]	null	null	3495	0.11557647585868835	0.4820086	No	
+row_17	HSD11B2	hydroxysteroid 11-beta dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:5209]	null	null	3718	0.10101014375686646	0.47431406	No	
+row_18	CDH11	cadherin 11 [Source:HGNC Symbol;Acc:HGNC:1750]	null	null	3772	0.09703266620635986	0.48224208	No	
+row_19	NQO1	NAD(P)H quinone dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:2874]	null	null	3966	0.08264593780040741	0.4748604	No	
+row_20	ZFHX3	zinc finger homeobox 3 [Source:HGNC Symbol;Acc:HGNC:777]	null	null	4209	0.06382504850625992	0.4602742	No	
+row_21	SH3BP4	SH3 domain binding protein 4 [Source:HGNC Symbol;Acc:HGNC:10826]	null	null	4225	0.06289359927177429	0.46726292	No	
+row_22	UBE2Q2	ubiquitin conjugating enzyme E2 Q2 [Source:HGNC Symbol;Acc:HGNC:19248]	null	null	4324	0.055691372603178024	0.4653529	No	
+row_23	CSNK1A1	casein kinase 1 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2451]	null	null	4870	0.021138111129403114	0.4160854	No	
+row_24	DKK3	dickkopf WNT signaling pathway inhibitor 3 [Source:HGNC Symbol;Acc:HGNC:2893]	null	null	5527	-0.02281646430492401	0.35643184	No	
+row_25	SYNJ2BP	synaptojanin 2 binding protein [Source:HGNC Symbol;Acc:HGNC:18955]	null	null	6132	-0.06167343631386757	0.30695277	No	
+row_26	ZNF395	zinc finger protein 395 [Source:HGNC Symbol;Acc:HGNC:18737]	null	null	6463	-0.08190532773733139	0.28637564	No	
+row_27	VEZF1	vascular endothelial zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:12949]	null	null	7163	-0.13253253698349	0.23730458	No	
+row_28	PRKD1	protein kinase D1 [Source:HGNC Symbol;Acc:HGNC:9407]	null	null	9008	-0.29513242840766907	0.10055445	No	
+row_29	ECI1	enoyl-CoA delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:2703]	null	null	9104	-0.3062996566295624	0.13249226	No	

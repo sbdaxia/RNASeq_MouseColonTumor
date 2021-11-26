@@ -1,0 +1,40 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KMT5B	lysine methyltransferase 5B [Source:HGNC Symbol;Acc:HGNC:24283]	null	null	576	0.4843079447746277	-0.0022461861	No	
+row_1	ITPR2	inositol 1,4,5-trisphosphate receptor type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	null	null	852	0.4121531844139099	0.01643015	No	
+row_2	CTDSP1	CTD small phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:21614]	null	null	1186	0.35308200120925903	0.023109611	No	
+row_3	SESTD1	SEC14 and spectrin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:18379]	null	null	1530	0.30158254504203796	0.023211077	No	
+row_4	TUBB4B	tubulin beta 4B class IVb [Source:HGNC Symbol;Acc:HGNC:20771]	null	null	2493	0.1960391253232956	-0.04743078	No	
+row_5	SORBS2	sorbin and SH3 domain containing 2 [Source:HGNC Symbol;Acc:HGNC:24098]	null	null	3096	0.1456300914287567	-0.08913168	No	
+row_6	MAZ	MYC associated zinc finger protein [Source:HGNC Symbol;Acc:HGNC:6914]	null	null	3623	0.10676909238100052	-0.12780298	No	
+row_7	NCBP3	nuclear cap binding subunit 3 [Source:HGNC Symbol;Acc:HGNC:24612]	null	null	3852	0.08998005837202072	-0.13979554	No	
+row_8	MSI2	musashi RNA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:18585]	null	null	3991	0.08066094666719437	-0.1441945	No	
+row_9	DHX9	DExH-box helicase 9 [Source:HGNC Symbol;Acc:HGNC:2750]	null	null	4056	0.07577762007713318	-0.1420465	No	
+row_10	EIF4A1	eukaryotic translation initiation factor 4A1 [Source:HGNC Symbol;Acc:HGNC:3282]	null	null	4295	0.05795319750905037	-0.1584916	No	
+row_11	TOP2B	DNA topoisomerase II beta [Source:HGNC Symbol;Acc:HGNC:11990]	null	null	4995	0.013469538651406765	-0.22389852	No	
+row_12	CDK6	cyclin dependent kinase 6 [Source:HGNC Symbol;Acc:HGNC:1777]	null	null	5047	0.009636202827095985	-0.22772616	No	
+row_13	INPPL1	inositol polyphosphate phosphatase like 1 [Source:HGNC Symbol;Acc:HGNC:6080]	null	null	5781	-0.03797900304198265	-0.29371083	No	
+row_14	RFX7	regulatory factor X7 [Source:HGNC Symbol;Acc:HGNC:25777]	null	null	5857	-0.04249950498342514	-0.2962476	No	
+row_15	CHDH	choline dehydrogenase [Source:HGNC Symbol;Acc:HGNC:24288]	null	null	5912	-0.046064432710409164	-0.2963861	No	
+row_16	ARID1B	AT-rich interaction domain 1B [Source:HGNC Symbol;Acc:HGNC:18040]	null	null	6261	-0.06915246695280075	-0.32213306	No	
+row_17	NAP1L1	nucleosome assembly protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:7637]	null	null	6305	-0.07186660915613174	-0.31840277	No	
+row_18	MBNL3	muscleblind like splicing regulator 3 [Source:HGNC Symbol;Acc:HGNC:20564]	null	null	7084	-0.1266889125108719	-0.37901	No	
+row_19	ATP5F1B	ATP synthase F1 subunit beta [Source:HGNC Symbol;Acc:HGNC:830]	null	null	7492	-0.15834574401378632	-0.40066627	No	
+row_20	KHDRBS1	KH RNA binding domain containing, signal transduction associated 1 [Source:HGNC Symbol;Acc:HGNC:18116]	null	null	7830	-0.1826501041650772	-0.4129724	No	
+row_21	MLXIP	MLX interacting protein [Source:HGNC Symbol;Acc:HGNC:17055]	null	null	8378	-0.22380560636520386	-0.44087818	Yes	
+row_22	MAPK4	mitogen-activated protein kinase 4 [Source:HGNC Symbol;Acc:HGNC:6878]	null	null	8440	-0.23092932999134064	-0.4215081	Yes	
+row_23	MGME1	mitochondrial genome maintenance exonuclease 1 [Source:HGNC Symbol;Acc:HGNC:16205]	null	null	8606	-0.24917130172252655	-0.41009718	Yes	
+row_24	HMGB2	high mobility group box 2 [Source:HGNC Symbol;Acc:HGNC:5000]	null	null	8614	-0.2503524422645569	-0.38344058	Yes	
+row_25	TIA1	TIA1 cytotoxic granule associated RNA binding protein [Source:HGNC Symbol;Acc:HGNC:11802]	null	null	8621	-0.2508167028427124	-0.35663766	Yes	
+row_26	MYB	MYB proto-oncogene, transcription factor [Source:HGNC Symbol;Acc:HGNC:7545]	null	null	8708	-0.26002034544944763	-0.33648416	Yes	
+row_27	HNRNPH1	heterogeneous nuclear ribonucleoprotein H1 [Source:HGNC Symbol;Acc:HGNC:5041]	null	null	8714	-0.26051509380340576	-0.30852696	Yes	
+row_28	SMC2	structural maintenance of chromosomes 2 [Source:HGNC Symbol;Acc:HGNC:14011]	null	null	8973	-0.29039716720581055	-0.30151397	Yes	
+row_29	PCNA	proliferating cell nuclear antigen [Source:HGNC Symbol;Acc:HGNC:8729]	null	null	9122	-0.30915582180023193	-0.28192917	Yes	
+row_30	SCAF11	SR-related CTD associated factor 11 [Source:HGNC Symbol;Acc:HGNC:10784]	null	null	9212	-0.3204599916934967	-0.25546563	Yes	
+row_31	ANP32A	acidic nuclear phosphoprotein 32 family member A [Source:HGNC Symbol;Acc:HGNC:13233]	null	null	9287	-0.3325296938419342	-0.22624953	Yes	
+row_32	RPRD2	regulation of nuclear pre-mRNA domain containing 2 [Source:HGNC Symbol;Acc:HGNC:29039]	null	null	9400	-0.3530366122722626	-0.19843075	Yes	
+row_33	TMPO	thymopoietin [Source:HGNC Symbol;Acc:HGNC:11875]	null	null	9435	-0.3580624759197235	-0.1626007	Yes	
+row_34	NSD2	nuclear receptor binding SET domain protein 2 [Source:HGNC Symbol;Acc:HGNC:12766]	null	null	9658	-0.3986745774745941	-0.14032476	Yes	
+row_35	CDK5RAP2	CDK5 regulatory subunit associated protein 2 [Source:HGNC Symbol;Acc:HGNC:18672]	null	null	9744	-0.41680553555488586	-0.10296227	Yes	
+row_36	STAT2	signal transducer and activator of transcription 2 [Source:HGNC Symbol;Acc:HGNC:11363]	null	null	9932	-0.4625176787376404	-0.07036914	Yes	
+row_37	ETS2	ETS proto-oncogene 2, transcription factor [Source:HGNC Symbol;Acc:HGNC:3489]	null	null	10086	-0.504884660243988	-0.029898629	Yes	
+row_38	IFITM2	interferon induced transmembrane protein 2 [Source:HGNC Symbol;Acc:HGNC:5413]	null	null	10323	-0.627163827419281	0.015977763	Yes	

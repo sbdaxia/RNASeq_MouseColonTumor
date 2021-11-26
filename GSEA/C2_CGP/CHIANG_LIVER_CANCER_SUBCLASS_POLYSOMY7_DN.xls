@@ -1,0 +1,20 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BAMBI	BMP and activin membrane bound inhibitor [Source:HGNC Symbol;Acc:HGNC:30251]	null	null	5	1.3871490955352783	0.2502674	Yes	
+row_1	ASAP1	ArfGAP with SH3 domain, ankyrin repeat and PH domain 1 [Source:HGNC Symbol;Acc:HGNC:2720]	null	null	17	1.1390166282653809	0.4551087	Yes	
+row_2	SERPINB1	serpin family B member 1 [Source:HGNC Symbol;Acc:HGNC:3311]	null	null	451	0.5279015898704529	0.50918525	Yes	
+row_3	PAG1	phosphoprotein membrane anchor with glycosphingolipid microdomains 1 [Source:HGNC Symbol;Acc:HGNC:30043]	null	null	527	0.5026521682739258	0.5928841	Yes	
+row_4	GNL3	G protein nucleolar 3 [Source:HGNC Symbol;Acc:HGNC:29931]	null	null	2180	0.22709645330905914	0.47618064	No	
+row_5	AACS	acetoacetyl-CoA synthetase [Source:HGNC Symbol;Acc:HGNC:21298]	null	null	2279	0.21623054146766663	0.5059088	No	
+row_6	FAM171A1	family with sequence similarity 171 member A1 [Source:HGNC Symbol;Acc:HGNC:23522]	null	null	3542	0.11270593106746674	0.40576997	No	
+row_7	AKR1B10	aldo-keto reductase family 1 member B10 [Source:HGNC Symbol;Acc:HGNC:382]	null	null	3553	0.11204979568719864	0.42506948	No	
+row_8	PHACTR2	phosphatase and actin regulator 2 [Source:HGNC Symbol;Acc:HGNC:20956]	null	null	4456	0.04549291357398033	0.34715843	No	
+row_9	RBIS	ribosomal biogenesis factor [Source:HGNC Symbol;Acc:HGNC:32235]	null	null	4531	0.040677767246961594	0.347445	No	
+row_10	PLOD2	procollagen-lysine,2-oxoglutarate 5-dioxygenase 2 [Source:HGNC Symbol;Acc:HGNC:9082]	null	null	5088	0.005952597130089998	0.29542705	No	
+row_11	HOMER1	homer scaffold protein 1 [Source:HGNC Symbol;Acc:HGNC:17512]	null	null	5648	-0.029191747307777405	0.24732338	No	
+row_12	MOB1B	MOB kinase activator 1B [Source:HGNC Symbol;Acc:HGNC:29801]	null	null	6078	-0.0579574815928936	0.21683353	No	
+row_13	ROBO1	roundabout guidance receptor 1 [Source:HGNC Symbol;Acc:HGNC:10249]	null	null	6094	-0.059072911739349365	0.22607933	No	
+row_14	RHOBTB1	Rho related BTB domain containing 1 [Source:HGNC Symbol;Acc:HGNC:18738]	null	null	6263	-0.06922978162765503	0.2225507	No	
+row_15	SLC38A1	solute carrier family 38 member 1 [Source:HGNC Symbol;Acc:HGNC:13447]	null	null	7875	-0.18721424043178558	0.102553256	No	
+row_16	RCN1	reticulocalbin 1 [Source:HGNC Symbol;Acc:HGNC:9934]	null	null	7921	-0.19029788672924042	0.13265485	No	
+row_17	CARD6	caspase recruitment domain family member 6 [Source:HGNC Symbol;Acc:HGNC:16394]	null	null	9059	-0.30088600516319275	0.07846857	No	
+row_18	CERS6	ceramide synthase 6 [Source:HGNC Symbol;Acc:HGNC:23826]	null	null	9217	-0.3213379383087158	0.12156213	No	
